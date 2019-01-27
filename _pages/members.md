@@ -15,6 +15,9 @@ permalink: /members.html
 * [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande/) (Ph.D.)
 * [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923/) (Ph.D.)
 * Vijay Kumar Samayamantula (M.S.)
+* Victoria Nagorski (Undergraduate Researcher)
+* Jillian Sears (Undergraduate Researcher)
+* Charles Conrad (Undergraduate Researcher)
 
 ## Former Members
 

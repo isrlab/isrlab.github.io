@@ -25,7 +25,6 @@ A tensegrity system is an arrangement of axially-loaded elements (no element ben
 
 **Selected Papers**
 1. MATLAB Toolbox [STEDY](https://github.com/uqLab/stedy) for modeling and simulating tensegrity systems. 
-1. Shao-Chen Hsu, Vaishnav Tadiparthi and Raktim Bhattacharya, A Lagrangian Formulation for Constrained Multibody Dynamics in Tensegrity Systems, **Under Review**.
 
 
 ## Asynchronous Numerical Algorithms for Exascale Computing
