@@ -3,8 +3,10 @@ layout: page
 title: Home
 permalink: /index.html
 ---
-  Welcome to the Laboratory for Uncertainty Quantification at Texas A&M University. We focus on understanding the influence of uncertainty in engineering systems and developing algorithms to control them in the presence of such uncertainties. We consider uncertainty in dynamics, communication and computation in our research. Fundamentals from optimization theory, approximation theory, control & estimation theory, and information theory are applied to develop new modeling, analysis and synthesis tools for designing robust engineering systems. The following are  highlights from our research.
-  
+  Welcome to the Intelligent Systems Research Laboratory at Texas A&M University. We focus on developing
+  advanced algorithms and analytical methods for designing next generation autonomous systems operating in uncertain dynamic environments. Below are highlights from our recent work.
+   
+
 ## Real-Time Predictive Analytics for Space Situational Awareness
 Space situational awareness is concerned with tracking of space objects and classifying it with respect to certain characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non Gaussian uncertainty supported on cylindrical coordinate systems $\mathbb{R}^5\times\mathbb{S}$, sparse sensing and unknown sensor characteristics. These algorithms are used for conjunction analysis, which is the process of predicting upcoming object encounters in an effort to notify satellite operators and avoid high risk encounters. This work is been funded by AFOSR.
 
