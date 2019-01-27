@@ -7,7 +7,7 @@ li {
 
 
 body {
-	font-family: 'Pontano Sans', sans-serif;
+	font-family: sans-serif;
 	font-size: 95%;
 	margin: 1em;
 	background-color: #EEEEEE;
@@ -94,9 +94,7 @@ p b {
 
 div.container {
     width: device-width;
-    border: 0px;
-	font-family: sans-serif
-	
+    border: 0px;	
 }
 
 #wrap {
