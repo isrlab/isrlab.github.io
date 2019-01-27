@@ -7,7 +7,7 @@ li {
 
 
 body {
-	font-family: 'Open Sans Condensed:300', sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 95%;
 	margin: 1em;
 	background-color: #EEEEEE;
@@ -33,14 +33,14 @@ a {
 }
 
 h1 {
-  font-family: 'Lato-Black', sans-serif;  font-size: 175%;
+  font-family: 'Open Sans Condensed Bold', sans-serif;  font-size: 175%;
   border: none;
   color: #333333;
   font-weight: Black;
 }
 
 h2 {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 140%;
   border: none;
 	color: #236bb2;
@@ -48,7 +48,7 @@ h2 {
 }
 
 h3 {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
   font-size: 100%;
   border: none;
 	color: #333333;
