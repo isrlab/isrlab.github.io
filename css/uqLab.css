@@ -69,6 +69,7 @@ div.blocktitle {
 div.blockcontent {
     border: none;
 		font-size: 90%;
+		font-family: 'Lato', sans-serif;
 }
 
 div.infoblock > div.blockcontent {
