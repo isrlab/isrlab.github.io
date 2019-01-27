@@ -1,0 +1,13 @@
+<aside>		
+	<div class="container">
+			<img align="left" src = "/images/uqlogo.png" style="max-width:400px; width:100%;"/>
+			<br><br><br><br><br><br>
+		<nav><hr>
+			<ul>
+				{% for page in site.pages %} {% if page.title %}
+				<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> | 
+				{% endif %} {% endfor %}
+			</ul>			<hr>
+		</nav>
+	</div>
+</aside>
