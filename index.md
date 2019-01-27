@@ -8,7 +8,7 @@ permalink: /index.html
    
 
 ## Real-Time Predictive Analytics for Space Situational Awareness
-Space situational awareness is concerned with tracking of space objects and classifying it with respect to certain characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non Gaussian uncertainty supported on cylindrical coordinate systems $\mathbb{R}^5\times\mathbb{S}$, sparse sensing and unknown sensor characteristics. These algorithms are used for conjunction analysis, which is the process of predicting upcoming object encounters in an effort to notify satellite operators and avoid high risk encounters. This work is been funded by AFOSR.
+Space situational awareness is concerned with tracking of space objects and classifying it with respect to certain characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non Gaussian uncertainty supported on cylindrical coordinate systems $\mathbb{R}^5\times\mathbb{S}$, sparse sensing and unknown sensor characteristics. These algorithms are used for conjunction analysis, which is the process of predicting upcoming object encounters in an effort to notify satellite operators and avoid high risk encounters. This work is been funded by AFOSR and Intelligent Fusion Technology.
 
 <img class="mySlides" src="images/ssa.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
@@ -17,18 +17,20 @@ Space situational awareness is concerned with tracking of space objects and clas
 1. N. Das, R. Bhattacharya, Sparse Sensing Architecture for Kalman Filtering with Guaranteed Error Bound, **1st IAA Conference on Space Situational Awareness (ICSSA)**, Orlando, FL, USA, 2017.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds) (under review)
 
+## Unmanned Aerial Systems
+Out lab has expertise in designing custom aerial platforms for various needs. Our research integrates aerodynamics, structural design and flight control design in a single unified framework. The objective is to develop next generation tools for rapid custom design of high confidence unmanned air vehicles for various industries including defense, oil & gas, and precision agriculture. The vision is to codesign much of the system engineering aspect by integrating state-of-the-art in computational fluid dynamics, structural mechanics, robust control theory, CAD software and 3D printing. The application focus is currently on aerospace systems, but can be extended to general autonomous systems.
 
-## Tensegrity Systems
-A tensegrity system is an arrangement of axially-loaded elements (no element bends, even though the overall structure bends), that we loosely characterize as a network of bars and cables. The bars take compressive axial load and the cables take tensile load. Tensegrity structures can be designed to be extremely light, for a given stiffness. In our research, we focus on efficient multi-body modeling and control of tensegrity systems. Applications considered include dexterous robotics, biomimetic air vehicles, all terrain ground robots, prosthetics, and exoskeleton. This work is been funded by NSF and NASA.
-
-<img class="mySlides" src="images/tensegrity.png" style="display:block; margin:auto; width:100%;max-width:960px">
+<img class="mySlides" src="images/ideas.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
 **Selected Papers**
-1. MATLAB Toolbox [STEDY](https://github.com/uqLab/stedy) for modeling and simulating tensegrity systems. 
+1. S. C. Hsu, R. Bhattacharya, [Design of Stochastic Collocation Based Linear Parameter Varying Quadratic Regulator](https://www.researchgate.net/publication/314088074_Design_of_Stochastic_Collocation_Based_Linear_Parameter_Varying_Quadratic_Regulator), **American Control Conference**, 2017.
+1. A. Halder, K. Lee, and R. Bhattacharya, Optimal Transport Approach for Probabilistic Robustness Analysis of F-16 Controllers, **AIAA Journal of Guidance, Control, and Dynamics**, 2015.
+1. R. Bhattacharya, S. Mijanovic , E. Scholte , A. Ferrari , M. Huzmezan, M. Lelic, M. Atalla, Rigorous Design of Real-Time Embedded Control Systems, **IEEE Advanced Process Control Applications for Industry**, Vancouver, May, 2006.
+1. R. Bhattacharya, G. J. Balas, [Implementation of Online Control Customization within the Open Control Platform, Software-Enabled Control: Information Technologies for Dynamical Systems](https://www.amazon.com/Software-Enabled-Control-Information-Technology-Dynamical/dp/0471234362), A John Wiley/IEEE Press Publication, 2003.
+1. R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](https://arc.aiaa.org/doi/10.2514/2.4965), **Journal of Guidance, Control, and Dynamics**, Vol. 25, No. 5, pp. 924-931, 2002.
 
 
 ## Asynchronous Numerical Algorithms for Exascale Computing
-
 Future exascale machines are expected to have $10^5--10^6$ processors, providing a deep hierarchy of systems and resources. However, many challenges exist, which must be overcome before exascale systems can be utilized as an effective tool to further understanding critical scientific inquires. Among the main obstacle to scale code to exascale levels, is the communication necessary in tightly coupled problems, for example in **uncertainty propagation, turbulence flow simulations at high Reynolds numbers, and large-scale convex optimization**. The synchronization across processors can cause 50-80% processor idle time. In our research, we focus on asynchronous numerical algorithms that do not wait for data to be synchronized. Communication between processor is modeled as a stochastic channel, and the behaviour of the numerical algorithm is analyzed in a stochastic jump dynamical system framework. This work has been funded by NSF.
 
 <img class="mySlides" src="images/async.png" style="display:block; margin:auto; width:100%;max-width:960px">
@@ -37,6 +39,14 @@ Future exascale machines are expected to have $10^5--10^6$ processors, providing
 1. K. Lee, R. Bhattacharya, J. Dass, V. Sakuru, and R. Mahapatra, [A Relaxed Synchronization Approach for Solving Parallel Quadratic Programming Problems with Guaranteed Convergence](https://ieeexplore.ieee.org/document/7516014/), **IPDPS**, Chicago,2016.
 2. K. Lee and R. Bhattacharya, [On the Relaxed Synchronization for Massively Parallel Numerical Algorithms](https://www.researchgate.net/publication/301650726_On_the_Relaxed_Synchronization_for_Massively_Parallel_Numerical_Algorithms), **American Control Conference**, 2016.
 3. K. Lee, R. Bhattacharya, and V. Gupta, [A Switched Dynamical System Framework for Analysis of Massively Parallel Asynchronous Numerical Algorithms](https://www.researchgate.net/publication/273640349_A_Switched_Dynamical_System_Framework_for_Analysis_of_Massively_Parallel_Asynchronous_Numerical_Algorithms), **ACC**, 2015.
+
+## Tensegrity Systems
+A tensegrity system is an arrangement of axially-loaded elements (no element bends, even though the overall structure bends), that we loosely characterize as a network of bars and cables. The bars take compressive axial load and the cables take tensile load. Tensegrity structures can be designed to be extremely light, for a given stiffness. In our research, we focus on efficient multi-body modeling and control of tensegrity systems. Applications considered include dexterous robotics, biomimetic air vehicles, all terrain ground robots, prosthetics, and exoskeleton. This work is been funded by NSF and NASA.
+
+<img class="mySlides" src="images/tensegrity.png" style="display:block; margin:auto; width:100%;max-width:960px">
+
+**Selected Papers**
+1. MATLAB Toolbox [STEDY](https://github.com/uqLab/stedy) for modeling and simulating tensegrity systems. 
 
 
 ## Robust Cyber Physical Systems
@@ -63,17 +73,3 @@ Hypersonic flight leading to entry descent landing of a large spacecraft on the 
 2. P. Dutta & R. Bhattacharya, [Nonlinear Estimation of Hypersonic State Trajectories in Bayesian Framework with Polynomial Chaos](https://arc.aiaa.org/doi/10.2514/1.49743), **Journal of Guidance, Control, and Dynamics**, vol.33 no.6 (1765-1778), 2011.
 3. P. Dutta & R. Bhattacharya, [Hypersonic State Estimation Using Frobenius-Perron Operator](https://arc.aiaa.org/doi/10.2514/1.52184), **AIAA Journal of Guidance, Control, and Dynamics**,Volume 34, Number 2, 2011.
 4. J. Fisher, R. Bhattacharya, [Linear Quadratic Regulation of Systems with Stochastic Parameter Uncertainties](https://www.sciencedirect.com/science/article/pii/S0005109809004622?via%3Dihub), **Automatica**, 2009.
-
-## Unmanned Aerial Systems
-Out lab has expertise in designing custom aerial platforms for various needs. Our research integrates aerodynamics, structural design and flight control design in a single unified framework. The objective is to develop next generation tools for rapid custom design of high confidence unmanned air vehicles for various industries including defense, oil & gas, and precision agriculture. The vision is to codesign much of the system engineering aspect by integrating state-of-the-art in computational fluid dynamics, structural mechanics, robust control theory, CAD software and 3D printing. The application focus is currently on aerospace systems, but can be extended to general autonomous systems.
-
-<img class="mySlides" src="images/ideas.png" style="display:block; margin:auto; width:100%;max-width:960px">
-
-**Selected Papers**
-1. S. C. Hsu, R. Bhattacharya, [Design of Stochastic Collocation Based Linear Parameter Varying Quadratic Regulator](https://www.researchgate.net/publication/314088074_Design_of_Stochastic_Collocation_Based_Linear_Parameter_Varying_Quadratic_Regulator), **American Control Conference**, 2017.
-1. A. Halder, K. Lee, and R. Bhattacharya, Optimal Transport Approach for Probabilistic Robustness Analysis of F-16 Controllers, **AIAA Journal of Guidance, Control, and Dynamics**, 2015.
-1. R. Bhattacharya, S. Mijanovic , E. Scholte , A. Ferrari , M. Huzmezan, M. Lelic, M. Atalla, Rigorous Design of Real-Time Embedded Control Systems, **IEEE Advanced Process Control Applications for Industry**, Vancouver, May, 2006.
-1. R. Bhattacharya, G. J. Balas, [Implementation of Online Control Customization within the Open Control Platform, Software-Enabled Control: Information Technologies for Dynamical Systems](https://www.amazon.com/Software-Enabled-Control-Information-Technology-Dynamical/dp/0471234362), A John Wiley/IEEE Press Publication, 2003.
-1. R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](https://arc.aiaa.org/doi/10.2514/2.4965), **Journal of Guidance, Control, and Dynamics**, Vol. 25, No. 5, pp. 924-931, 2002.
-
-
