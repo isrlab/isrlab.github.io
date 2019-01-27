@@ -4,7 +4,7 @@ title: Home
 permalink: /index.html
 ---
   Welcome to the Intelligent Systems Research Laboratory at Texas A&M University. We focus on developing
-  advanced algorithms and analytical methods for designing next generation autonomous systems operating in uncertain dynamic environments. Below are highlights from our recent work.
+  advanced algorithms and analytical methods for designing next generation autonomous systems, operating in uncertain dynamic environments. Below are highlights from our recent work.
    
 
 ## Real-Time Predictive Analytics for Space Situational Awareness
