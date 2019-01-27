@@ -40,7 +40,7 @@ Future exascale machines are expected to have $10^5--10^6$ processors, providing
 3. K. Lee, R. Bhattacharya, and V. Gupta, [A Switched Dynamical System Framework for Analysis of Massively Parallel Asynchronous Numerical Algorithms](https://www.researchgate.net/publication/273640349_A_Switched_Dynamical_System_Framework_for_Analysis_of_Massively_Parallel_Asynchronous_Numerical_Algorithms), **ACC**, 2015.
 
 
-## Uncertainty Quantification in Cyber Physical Systems
+## Robust Cyber Physical Systems
 Cyber physical systems have strong coupling between physics, communication and computation. In our research, we develop algorithms for quantifying uncertainty in system behaviour due uncertainties in the physics (unmodelled dynamics, process and sensor noise), communication (irregular channels, packet loss, etc), computation (jitter in real-time tasks, CPU transients, etc). The system level behaviour is modeled as a stochastic jump system and new uncertainty propagation algorithms for such jump systems are developed. New stochastic scheduling algorithms are developed that switch between computational tasks to ensure system-level robustness. This work has been funded by NSF.
 
 <img class="mySlides" src="images/cps.png" style="display:block; margin:auto; width:100%;max-width:960px">
@@ -65,8 +65,8 @@ Hypersonic flight leading to entry descent landing of a large spacecraft on the 
 3. P. Dutta & R. Bhattacharya, [Hypersonic State Estimation Using Frobenius-Perron Operator](https://arc.aiaa.org/doi/10.2514/1.52184), **AIAA Journal of Guidance, Control, and Dynamics**,Volume 34, Number 2, 2011.
 4. J. Fisher, R. Bhattacharya, [Linear Quadratic Regulation of Systems with Stochastic Parameter Uncertainties](https://www.sciencedirect.com/science/article/pii/S0005109809004622?via%3Dihub), **Automatica**, 2009.
 
-## Integrated Design & Engineering of Aerospace Systems
-IDEAS is a multidisciplinary applied research initiative that integrates aerodynamics, structural design and flight control design in a single unified framework. The objective is to develop next generation tools for rapid custom design of high confidence unmanned air vehicles for various industries including defense, oil & gas, and precision agriculture. The vision is to codesign much of the system engineering aspect by integrating state-of-the-art in computational fluid dynamics, structural mechanics, robust control theory, CAD software and 3D printing. The application focus is currently on aerospace systems, but can be extended to general autonomous systems.
+## Unmanned Aerial Systems
+Out lab has expertise in designing custom aerial platforms for various needs. Our research integrates aerodynamics, structural design and flight control design in a single unified framework. The objective is to develop next generation tools for rapid custom design of high confidence unmanned air vehicles for various industries including defense, oil & gas, and precision agriculture. The vision is to codesign much of the system engineering aspect by integrating state-of-the-art in computational fluid dynamics, structural mechanics, robust control theory, CAD software and 3D printing. The application focus is currently on aerospace systems, but can be extended to general autonomous systems.
 
 <img class="mySlides" src="images/ideas.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
