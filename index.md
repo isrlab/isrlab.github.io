@@ -46,7 +46,7 @@ A tensegrity system is an arrangement of axially-loaded elements (no element ben
 <img class="mySlides" src="images/tensegrity.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
 **Selected Papers**
-1. MATLAB Toolbox [STEDY](https://github.com/uqLab/stedy) for modeling and simulating tensegrity systems. 
+1. V. Tadiparthi, S. C. Hsu, R. Bhattacharya, [Software for Tensegrity Dynamics](http://joss.theoj.org/papers/10.21105/joss.01042#), The Journal of Open Source Software, 2019. 
 
 
 ## Robust Cyber Physical Systems
