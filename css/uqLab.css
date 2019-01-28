@@ -1,7 +1,7 @@
 
 li {
   font-family: 'Pontano Sans' , sans-serif;
-  font-size: 90%;
+  font-size: 95%;
   border: none;
 }
 
@@ -68,7 +68,7 @@ div.blocktitle {
 
 div.blockcontent {
     border: none;
-		font-size: 90%;
+	font-size: 90%;
 }
 
 div.infoblock > div.blockcontent {
@@ -81,7 +81,7 @@ div.codeblock > div.blockcontent, div.blockcontent pre {
 
 body, p {
   line-height: 1.5em;
-	margin-bottom: 1.2em;
+  margin-bottom: 1.2em;
 }
 
 b {
