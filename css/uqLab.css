@@ -69,6 +69,7 @@ div.blocktitle {
 div.blockcontent {
     border: none;
 	font-size: 90%;
+	font-family: 'Pontano Sans', sans-serif;
 }
 
 div.infoblock > div.blockcontent {
@@ -130,12 +131,13 @@ nav {
     margin: 0em;
     padding: 0em;
 	text-align: left;
+	font-family: 'Pontano Sans', sans-serif;
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
-		font-family:Helvetica;
+	font-family: 'Pontano Sans', sans-serif;
 }
 
 nav ul a {
