@@ -18,8 +18,8 @@ Under Review
 7. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds)
 -->
 
-
-1. N. Das, V. Deshpande, R. Bhattacharya, [Optimal Transport based Tracking of Space Objects using Range Data from a Single Ranging Station](https://www.researchgate.net/publication/329487928_Optimal_Transport_based_Tracking_of_Space_Objects_using_Range_Data_from_a_Single_Ranging_Station), **AIAA JGCD**, 2019.
+1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
+1. N. Das, V. Deshpande, R. Bhattacharya, [Optimal Transport based Tracking of Space Objects using Range Data from a Single Ranging Station](https://www.researchgate.net/publication/329487928_Optimal_Transport_based_Tracking_of_Space_Objects_using_Range_Data_from_a_Single_Ranging_Station), **AIAA Journal of Guidance, Control, and Dynamics**, 2019.
 1. V. Tadiparthi, S. C. Hsu, R. Bhattacharya, [Software for Tensegrity Dynamics](http://joss.theoj.org/papers/10.21105/joss.01042#), **The Journal of Open Source Software**, 2019.
 1. K. Lee, R. Bhattacharya, On the Uniqueness of Stationary Solutions of an Asynchronous Parallel and Distributed Algorithm for Diffusion Equations, **IEEE CCWC**, 2019.
 1. K. Lee, R. Bhattacharya, Design of Resource-Optimal Switching for Resource-Constrained Dynamical Systems, **International Journal of Control, Automation, and Systems**,  Vol 16, No 3, June 2018.
