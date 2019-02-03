@@ -21,34 +21,37 @@ permalink: /members.html
 
 ## Former Members
 
-### Ph.D.
-1. [James Fisher](https://www.linkedin.com/in/james-fisher-0ba9798b) (2008)
-1. [Baljeet Singh](http://www.linkedin.com/pub/baljeet-singh/18/9b8/903) (2010)
-1. [Parikshit Dutta](http://www.linkedin.com/pub/parikshit-dutta/13/62b/7a8) (2011)
-1. [Zhenchun Xia](http://www.linkedin.com/pub/zhenchun-xia/10/633/129) (2012)
-1. [Abhishek Halder](https://www.abhishekhalder.org) (2014)
-1. [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015)
+<table>
+ <td>
+ <h3> Ph.D </h3>
+ <a href="https://www.linkedin.com/in/james-fisher-0ba9798b"> James Fisher </a> (2008) <br>
+ <a href="http://www.linkedin.com/pub/baljeet-singh/18/9b8/903"> Baljeet Singh </a> (2010) <br>
+ <a href="http://www.linkedin.com/pub/parikshit-dutta/13/62b/7a8"> Parikshit Dutta </a> (2011) <br>
+ <a href="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a> (2012) <br>
+ <a href="https://www.abhishekhalder.org"> Abhishek Halder </a> (2014) <br>
+ <a href="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> (2015)
+ </td>
+ <h3> M.S </h3>
+ <a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim </a> (2007) <br>
+ <a href="http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464"> Avinash Prabhakar </a> (2008) <br>
+ Luis Arturo Ruiz Brito (2009) <br>
+ <a href="hhttp://www.linkedin.com/in/ericdbw"> Eric Wendel </a> (2012) <br>
+ Kyungeun Kevin Kim (2013) <br>
+ <a href="http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap"> Michael Young </a> (2016)
+ <a href="https://www.linkedin.com/in/justinbarnes2013"> Justin Barnes </a> (2016)
+ <a href="https://in.linkedin.com/in/radhika-saraf-93232498"> Radhika Saraf </a> (2017)
+ <a href="https://www.linkedin.com/in/jwkim8804"> Jaewon Kim </a> (2017) 
+ <a href="https://www.linkedin.com/in/aritrabiswas"> Aritra Biswas </a> (2017) 
+ </td>
 
-### M.S.
-1. [Amos Kim](http://www.linkedin.com/pub/amos-kim/2b/63a/69) (2007)
-1. [Avinash Prabhakar](http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464) (2008)
-1. Luis Arturo Ruiz Brito (2009)
-1. [Eric Wendel](http://www.linkedin.com/in/ericdbw) (2012)
-1. Kyungeun Kevin Kim (2013)
-1. [Michael Young](http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap) (2016)
-1. [Justin Barnes](https://www.linkedin.com/in/justinbarnes2013) (2016)
-1. [Radhika Saraf](https://in.linkedin.com/in/radhika-saraf-93232498) (2017)
-1. [Jaewon Kim](https://www.linkedin.com/in/jwkim8804) (2017)
-1. [Aritra Biswas](https://www.linkedin.com/in/aritrabiswas) (2017)
+</table>
 
 ### M.E.
-1. [Ryan Falcona](https://www.linkedin.com/in/ryan-falcona-952316146/) (2017)
-1. [Noah Lawrence](https://www.linkedin.com/in/noah-lawrence-abab34171) (2018) 
+> [Ryan Falcona](https://www.linkedin.com/in/ryan-falcona-952316146/) (2017), [Noah Lawrence](https://www.linkedin.com/in/noah-lawrence-abab34171) (2018) 
 
 
 ### Post-Doc
-1. [Prasenjit Sengupta](http://www.linkedin.com/in/prasenjitsengupta) (2007-2008)
-1. [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015-2016)
+> [Prasenjit Sengupta](http://www.linkedin.com/in/prasenjitsengupta) (2007-2008), [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015-2016)
 
 
 ### Undergraduate 
