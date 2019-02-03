@@ -31,6 +31,7 @@ permalink: /members.html
  <a href="https://www.abhishekhalder.org"> Abhishek Halder </a> (2014) <br>
  <a href="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> (2015)
  </td>
+ <td>
  <h3> M.S </h3>
  <a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim </a> (2007) <br>
  <a href="http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464"> Avinash Prabhakar </a> (2008) <br>
@@ -43,7 +44,6 @@ permalink: /members.html
  <a href="https://www.linkedin.com/in/jwkim8804"> Jaewon Kim </a> (2017) <br>
  <a href="https://www.linkedin.com/in/aritrabiswas"> Aritra Biswas </a> (2017) <br>
  </td>
-
 </table>
 
 ### M.E.
