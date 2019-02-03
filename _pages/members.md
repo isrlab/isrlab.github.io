@@ -22,7 +22,7 @@ permalink: /members.html
 ## Former Members
 
 <table>
- <td valign="top", style="width:30%">
+ <td valign="top">
  <h3> Ph.D </h3>
  <ol>
  <li><a href="https://www.linkedin.com/in/james-fisher-0ba9798b"> James Fisher </a> (2008) </li>
@@ -33,7 +33,7 @@ permalink: /members.html
  <li><a href="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> (2015)</li>
 </ol>
  </td>
- <td valign="top", style="width:30%">
+ <td valign="top">
  <h3> M.S </h3>
  <ol>
  <li><a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim </a> (2007) </li>
