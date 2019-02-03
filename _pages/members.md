@@ -37,11 +37,11 @@ permalink: /members.html
  Luis Arturo Ruiz Brito (2009) <br>
  <a href="hhttp://www.linkedin.com/in/ericdbw"> Eric Wendel </a> (2012) <br>
  Kyungeun Kevin Kim (2013) <br>
- <a href="http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap"> Michael Young </a> (2016)
- <a href="https://www.linkedin.com/in/justinbarnes2013"> Justin Barnes </a> (2016)
- <a href="https://in.linkedin.com/in/radhika-saraf-93232498"> Radhika Saraf </a> (2017)
- <a href="https://www.linkedin.com/in/jwkim8804"> Jaewon Kim </a> (2017) 
- <a href="https://www.linkedin.com/in/aritrabiswas"> Aritra Biswas </a> (2017) 
+ <a href="http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap"> Michael Young </a> (2016)<br>
+ <a href="https://www.linkedin.com/in/justinbarnes2013"> Justin Barnes </a> (2016)<br>
+ <a href="https://in.linkedin.com/in/radhika-saraf-93232498"> Radhika Saraf </a> (2017)<br>
+ <a href="https://www.linkedin.com/in/jwkim8804"> Jaewon Kim </a> (2017) <br>
+ <a href="https://www.linkedin.com/in/aritrabiswas"> Aritra Biswas </a> (2017) <br>
  </td>
 
 </table>
