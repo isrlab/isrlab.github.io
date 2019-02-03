@@ -22,7 +22,7 @@ permalink: /members.html
 ## Former Members
 
 <table>
- <td>
+ <td valign="top"> 
  <h3> Ph.D </h3>
  <a href="https://www.linkedin.com/in/james-fisher-0ba9798b"> James Fisher </a> (2008) <br>
  <a href="http://www.linkedin.com/pub/baljeet-singh/18/9b8/903"> Baljeet Singh </a> (2010) <br>
@@ -31,7 +31,7 @@ permalink: /members.html
  <a href="https://www.abhishekhalder.org"> Abhishek Halder </a> (2014) <br>
  <a href="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> (2015)
  </td>
- <td>
+ <td valign="top">
  <h3> M.S </h3>
  <a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim </a> (2007) <br>
  <a href="http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464"> Avinash Prabhakar </a> (2008) <br>
