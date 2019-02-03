@@ -38,9 +38,9 @@ permalink: /members.html
  <ol>
  <li><a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim </a> (2007) </li>
  <li><a href="http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464"> Avinash Prabhakar </a> (2008) </li>
- Luis Arturo Ruiz Brito (2009) </li>
+ <li>Luis Arturo Ruiz Brito (2009) </li>
  <li><a href="hhttp://www.linkedin.com/in/ericdbw"> Eric Wendel </a> (2012) </li>
- Kyungeun Kevin Kim (2013) </li>
+ <li>Kyungeun Kevin Kim (2013) </li>
  <li><a href="http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap"> Michael Young  (2016)</li>
  <li><a href="https://www.linkedin.com/in/justinbarnes2013"> Justin Barnes </a> (2016)</li>
  <li><a href="https://in.linkedin.com/in/radhika-saraf-93232498"> Radhika Saraf </a> (2017)</li>
