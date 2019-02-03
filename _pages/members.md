@@ -22,7 +22,7 @@ permalink: /members.html
 ## Former Members
 
 <table>
- <td valign="top"> 
+ <td valign="top", align="left",width="30%"> 
  <h3> Ph.D </h3>
  <ol>
  <li><a href="https://www.linkedin.com/in/james-fisher-0ba9798b"> James Fisher </a> (2008) </li>
