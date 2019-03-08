@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications.html
 ---
 
-[**Google Citations**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ), [**Mendeley**](https://www.mendeley.com/profiles/raktim-bhattacharya2/)
+[**Google Citations**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ)
 
 <!--- 
 Under Review
