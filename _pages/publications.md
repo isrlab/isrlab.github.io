@@ -17,7 +17,7 @@ Under Review
 6. R. Saraf, R. Bhattacharya, R. Skelton, [$\mathcal{H}_2$ Optimal Codesign of Controller and Sensing Architecture with Model Uncertainty](https://www.researchgate.net/publication/319357578_H2_Optimal_Codesign_of_Controller_and_Sensing_Architecture_with_Model_Uncertainty)
 7. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds)
 -->
-
+1. R. Bhattacharya, Robust LQR Design for Systems with Probabilistic Uncertainty, **International Journal of Robust and Nonlinear Control**, 2019.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
 1. N. Das, V. Deshpande, R. Bhattacharya, [Optimal Transport based Tracking of Space Objects using Range Data from a Single Ranging Station](https://www.researchgate.net/publication/329487928_Optimal_Transport_based_Tracking_of_Space_Objects_using_Range_Data_from_a_Single_Ranging_Station), **AIAA Journal of Guidance, Control, and Dynamics**, 2019.
 1. V. Tadiparthi, S. C. Hsu, R. Bhattacharya, [Software for Tensegrity Dynamics](http://joss.theoj.org/papers/10.21105/joss.01042#), **The Journal of Open Source Software**, 2019.
