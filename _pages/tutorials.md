@@ -4,7 +4,7 @@ title: Teaching
 permalink: /tutorials.html
 ---
 
-## Uncertainty Quantification
+## Workshop on Uncertainty Quantification (ACC 2014/2015)
 * [Polynomial Chaos & Karhunen Loève Expansions](../pdfs/uq/pc_tutorial.pdf)
 * [Uncertainty Propagation with Frobenius-Perron Operator](../pdfs/uq/Frobenius_Perron.pdf)
 * [New Nonlinear Filtering Algorithms](../pdfs/uq/NonlinearFiltering_PCFP.pdf)
