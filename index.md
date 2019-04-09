@@ -30,7 +30,7 @@ Our lab has expertise in designing custom aerial platforms for various needs. Ou
 1. R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](https://arc.aiaa.org/doi/10.2514/2.4965), **Journal of Guidance, Control, and Dynamics**, Vol. 25, No. 5, pp. 924-931, 2002.
 
 
-## Asynchronous Numerical Algorithms for Exascale Computing
+## Asynchronous Numerical Algorithms
 Future exascale machines are expected to have $10^5--10^6$ processors, providing a deep hierarchy of systems and resources. However, many challenges exist, which must be overcome before exascale systems can be utilized as an effective tool to further understanding critical scientific inquires. Among the main obstacle to scale code to exascale levels, is the communication necessary in tightly coupled problems, for example in **uncertainty propagation, turbulence flow simulations at high Reynolds numbers, and large-scale convex optimization**. The synchronization across processors can cause 50-80% processor idle time. In our research, we focus on asynchronous numerical algorithms that do not wait for data to be synchronized. Communication between processor is modeled as a stochastic channel, and the behaviour of the numerical algorithm is analyzed in a stochastic jump dynamical system framework. This work has been funded by NSF.
 
 <img class="mySlides" src="images/async.png" style="display:block; margin:auto; width:100%;max-width:960px">
