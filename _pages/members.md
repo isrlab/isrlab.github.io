@@ -9,11 +9,11 @@ permalink: /members.html
 <!--- [Full CV](/pdfs/raktim-cv.pdf) -->
 
 ## Current Members
-* [Shao-Chen Hsu](https://www.linkedin.com/pub/hsu-shao-chen/87/b98/b74) (Ph.D.)
-* [Niladri Das](https://www.linkedin.com/in/niladri-das-40b55020) (Ph.D.)
+* [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (Ph.D.)
+* [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.)
 * [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)
-* [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande/) (Ph.D.)
-* [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923/) (Ph.D.)
+* [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.)
+* [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
 * Vijay Kumar Samayamantula (M.S.)
 * Victoria Nagorski (Undergraduate Researcher)
 * Jillian Sears (Undergraduate Researcher)
@@ -24,8 +24,8 @@ permalink: /members.html
 
 ### Ph.D.
 1. [James Fisher](https://www.linkedin.com/in/james-fisher-0ba9798b) (2008)
-1. [Baljeet Singh](http://www.linkedin.com/pub/baljeet-singh/18/9b8/903) (2010)
-1. [Parikshit Dutta](http://www.linkedin.com/pub/parikshit-dutta/13/62b/7a8) (2011)
+1. [Baljeet Singh](hhttps://www.linkedin.com/in/baljeet-singh-9039b818) (2010)
+1. [Parikshit Dutta](https://www.linkedin.com/in/parikshit-dutta-7a862b13) (2011)
 1. [Zhenchun Xia](http://www.linkedin.com/pub/zhenchun-xia/10/633/129) (2012)
 1. [Abhishek Halder](https://www.abhishekhalder.org) (2014)
 1. [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015)
