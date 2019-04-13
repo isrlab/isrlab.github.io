@@ -18,6 +18,7 @@ permalink: /members.html
 * Victoria Nagorski (Undergraduate Researcher)
 * Jillian Sears (Undergraduate Researcher)
 * Charles Conrad (Undergraduate Researcher)
+* Anikait Sharma (Undergraduate Researcher)
 
 ## Former Members
 
@@ -42,6 +43,11 @@ permalink: /members.html
 1. [Aritra Biswas](https://www.linkedin.com/in/aritrabiswas) (2017)
 
 ### M.E.
+1. [Abhishek Bathla](https://www.linkedin.com/in/abhishekbathla) (2007)
+1. [Ramesh V. B.](https://www.linkedin.com/in/vbramesh) (2008)
+1. [Sumit Pokhrel](https://www.linkedin.com/in/sumit-pokhrel-a60a7a66) (2015)
+1. [Brandon Simmons](https://www.linkedin.com/in/brandon-simmons-928637b2) (2015)
+1. [Paul Edward](https://www.linkedin.com/in/pauldedward) (2015)
 1. [Ryan Falcona](https://www.linkedin.com/in/ryan-falcona-952316146/) (2017)
 1. [Noah Lawrence](https://www.linkedin.com/in/noah-lawrence-abab34171) (2018) 
 
