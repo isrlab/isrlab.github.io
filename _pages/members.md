@@ -9,17 +9,17 @@ permalink: /members.html
 <!--- [Full CV](/pdfs/raktim-cv.pdf) -->
 
 ## Current Members
-* [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (Ph.D.)
-* [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.)
-* [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)
-* [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.)
-* [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
-* Vijay Kumar Samayamantula (M.S.)
-* Gerardo Barillas (Undergraduate Researcher)
-* Victoria Nagorski (Undergraduate Researcher)
-* Jillian Sears (Undergraduate Researcher)
-* Charles Conrad (Undergraduate Researcher)
-* Anikait Sharma (Undergraduate Researcher)
+1. [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (Ph.D.)
+1. [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.)
+1. [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)
+1. [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.)
+1. [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
+1. Vijay Kumar Samayamantula (M.S.)
+1. Gerardo Barillas (Undergraduate Researcher)
+1. Victoria Nagorski (Undergraduate Researcher)
+1. Jillian Sears (Undergraduate Researcher)
+1. Charles Conrad (Undergraduate Researcher)
+1. Anikait Sharma (Undergraduate Researcher)
 
 ## Former Members
 
