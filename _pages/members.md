@@ -16,11 +16,11 @@ permalink: /members.html
 1. [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
 1. Vijay Kumar Samayamantula (M.S.)
 1. Akshay Hiregoudar (M.S.)
-1. Victoria Nagorski (Undergraduate Researcher)
-1. Jillian Sears (Undergraduate Researcher)
-1. Charles Conrad (Undergraduate Researcher)
-1. Anikait Sharma (Undergraduate Researcher)
-1. Rushi Patel (Undergraduate Researcher)
+1. Victoria Nagorski (B.S.)
+1. Jillian Sears (B.S.)
+1. Charles Conrad (B.S.)
+1. Anikait Sharma (B.S.)
+1. Rushi Patel (B.S.)
 
 ## Former Members
 
