@@ -19,7 +19,6 @@ permalink: /members.html
 1. Victoria Nagorski (B.S.)
 1. Jillian Sears (B.S.)
 1. Charles Conrad (B.S.)
-1. Anikait Sharma (B.S.)
 1. Rushi Patel (B.S.)
 
 ## Former Members
