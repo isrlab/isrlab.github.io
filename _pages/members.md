@@ -56,7 +56,7 @@ permalink: /members.html
 
 
 ### Undergraduate 
-> Gerardo Barillas (2018-2019), Tyler Bryant (2015), Alejandro Castillo (2015), Sachin Subramanian (2014), [Scott Slaughter](http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0) (2013), [Emily Boster](http://www.linkedin.com/pub/emily-boster/80/183/b89) (2012-2013), [Mario Botros](http://www.linkedin.com/pub/mario-botros/51/6b2/559) (2012-2013), [Chris Bertagne](http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711) (Summer 2012), [Zachary Sunberg](http://www.linkedin.com/pub/zachary-sunberg/24/669/540), [Ainsley Van Rooyen](http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715), [Shalom Johnson](http://www.linkedin.com/pub/shalom-johnson/25/135/55), Luis Calixto.
+> Charles Conrad (2019), Jill Sears (2019), Gerardo Barillas (2018-2019), Tyler Bryant (2015), Alejandro Castillo (2015), Sachin Subramanian (2014), [Scott Slaughter](http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0) (2013), [Emily Boster](http://www.linkedin.com/pub/emily-boster/80/183/b89) (2012-2013), [Mario Botros](http://www.linkedin.com/pub/mario-botros/51/6b2/559) (2012-2013), [Chris Bertagne](http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711) (Summer 2012), [Zachary Sunberg](http://www.linkedin.com/pub/zachary-sunberg/24/669/540), [Ainsley Van Rooyen](http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715), [Shalom Johnson](http://www.linkedin.com/pub/shalom-johnson/25/135/55), Luis Calixto.
 
 ## Visting Students
 > Jorge Gutierez, Bordeaux University (Summer 2015)
