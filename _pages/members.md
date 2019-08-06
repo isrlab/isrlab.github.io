@@ -14,11 +14,8 @@ permalink: /members.html
 1. [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)
 1. [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.)
 1. [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
-1. Vijay Kumar Samayamantula (M.S.)
 1. Akshay Hiregoudar (M.S.)
 1. Victoria Nagorski (B.S.)
-1. Jillian Sears (B.S.)
-1. Charles Conrad (B.S.)
 1. Rushi Patel (B.S.)
 
 ## Former Members
