@@ -9,7 +9,6 @@ permalink: /members.html
 <!--- [Full CV](/pdfs/raktim-cv.pdf) -->
 
 ## Current Members
-1. [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (Ph.D.)
 1. [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.)
 1. [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)
 1. [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.)
@@ -27,6 +26,7 @@ permalink: /members.html
 1. [Zhenchun Xia](http://www.linkedin.com/pub/zhenchun-xia/10/633/129) (2012)
 1. [Abhishek Halder](https://www.abhishekhalder.org) (2014)
 1. [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015)
+1. [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (2019)
 
 ### M.S.
 1. [Amos Kim](http://www.linkedin.com/pub/amos-kim/2b/63a/69) (2007)
