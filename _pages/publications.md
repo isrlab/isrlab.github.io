@@ -6,7 +6,7 @@ permalink: /publications.html
 
 [**Google Citations**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ)
 
-1. K. Kumari, R. Bhattacharya, D. Donzis [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
+1. K. Kumari, R. Bhattacharya, D. Donzis, [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
 1. R. Bhattacharya, [Robust LQR Design for Systems with Probabilistic Uncertainty](https://rdcu.be/bvC6L), **International Journal of Robust and Nonlinear Control**, 2019.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
 1. N. Das, V. Deshpande, R. Bhattacharya, [Optimal Transport based Tracking of Space Objects using Range Data from a Single Ranging Station](https://www.researchgate.net/publication/329487928_Optimal_Transport_based_Tracking_of_Space_Objects_using_Range_Data_from_a_Single_Ranging_Station), **AIAA Journal of Guidance, Control, and Dynamics**, 2019.
