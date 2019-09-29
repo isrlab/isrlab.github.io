@@ -15,8 +15,9 @@ permalink: /members.html
 1. [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
 1. Akshay Hiregoudar (M.S.)
 1. Victoria Nagorski (B.S.)
+1. Christina Erwin (B.S.)
 1. Joshua Graves (B.S.)
-1. Christina Erwin (B.S)
+1. Brent Mathews (B.S.)
 
 
 ## Former Members
