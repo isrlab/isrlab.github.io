@@ -6,17 +6,7 @@ permalink: /publications.html
 
 [**Google Citations**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ)
 
-<!--- 
-Under Review
-----
-1. K. Lee and R. Bhattacharya, On the Convergence of Asynchronous Consensus in Discrete-time Multi-agent Systems with Fixed and Switching Topologies.
-2. K. Lee and R. Bhattacharya, [Convergence Analysis of Asynchronous Consensus in Discrete-time Multi-agent Systems with Fixed Topology](https://www.researchgate.net/publication/303969767_Convergence_Analysis_of_Asynchronous_Consensus_in_Discrete-time_Multi-agent_Systems_with_Fixed_Topology).
-3. K. Lee, R. Bhattacharya, [On the Convergence Analysis of Asynchronous Distributed Quadratic Programming via Dual Decomposition](https://arxiv.org/pdf/1506.05485v2.pdf).
-4. K. Lee, A. Halder, and R. Bhattacharya, A new framework for Mean Square Stability of Stochastic Jump Linear Systems via Optimal Transport.
-5. S. C. Hsu, R. Bhattacharya, [Design of Linear Parameter Varying Quadratic Regulator in Polynomial Chaos Framework](https://www.researchgate.net/publication/314088074_Design_of_Stochastic_Collocation_Based_Linear_Parameter_Varying_Quadratic_Regulator)
-6. R. Saraf, R. Bhattacharya, R. Skelton, [$\mathcal{H}_2$ Optimal Codesign of Controller and Sensing Architecture with Model Uncertainty](https://www.researchgate.net/publication/319357578_H2_Optimal_Codesign_of_Controller_and_Sensing_Architecture_with_Model_Uncertainty)
-7. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds)
--->
+1. K. Kumari, R. Bhattacharya, D. Donzis [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
 1. R. Bhattacharya, [Robust LQR Design for Systems with Probabilistic Uncertainty](https://rdcu.be/bvC6L), **International Journal of Robust and Nonlinear Control**, 2019.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
 1. N. Das, V. Deshpande, R. Bhattacharya, [Optimal Transport based Tracking of Space Objects using Range Data from a Single Ranging Station](https://www.researchgate.net/publication/329487928_Optimal_Transport_based_Tracking_of_Space_Objects_using_Range_Data_from_a_Single_Ranging_Station), **AIAA Journal of Guidance, Control, and Dynamics**, 2019.
