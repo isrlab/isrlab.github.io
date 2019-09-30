@@ -4,9 +4,11 @@ title: Projects
 permalink: /projects.html
 ---
 
+1. Adaptive Markov Inference Game Optimization (AMIGO) for Rapid Discovery of Evasive Satellite Behaviors Phase II(2019)  **PI: Raktim Bhattacharya**, ***Intelligent Fusion Technology, Inc.***
+
 1. Modeling, Analysis, and Diagnostics of High Strength-to-Weight Wind Turbine Blades Using Tensegrity Principles (2018) **PI: Raktim Bhattacharya**, Co-PI: Robert Skelton, ***NSF*** [#1762825](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1762825&HistoricalAwards=false)
 
-1. Adaptive Markov Inference Game Optimization (AMIGO) for Rapid Discovery of Evasive Satellite Behaviors (2018)  **PI: Raktim Bhattacharya**, ***Intelligent Fusion Technology, Inc.***
+1. Adaptive Markov Inference Game Optimization (AMIGO) for Rapid Discovery of Evasive Satellite Behaviors Phase I (2018)  **PI: Raktim Bhattacharya**, ***Intelligent Fusion Technology, Inc.***
 
 1. Tensegrity Approaches to In-Space Construction of 1g Growable Habitat (2016-2018), PI: Bob Skleton,  **Co-PI: Raktim Bhattacharya**, Joel Sercel, Anthony Longman,  ***NASA NIAC Phase II***
 
