@@ -3,10 +3,8 @@ layout: page
 title: Home
 permalink: /index.html
 ---
-  Welcome to the Intelligent Systems Research Laboratory at Texas A&M University. We focus on developing
-  advanced algorithms and analytical methods for designing next generation autonomous systems, operating in uncertain dynamic environments. Below are highlights from our recent work.
+  Welcome to the Intelligent Systems Research Laboratory at Texas A&M University. We focus on information fusion and uncertainty quantification on manifolds, for estimation and control of nonlinear dynamical systems.  Below are highlights from our recent work.
    
-
 ## Real-Time Predictive Analytics for Space Situational Awareness
 Space situational awareness is concerned with tracking of space objects and classifying it with respect to certain characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non Gaussian uncertainty supported on cylindrical coordinate systems $\mathbb{R}^5\times\mathbb{S}$, sparse sensing and unknown sensor characteristics. These algorithms are used for conjunction analysis, which is the process of predicting upcoming object encounters in an effort to notify satellite operators and avoid high risk encounters. This work is been funded by AFOSR and Intelligent Fusion Technology.
 
