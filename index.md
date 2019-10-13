@@ -26,6 +26,7 @@ Future exascale machines are expected to have $10^5--10^6$ processors, providing
 2. K. Lee and R. Bhattacharya, [On the Relaxed Synchronization for Massively Parallel Numerical Algorithms](https://www.researchgate.net/publication/301650726_On_the_Relaxed_Synchronization_for_Massively_Parallel_Numerical_Algorithms), **American Control Conference**, 2016.
 3. K. Lee, R. Bhattacharya, and V. Gupta, [A Switched Dynamical System Framework for Analysis of Massively Parallel Asynchronous Numerical Algorithms](https://www.researchgate.net/publication/273640349_A_Switched_Dynamical_System_Framework_for_Analysis_of_Massively_Parallel_Asynchronous_Numerical_Algorithms), **ACC**, 2015.
 
+<!--
 ## Tensegrity Systems
 A tensegrity system is an arrangement of axially-loaded elements (no element bends, even though the overall structure bends), that we loosely characterize as a network of bars and cables. The bars take compressive axial load and the cables take tensile load. Tensegrity structures can be designed to be extremely light, for a given stiffness. In our research, we focus on efficient multi-body modeling and nonlinear control (LPV) of tensegrity systems. Applications considered include dexterous robotics, biomimetic air vehicles, all terrain ground robots, prosthetics, and biological systems. This work is been funded by NSF and NASA.
 
@@ -33,7 +34,7 @@ A tensegrity system is an arrangement of axially-loaded elements (no element ben
 
 **Selected Papers**
 1. V. Tadiparthi, S. C. Hsu, R. Bhattacharya, [Software for Tensegrity Dynamics](http://joss.theoj.org/papers/10.21105/joss.01042#), The Journal of Open Source Software, 2019. 
-
+-->
 
 ## Robust Cyber Physical Systems
 Cyber physical systems have strong coupling between physics, communication and computation. In our research, we develop algorithms for quantifying uncertainty in system behaviour due uncertainties in the physics (unmodelled dynamics, process and sensor noise), communication (irregular channels, packet loss, etc), computation (jitter in real-time tasks, CPU transients, etc). The system level behaviour is modeled as a stochastic jump system and new uncertainty propagation algorithms for such jump systems are developed. New stochastic scheduling algorithms are developed that switch between computational tasks to ensure system-level robustness. This work has been funded by NSF.
