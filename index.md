@@ -22,9 +22,10 @@ Future exascale machines are expected to have $10^5--10^6$ processors, providing
 <img class="mySlides" src="images/async.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
 **Selected Papers**
+1. K. Kumari, R. Bhattacharya, D. Donzis, [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
 1. K. Lee, R. Bhattacharya, J. Dass, V. Sakuru, and R. Mahapatra, [A Relaxed Synchronization Approach for Solving Parallel Quadratic Programming Problems with Guaranteed Convergence](https://ieeexplore.ieee.org/document/7516014/), **IPDPS**, Chicago,2016.
-2. K. Lee and R. Bhattacharya, [On the Relaxed Synchronization for Massively Parallel Numerical Algorithms](https://www.researchgate.net/publication/301650726_On_the_Relaxed_Synchronization_for_Massively_Parallel_Numerical_Algorithms), **American Control Conference**, 2016.
-3. K. Lee, R. Bhattacharya, and V. Gupta, [A Switched Dynamical System Framework for Analysis of Massively Parallel Asynchronous Numerical Algorithms](https://www.researchgate.net/publication/273640349_A_Switched_Dynamical_System_Framework_for_Analysis_of_Massively_Parallel_Asynchronous_Numerical_Algorithms), **ACC**, 2015.
+1. K. Lee and R. Bhattacharya, [On the Relaxed Synchronization for Massively Parallel Numerical Algorithms](https://www.researchgate.net/publication/301650726_On_the_Relaxed_Synchronization_for_Massively_Parallel_Numerical_Algorithms), **American Control Conference**, 2016.
+1. K. Lee, R. Bhattacharya, and V. Gupta, [A Switched Dynamical System Framework for Analysis of Massively Parallel Asynchronous Numerical Algorithms](https://www.researchgate.net/publication/273640349_A_Switched_Dynamical_System_Framework_for_Analysis_of_Massively_Parallel_Asynchronous_Numerical_Algorithms), **ACC**, 2015.
 
 <!--
 ## Tensegrity Systems
