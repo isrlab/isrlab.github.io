@@ -4,10 +4,6 @@ title: Teaching
 permalink: /tutorials.html
 ---
 
-## Workshop on Uncertainty Quantification (ACC 2015)
-* [Polynomial Chaos & Karhunen Loève Expansions](../pdfs/uq/pc_tutorial.pdf)
-* [Uncertainty Propagation with Frobenius-Perron Operator](../pdfs/uq/Frobenius_Perron.pdf)
-* [New Nonlinear Filtering Algorithms](../pdfs/uq/NonlinearFiltering_PCFP.pdf)
 
 ## Classes
 1. ### AERO 422 Active Control for Aerospace Vehicles
@@ -32,3 +28,7 @@ permalink: /tutorials.html
 * [Uncertainty Modeling](../pdfs/aero632/08 Uncertainty.pdf)
 * [Design Problems](../pdfs/aero632/09 Design Problems.pdf)
 
+## Workshop on Uncertainty Quantification (ACC 2015)
+* [Polynomial Chaos & Karhunen Loève Expansions](../pdfs/uq/pc_tutorial.pdf)
+* [Uncertainty Propagation with Frobenius-Perron Operator](../pdfs/uq/Frobenius_Perron.pdf)
+* [New Nonlinear Filtering Algorithms](../pdfs/uq/NonlinearFiltering_PCFP.pdf)
