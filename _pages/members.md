@@ -10,7 +10,7 @@ permalink: /members.html
 
 ## Current Members
 ### Postdoctoral Scholar
-1. [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829)
+* [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829)
 
 ### Graduate Students
 1. [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.)
@@ -18,6 +18,7 @@ permalink: /members.html
 1. [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.)
 1. [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
 1. Akshay Hiregoudar (M.S.)
+
 ### Undergraduate
 1. Victoria Nagorski
 1. Joshua Graves 
