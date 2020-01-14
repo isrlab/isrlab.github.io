@@ -7,7 +7,7 @@ permalink: /publications.html
 [**Google Citations**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ)
 
 1. V. Deshpande, N. Das, V. Tadiparthi, R. Bhattacharya, [On Neural Network Training from Noisy Data using a Novel Filtering Framework](https://arc.aiaa.org/doi/abs/10.2514/6.2020-1869), **AIAA Scitech**, 2020.
-1. S. Kim, V. Tadiparthi, R. Bhattacharya, [$\mathcal{H}_2 Optimal Attitude Estimation of UAVs Using Sensor Fusion](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0988), **AIAA Scitech**, 2020.
+1. S. Kim, V. Tadiparthi, R. Bhattacharya, [$\mathcal{H}_2$ Optimal Attitude Estimation of UAVs Using Sensor Fusion](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0988), **AIAA Scitech**, 2020.
 1. K. Kumari, R. Bhattacharya, D. Donzis, [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
 1. R. Bhattacharya, [Robust LQR Design for Systems with Probabilistic Uncertainty](https://rdcu.be/bvC6L), **International Journal of Robust and Nonlinear Control**, 2019.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
