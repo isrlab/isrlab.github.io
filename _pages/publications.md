@@ -6,6 +6,9 @@ permalink: /publications.html
 
 [**Google Citations**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ)
 
+1. V. Deshpande, R. Bhattacharya, Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions, **ACC**, 2020.
+1. S. Kim, V. Tadiparthi, R. Bhattacharya, Nonlinear Attitude Estimation for Small UAVs with Low Power Microprocessors, **ACC**, 2020.
+1. V. Tadiparthi, R. Bhattacharya, Robust LQR for Uncertain Discrete-Time Systems using Polynomial Chaos, **ACC**, 2020. 
 1. V. Deshpande, N. Das, V. Tadiparthi, R. Bhattacharya, [On Neural Network Training from Noisy Data using a Novel Filtering Framework](https://arc.aiaa.org/doi/abs/10.2514/6.2020-1869), **AIAA Scitech**, 2020.
 1. S. Kim, V. Tadiparthi, R. Bhattacharya, [$\mathcal{H}_2$ Optimal Attitude Estimation of UAVs Using Sensor Fusion](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0988), **AIAA Scitech**, 2020.
 1. K. Kumari, R. Bhattacharya, D. Donzis, [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
