@@ -6,22 +6,17 @@ permalink: /publications.html
 
 [**Google Citations**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ)
 
-### 2020
 1. V. Deshpande, R. Bhattacharya, Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions, **ACC**, 2020.
 1. S. Kim, V. Tadiparthi, R. Bhattacharya, Nonlinear Attitude Estimation for Small UAVs with Low Power Microprocessors, **ACC**, 2020.
 1. V. Tadiparthi, R. Bhattacharya, Robust LQR for Uncertain Discrete-Time Systems using Polynomial Chaos, **ACC**, 2020. 
 1. V. Deshpande, N. Das, V. Tadiparthi, R. Bhattacharya, [On Neural Network Training from Noisy Data using a Novel Filtering Framework](https://arc.aiaa.org/doi/abs/10.2514/6.2020-1869), **AIAA Scitech**, 2020.
 1. S. Kim, V. Tadiparthi, R. Bhattacharya, [$\mathcal{H}_2$ Optimal Attitude Estimation of UAVs Using Sensor Fusion](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0988), **AIAA Scitech**, 2020.
-
-#### 2019
 1. K. Kumari, R. Bhattacharya, D. Donzis, [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
 1. R. Bhattacharya, [Robust LQR Design for Systems with Probabilistic Uncertainty](https://rdcu.be/bvC6L), **International Journal of Robust and Nonlinear Control**, 2019.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
 1. N. Das, V. Deshpande, R. Bhattacharya, [Optimal Transport based Tracking of Space Objects using Range Data from a Single Ranging Station](https://www.researchgate.net/publication/329487928_Optimal_Transport_based_Tracking_of_Space_Objects_using_Range_Data_from_a_Single_Ranging_Station), **AIAA Journal of Guidance, Control, and Dynamics**, 2019.
 1. V. Tadiparthi, S. C. Hsu, R. Bhattacharya, [Software for Tensegrity Dynamics](http://joss.theoj.org/papers/10.21105/joss.01042#), **The Journal of Open Source Software**, 2019.
 1. K. Lee, R. Bhattacharya, [On the Uniqueness of Stationary Solutions of an Asynchronous Parallel and Distributed Algorithm for Diffusion Equations](https://doi.org/10.1109/CCWC.2019.8666522), **IEEE CCWC**, 2019.
-
-#### 2018
 1. K. Lee, R. Bhattacharya, [Optimal Controller Switching for Resource-constrained Dynamical Systems](https://link.springer.com/article/10.1007/s12555-017-0530-3), **International Journal of Control, Automation, and Systems**,  Vol 16, No 3, June 2018.
 1. N. Das, R. Bhattacharya, Sparse Sensing Architecture for Kalman Filtering with Guaranteed Error Bound, **1st IAA Conference on Space Situational Awareness (ICSSA)**, Orlando, FL, USA, 2017.
 1. S. C. Hsu, R. Bhattacharya, [Design of Stochastic Collocation Based Linear Parameter Varying Quadratic Regulator](https://www.researchgate.net/publication/314088074_Design_of_Stochastic_Collocation_Based_Linear_Parameter_Varying_Quadratic_Regulator), **American Control Conference**, 2017.
