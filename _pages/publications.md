@@ -5,10 +5,14 @@ permalink: /publications.html
 ---
 
 [**Google Citations**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ)
-
+1. N. Das, R. Bhattacharya, Optimal Transport Based Filtering with Nonlinear State Equality Constraints, **IFAC**, 2020.
+1. N. Das, R. Bhattacharya, Eigen Value Analysis in Lower Bounding Uncertainty of Kalman Filter Estimates, **IFAC**, 2020.
+1. N. Das, R. Bhattacharya, Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering
+, **IFAC**, 2020.
+1. V. Deshpande, R. Bhattacharya, Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions, **IFAC**, 2020.
 1. V. Deshpande, R. Bhattacharya, Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions, **ACC**, 2020.
 1. S. Kim, V. Tadiparthi, R. Bhattacharya, Nonlinear Attitude Estimation for Small UAVs with Low Power Microprocessors, **ACC**, 2020.
-1. V. Tadiparthi, R. Bhattacharya, Robust LQR for Uncertain Discrete-Time Systems using Polynomial Chaos, **ACC**, 2020. 
+1. V. Tadiparthi, R. Bhattacharya, Robust LQR for Uncertain Discrete-Time Systems using Polynomial Chaos, **ACC**, 2020.
 1. V. Deshpande, N. Das, V. Tadiparthi, R. Bhattacharya, [On Neural Network Training from Noisy Data using a Novel Filtering Framework](https://arc.aiaa.org/doi/abs/10.2514/6.2020-1869), **AIAA Scitech**, 2020.
 1. S. Kim, V. Tadiparthi, R. Bhattacharya, [$\mathcal{H}_2$ Optimal Attitude Estimation of UAVs Using Sensor Fusion](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0988), **AIAA Scitech**, 2020.
 1. K. Kumari, R. Bhattacharya, D. Donzis, [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
@@ -22,7 +26,7 @@ permalink: /publications.html
 1. S. C. Hsu, R. Bhattacharya, [Design of Stochastic Collocation Based Linear Parameter Varying Quadratic Regulator](https://www.researchgate.net/publication/314088074_Design_of_Stochastic_Collocation_Based_Linear_Parameter_Varying_Quadratic_Regulator), **American Control Conference**, 2017.
 1. R. Saraf, R. Bhattacharya, R. Skelton, [$\mathcal{H}_2$ Optimal Sensing Architecture with Model Uncertainty](https://www.researchgate.net/publication/314087999_H_2_Optimal_Sensing_Architecture_with_Model_Uncertainty), **American Control Conference**, 2017.
 1.  K. Lee, R. Bhattacharya, J. Dass, V. Sakuru, and R. Mahapatra, [A Relaxed Synchronization Approach for Solving Parallel Quadratic Programming Problems with Guaranteed Convergence](https://www.researchgate.net/publication/297918887_A_Relaxed_Synchronization_Approach_for_Solving_Parallel_Quadratic_Programming_Problems_with_Guaranteed_Convergence), **IPDPS**, Chicago,2016.
-1.	K. Lee and R. Bhattacharya, [On the Relaxed Synchronization for Massively Parallel Numerical Algorithms](https://www.researchgate.net/publication/301650726_On_the_Relaxed_Synchronization_for_Massively_Parallel_Numerical_Algorithms), **American Control Conference**, 2016.	
+1.	K. Lee and R. Bhattacharya, [On the Relaxed Synchronization for Massively Parallel Numerical Algorithms](https://www.researchgate.net/publication/301650726_On_the_Relaxed_Synchronization_for_Massively_Parallel_Numerical_Algorithms), **American Control Conference**, 2016.
 1.  P. Dutta, A.Halder, R. Bhattacharya, [Nonlinear Estimation with
     Perron-Frobenius Operator and Karhunen-Loeve
     Expansion](http://hal.inria.fr/hal-00773533), **IEEE Transactions on
@@ -81,7 +85,7 @@ permalink: /publications.html
     Multi-Conference on Systems and Control**, Dubrovnik, 2012.
 1.  A. Halder, R. Bhattacharya, [Further Results on Probabilistic Model
     Validation in Wasserstein
-    Metric](http://dx.doi.org/10.1109/CDC.2012.6425987). **51st IEEE
+    Metric](http://dx.doi.org/10.1109/CDC.2012.6425987), **51st IEEE
     Conference on Decision and Control**, Maui, 2012.
 1.  Zhenchun Xia, G. H. Huff, J. F. Chamberland, H. Pfister, and R.
     Bhattacharya. Crystallographic-based Antenna Configurations for DOA
@@ -89,15 +93,14 @@ permalink: /publications.html
 1.  Zhenchun Xia, G. H. Huff, J. F. Chamberland, H. Pfister, and R.
     Bhattacharya, [DOA Estimation Using Canonical and Crystallographic
     Volumetric Element
-    Configurations](http://dx.doi.org/10.1109/EuCAP.2012.6206123). **In
-    EuCAP, Czech Republic**, 2012.
+    Configurations](http://dx.doi.org/10.1109/EuCAP.2012.6206123), **EuCAP, Czech Republic**, 2012.
 1.  A. Halder, R. Bhattacharya, [Model Validation: A Probabilistic
     Formulation](http://dx.doi.org/10.1109/CDC.2011.6161465), **50th
     IEEE Conference on Decision and Control**, Orlando, 2011.
 1.  A. Halder, R. Bhattacharya, [Dispersion Analysis in Hypersonic
     Flight During Planetary Entry Using Stochastic Liouville
-    Equation](http://dx.doi.org/10.2514/1.51196),**AIAA Journal of
-    Guidance, Control, and Dynamics**, 2011. 
+    Equation](http://dx.doi.org/10.2514/1.51196), **AIAA Journal of
+    Guidance, Control, and Dynamics**, 2011.
 1.  P. Dutta & R. Bhattacharya, [Hypersonic State Estimation Using
     Frobenius-Perron Operator](http://dx.doi.org/10.2514/1.52184),
     **AIAA Journal of Guidance, Control, and Dynamics**, Volume 34,
@@ -182,11 +185,11 @@ permalink: /publications.html
     Operators](http://dx.doi.org/10.2514/6.2008-6298), **AIAA GNC**, 2008.
 1.  A. Prabhakar and R. Bhattacharya, [Analysis of Hypersonic Flight
     Dynamics with Probabilistic Uncertainty in System
-    Parameters](http://dx.doi.org/10.2514/6.2008-6814), **AIAA GNC**, 
+    Parameters](http://dx.doi.org/10.2514/6.2008-6814), **AIAA GNC**,
     2008.
 1.  B. Singh and R. Bhattacharya, [Optimal Guidance of Hypersonic
     Vehicles Using B-Splines and Galerkin
-    Projection](http://dx.doi.org/10.2514/6.2008-7263), **AIAA GNC**, 
+    Projection](http://dx.doi.org/10.2514/6.2008-7263), **AIAA GNC**,
     2008.
 1.  J. Fisher, R. Bhattacharya, [On Stochastic LQR Design and Polynomial
     Chaos](http://dx.doi.org/10.1109/ACC.2008.4586473), **American
@@ -270,5 +273,3 @@ permalink: /publications.html
     Receding Horizon Control of an F-16
     Aircraft](http://dx.doi.org/10.1109/ACC.2001.945598), **American
     Control Conference**, June 2001.
-
-
