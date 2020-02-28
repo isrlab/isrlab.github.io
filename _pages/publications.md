@@ -5,11 +5,11 @@ permalink: /publications.html
 ---
 
 [**Google Citations**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ)
-1. N. Das, R. Bhattacharya, Optimal Transport Based Filtering with Nonlinear State Equality Constraints, **IFAC**, 2020.
-1. N. Das, R. Bhattacharya, Eigen Value Analysis in Lower Bounding Uncertainty of Kalman Filter Estimates, **IFAC**, 2020.
+1. N. Das, R. Bhattacharya, Optimal Transport Based Filtering with Nonlinear State Equality Constraints, **IFAC World Congress**, 2020.
+1. N. Das, R. Bhattacharya, Eigen Value Analysis in Lower Bounding Uncertainty of Kalman Filter Estimates, **IFAC World Congress**, 2020.
 1. N. Das, R. Bhattacharya, Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering
-, **IFAC**, 2020.
-1. V. Deshpande, R. Bhattacharya, Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions, **IFAC**, 2020.
+, **IFAC World Congress**, 2020.
+1. V. Deshpande, R. Bhattacharya, Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions, **IFAC World Congress**, 2020.
 1. V. Deshpande, R. Bhattacharya, Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions, **ACC**, 2020.
 1. S. Kim, V. Tadiparthi, R. Bhattacharya, Nonlinear Attitude Estimation for Small UAVs with Low Power Microprocessors, **ACC**, 2020.
 1. V. Tadiparthi, R. Bhattacharya, Robust LQR for Uncertain Discrete-Time Systems using Polynomial Chaos, **ACC**, 2020.
