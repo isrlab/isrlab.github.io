@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications.html
 ---
 
-[**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**Arxiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
+[**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 
 1. V. Deshpande, R. Bhattacharya, Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions, **ACC**, 2020.
 1. S. Kim, V. Tadiparthi, R. Bhattacharya, Nonlinear Attitude Estimation for Small UAVs with Low Power Microprocessors, **ACC**, 2020.
