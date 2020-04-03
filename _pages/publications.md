@@ -10,7 +10,7 @@ permalink: /publications.html
 1. N. Das, R. Bhattacharya, [Eigen Value Analysis in Lower Bounding Uncertainty of Kalman Filter Estimates](https://arxiv.org/pdf/2003.06029.pdf), **IFAC World Congress**, 2020.
 1.  N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
 1. N. Das, R. Bhattacharya, [Optimal Transport Based Filtering with Nonlinear State Equality Constraints](https://arxiv.org/pdf/2003.06028.pdf), **IFAC World Congress**, 2020.
-1. V. Deshpande, R. Bhattacharya, Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions, **ACC**, 2020.
+1. V. Deshpande, R. Bhattacharya, [Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions](https://arxiv.org/pdf/1911.03016.pdf), **ACC**, 2020.
 1. S. Kim, V. Tadiparthi, R. Bhattacharya, [Nonlinear Attitude Estimation for Small UAVs with Low Power Microprocessors](https://arxiv.org/pdf/2003.13802.pdf), **ACC**, 2020.
 1. V. Tadiparthi, R. Bhattacharya, Robust LQR for Uncertain Discrete-Time Systems using Polynomial Chaos, **ACC**, 2020.
 1. V. Deshpande, N. Das, V. Tadiparthi, R. Bhattacharya, [On Neural Network Training from Noisy Data using a Novel Filtering Framework](https://arc.aiaa.org/doi/abs/10.2514/6.2020-1869), **AIAA Scitech**, 2020.
