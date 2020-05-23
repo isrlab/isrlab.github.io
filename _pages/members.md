@@ -40,11 +40,11 @@ permalink: /members.html
   <tr>
     <td><a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim</a><br><small>2007</small> </td> 
     <td><a href="http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464"> Avinash Prabhakar</a><br><small>2008</small> </td> 
-    <td>Luis Arturo Ruiz Brito (2009)</td>
+    <td>Luis Arturo Ruiz Brito <br><small>2009</small></td>
     <td><a href="http://www.linkedin.com/in/ericdbw">Eric Wendel </a> <br><small>2012</small></td>
   </tr>
     <tr>
-     <td>Kyungeun Kevin Kim (2013)</td>
+     <td>Kyungeun Kevin Kim <br><small>2013</small></td>
      <td><a href = "http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap">Michael Young</a> <br><small>2016</small></td>
      <td><a href = "https://www.linkedin.com/in/justinbarnes2013">Justin Barnes</a> <br><small>2016</small> </td>
      <td><a href = "https://in.linkedin.com/in/radhika-saraf-93232498">Radhika Saraf</a> <br><small>2017</small></td>
@@ -85,27 +85,27 @@ permalink: /members.html
 
 <table>
 <tr>
-      <td>Victoria Nagorski (2020)</td>
-      <td>Christina Erwin (2020)</td>
-      <td>Brent Mathews (2020)</td>
-      <td>Joshua Graves (2019)</td>
+      <td>Victoria Nagorski <br><small>2020</small></td>
+      <td>Christina Erwin <br><small>2020</small></td>
+      <td>Brent Mathews <br><small>2020</small></td>
+      <td>Joshua Graves <br><small>2019</small></td>
     </tr>
     <tr>
-      <td>Rushi Patel (2019)</td>
-      <td>Charles Conrad (2019)</td>
-      <td>Jill Sears (2019)</td>
-      <td>Gerardo Barillas (2018-2019)</td>
+      <td>Rushi Patel <br><small>2019</small></td>
+      <td>Charles Conrad <br><small>2019</small></td>
+      <td>Jill Sears <br><small>2019</small></td>
+      <td>Gerardo Barillas <br><small>2018-2019</small></td>
     </tr>
     <tr>
-      <td>Tyler Bryant (2015)</td>
-      <td>Alejandro Castillo (2015)</td>
-      <td>Sachin Subramanian (2014)</td>
-      <td><a href="http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0">Scott Slaughter</a> (2013)</td>
+      <td>Tyler Bryant <br><small>2015</small></td>
+      <td>Alejandro Castillo <br><small>2015</small></td>
+      <td>Sachin Subramanian <br><small>2014</small></td>
+      <td><a href="http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0">Scott Slaughter</a> <br><small>2013</small></td>
     </tr>
     <tr>
-      <td><a href="http://www.linkedin.com/pub/emily-boster/80/183/b89">Emily Boster</a> (2012-2013)</td>
-      <td><a href="http://www.linkedin.com/pub/mario-botros/51/6b2/559">Mario Botros</a> (2012-2013)</td>
-      <td><a href="http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711">Chris Bertagne</a> (Summer 2012)</td>
+      <td><a href="http://www.linkedin.com/pub/emily-boster/80/183/b89">Emily Boster</a> <br><small>2013-2013</small></td>
+      <td><a href="http://www.linkedin.com/pub/mario-botros/51/6b2/559">Mario Botros</a> <br><small>2012-2013</small></td>
+      <td><a href="http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711">Chris Bertagne</a> <br><small>REU Summer 2012</small></td>
       <td><a href="http://www.linkedin.com/pub/zachary-sunberg/24/669/540">Zachary Sunberg</a></td>
     </tr>
     <tr>
