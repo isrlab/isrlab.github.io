@@ -19,6 +19,7 @@ permalink: /members.html
 
 ## Former Members
 ### Ph.D.
+
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> (2008)</td>
@@ -34,6 +35,7 @@ permalink: /members.html
 </table>
 
 ### M.S.
+
 <table>
   <tr>
     <td><a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim</a> (2007) </td> 
@@ -54,6 +56,7 @@ permalink: /members.html
 </table>
 
 ### Post-Doc
+
 <table>
 <tr>
 <td> <a href = "http://www.linkedin.com/in/prasenjitsengupta">Prasenjit Sengupta </a> (2007-2008)</td>
@@ -61,8 +64,8 @@ permalink: /members.html
 </tr>
 </table>
 
-
 ### M.E.
+
 <table>
 <tr>
 <td><a href="https://www.linkedin.com/in/abhishekbathla">Abhishek Bathla </a>  (2007) </td> 
@@ -82,6 +85,7 @@ permalink: /members.html
 </table>
 
 ### Undergraduate 
+
 <table>
 <tr>
       <td>Victoria Nagorski (2020)</td>
