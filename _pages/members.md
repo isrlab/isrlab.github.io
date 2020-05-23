@@ -24,7 +24,7 @@ permalink: /members.html
   <tr>
     <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> (2008)</td>
     <td><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> (2010)</td>
-    <td><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> (2011)
+    <td><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> (2011)</td>
     <td><a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a> (2012)</td>
   </tr>
     <tr>
@@ -45,7 +45,7 @@ permalink: /members.html
   </tr>
     <tr>
      <td>Kyungeun Kevin Kim (2013)</td>
-     <td><a href = "http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap">Michael Young</a> (2016)></td>
+     <td><a href = "http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap">Michael Young</a> (2016)</td>
      <td><a href = "https://www.linkedin.com/in/justinbarnes2013">Justin Barnes</a> (2016) </td>
      <td><a href = "https://in.linkedin.com/in/radhika-saraf-93232498">Radhika Saraf></a> (2017) </td>
     </tr>
