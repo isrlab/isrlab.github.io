@@ -21,10 +21,6 @@ table {
   border-spacing: 25px 25px;
 }
 
-p.small {
-  line-height: -0.5em;
-}
-
 body {
 	font-family: 'Pontano Sans', sans-serif;
 	font-size: 100%;

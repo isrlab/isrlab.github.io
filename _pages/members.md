@@ -23,7 +23,7 @@ permalink: /members.html
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <p class="small"><br><small>2008</small></p></td>
+    <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <small>2008</small></td>
     <td><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <br> <small>2010</small></td>
     <td><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> <br> <small>2011</small></td>
     <td><a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a><br> <small>2012</small></td>
