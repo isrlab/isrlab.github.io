@@ -21,9 +21,7 @@ permalink: /members.html
 
 
 ## Former Members
-
 ### Ph.D.
-
 |||||
 |-|-|-|-|
 |[James Fisher](https://www.linkedin.com/in/james-fisher-0ba9798b) (2008) | [Baljeet Singh](https://www.linkedin.com/in/baljeet-singh-9039b818) (2010) | [Parikshit Dutta](https://www.linkedin.com/in/parikshit-dutta-7a862b13) (2011) | [Zhenchun Xia](http://www.linkedin.com/pub/zhenchun-xia/10/633/129) (2012)|
