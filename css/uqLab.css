@@ -5,6 +5,9 @@ li {
   border: none;
 }
 
+td {
+  padding: 10px 0;
+}
 
 body {
 	font-family: 'Pontano Sans', sans-serif;
