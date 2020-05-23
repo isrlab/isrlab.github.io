@@ -68,18 +68,15 @@ permalink: /members.html
 
 <table>
 <tr>
-<td><a href="https://www.linkedin.com/in/abhishekbathla">Abhishek Bathla </a>  (2007) </td> 
 <td><a href="https://www.linkedin.com/in/abhishekbathla">Abhishek Bathla</a> (2007)   </td>
 <td><a href="https://www.linkedin.com/in/vbramesh">Ramesh V. B.</a> (2008) </td>
 <td><a href="https://www.linkedin.com/in/sumit-pokhrel-a60a7a66">Sumit Pokhrel</a> (2015)</td>
+<td><a href="https://www.linkedin.com/in/brandon-simmons-928637b2">Brandon Simmons</a> (2015)</td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/in/brandon-simmons-928637b2">Brandon Simmons</a> (2015)</td>
 <td><a href="https://www.linkedin.com/in/pauldedward">Paul Edward</a> (2015) </td>
 <td><a href="https://www.linkedin.com/in/ryan-falcona-952316146/">Ryan Falcona</a> (2017)</td>
 <td><a href="https://www.linkedin.com/in/noah-lawrence-abab34171">Noah Lawrence</a> (2018)</td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/in/akshay-hiregoudar/">Akshay Hiregoudar</a> (2020)</td>
 </tr>
 </table>
