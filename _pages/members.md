@@ -22,7 +22,7 @@ permalink: /members.html
 ### Ph.D.
 
 
-<div class="wrapper">
+<div class="former_students">
   <div>One</div>
   <div>Two
     <p>I have some more content in.</p>

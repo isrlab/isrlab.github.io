@@ -21,9 +21,11 @@ table {
   border-spacing: 25px 25px;
 }
 
-.grid-container {
+.former_students{
   display: grid;
-  grid-template-columns: 80px 200px auto 40px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 10px;
+  row-gap: 1em;
 }
 
 body {
