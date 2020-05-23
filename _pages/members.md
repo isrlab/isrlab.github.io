@@ -4,7 +4,7 @@ title: Members
 permalink: /members.html
 ---
 
-Updated.
+Updated 2
 
 ## Faculty
 
