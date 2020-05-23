@@ -9,7 +9,7 @@ small{
   font-size: 75%;
   font-style: italic;
   color: blue;
-  margin-top:-1000px;
+  padding-top: -3px;
 }
 
 td {
