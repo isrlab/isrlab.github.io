@@ -4,7 +4,7 @@ title: Members
 permalink: /members.html
 ---
 
-Commented out.
+margin-bottom: 0.5em;
 
 ## Faculty
 
