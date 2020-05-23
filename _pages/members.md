@@ -10,6 +10,25 @@ permalink: /members.html
 <!--- [Full CV](/pdfs/raktim-cv.pdf) -->
 
 ## Current Members
+<table>
+<tr>
+<th> Graduate Students </th>
+<th> Postdoctoral Scholar </th>
+</tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a><br>
+    <a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <br>
+    <a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> 
+    <a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a><br></td>
+  </tr>
+    <tr>
+    <td>
+        <a href = "https://www.abhishekhalder.org">Abhishek Halder </a> <br>
+        <a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <br>
+        <a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <br>
+     </td>
+    </tr>
+</table>
 
 | **Graduate Students** | | **Postdoctoral Scholar** | 
 | [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.) | | [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829) |
