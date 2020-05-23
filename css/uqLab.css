@@ -24,7 +24,6 @@ body {
     float:center;
 }
 
-
 div.card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	text-align: justify;
@@ -87,9 +86,10 @@ div.infoblock > div.blockcontent {
 }
 
 small{
-  font-size: 50%;
+  font-size: 65%;
   font-style: italic;
   color: gray;
+  margin-bottom: .5em;
 }
 
 div.codeblock > div.blockcontent, div.blockcontent pre {
