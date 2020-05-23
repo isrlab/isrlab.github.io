@@ -23,15 +23,15 @@ permalink: /members.html
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <span class="brxsmall"></span> <small>2008</small></td>
-    <td><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <span class="brxsmall"></span> <small>2010</small></td>
-    <td><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> <span class="brxsmall"></span> <small>2011</small></td>
-    <td><a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a><span class="brxsmall"></span> <small>2012</small></td>
+    <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <span class="<span class="brsmall"></span> "></span> <small>2008</small></td>
+    <td><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <span class="<span class="brsmall"></span> "></span> <small>2010</small></td>
+    <td><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> <span class="<span class="brsmall"></span> "></span> <small>2011</small></td>
+    <td><a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a><span class="<span class="brsmall"></span> "></span> <small>2012</small></td>
   </tr>
     <tr>
-    <td><a href = "https://www.abhishekhalder.org">Abhishek Halder </a> <span class="brxsmall"></span> <small>2014</small></td>
-    <td><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <span class="brxsmall"></span> <small>2015</small> </td>
-     <td><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <span class="brxsmall"></span> <small>2019</small></td>
+    <td><a href = "https://www.abhishekhalder.org">Abhishek Halder </a> <span class="<span class="brsmall"></span> "></span> <small>2014</small></td>
+    <td><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <span class="<span class="brsmall"></span> "></span> <small>2015</small> </td>
+     <td><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <span class="<span class="brsmall"></span> "></span> <small>2019</small></td>
     </tr>
 </table>
 
@@ -39,20 +39,20 @@ permalink: /members.html
 
 <table>
   <tr>
-    <td><a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim</a><span class="brxsmall"></span> <small>2007</small> </td> 
-    <td><a href="http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464"> Avinash Prabhakar</a><span class="brxsmall"></span> <small>2008</small> </td> 
-    <td>Luis Arturo Ruiz Brito <span class="brxsmall"></span> <small>2009</small></td>
-    <td><a href="http://www.linkedin.com/in/ericdbw">Eric Wendel </a> <span class="brxsmall"></span> <small>2012</small></td>
+    <td><a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim</a><span class="<span class="brsmall"></span> "></span> <small>2007</small> </td> 
+    <td><a href="http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464"> Avinash Prabhakar</a><span class="<span class="brsmall"></span> "></span> <small>2008</small> </td> 
+    <td>Luis Arturo Ruiz Brito <span class="<span class="brsmall"></span> "></span> <small>2009</small></td>
+    <td><a href="http://www.linkedin.com/in/ericdbw">Eric Wendel </a> <span class="<span class="brsmall"></span> "></span> <small>2012</small></td>
   </tr>
     <tr>
-     <td>Kyungeun Kevin Kim <span class="brxsmall"></span> <small>2013</small></td>
-     <td><a href = "http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap">Michael Young</a> <span class="brxsmall"></span> <small>2016</small></td>
-     <td><a href = "https://www.linkedin.com/in/justinbarnes2013">Justin Barnes</a> <span class="brxsmall"></span> <small>2016</small> </td>
-     <td><a href = "https://in.linkedin.com/in/radhika-saraf-93232498">Radhika Saraf</a> <span class="brxsmall"></span> <small>2017</small></td>
+     <td>Kyungeun Kevin Kim <span class="<span class="brsmall"></span> "></span> <small>2013</small></td>
+     <td><a href = "http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap">Michael Young</a> <span class="<span class="brsmall"></span> "></span> <small>2016</small></td>
+     <td><a href = "https://www.linkedin.com/in/justinbarnes2013">Justin Barnes</a> <span class="<span class="brsmall"></span> "></span> <small>2016</small> </td>
+     <td><a href = "https://in.linkedin.com/in/radhika-saraf-93232498">Radhika Saraf</a> <span class="<span class="brsmall"></span> "></span> <small>2017</small></td>
     </tr>
     <tr>
-    <td><a href = "https://www.linkedin.com/in/jwkim8804">Jaewon Kim</a><span class="brxsmall"></span> <small>2017</small></td>
-    <td><a href = "https://www.linkedin.com/in/aritrabiswas">Aritra Biswas</a><span class="brxsmall"></span> <small>2017</small></td>
+    <td><a href = "https://www.linkedin.com/in/jwkim8804">Jaewon Kim</a><span class="<span class="brsmall"></span> "></span> <small>2017</small></td>
+    <td><a href = "https://www.linkedin.com/in/aritrabiswas">Aritra Biswas</a><span class="<span class="brsmall"></span> "></span> <small>2017</small></td>
     </tr>
 </table>
 
@@ -60,8 +60,8 @@ permalink: /members.html
 
 <table>
 <tr>
-<td> <a href = "http://www.linkedin.com/in/prasenjitsengupta">Prasenjit Sengupta </a> <span class="brxsmall"></span> <small>2007-2008</small></td>
-<td> <a href = "https://sites.google.com/view/kooktaelee">Kooktae Lee </a> <span class="brxsmall"></span> <small>2015-2016</small></td>
+<td> <a href = "http://www.linkedin.com/in/prasenjitsengupta">Prasenjit Sengupta </a> <span class="<span class="brsmall"></span> "></span> <small>2007-2008</small></td>
+<td> <a href = "https://sites.google.com/view/kooktaelee">Kooktae Lee </a> <span class="<span class="brsmall"></span> "></span> <small>2015-2016</small></td>
 </tr>
 </table>
 
@@ -69,48 +69,48 @@ permalink: /members.html
 
 <table>
 <tr>
-<td><a href="https://www.linkedin.com/in/abhishekbathla"> Abhishek Bathla </a><span class="brxsmall"></span> <small> 2007</small></td>
-<td><a href="https://www.linkedin.com/in/vbramesh"> Ramesh V. B. </a> <span class="brxsmall"></span> <small> 2008</small></td>
-<td><a href="https://www.linkedin.com/in/sumit-pokhrel-a60a7a66">Sumit Pokhrel</a><span class="brxsmall"></span> <small> 2015</small></td>
-<td><a href="https://www.linkedin.com/in/brandon-simmons-928637b2">Brandon Simmons</a> <span class="brxsmall"></span> <small> 2015</small></td>
+<td><a href="https://www.linkedin.com/in/abhishekbathla"> Abhishek Bathla </a><span class="<span class="brsmall"></span> "></span> <small> 2007</small></td>
+<td><a href="https://www.linkedin.com/in/vbramesh"> Ramesh V. B. </a> <span class="<span class="brsmall"></span> "></span> <small> 2008</small></td>
+<td><a href="https://www.linkedin.com/in/sumit-pokhrel-a60a7a66">Sumit Pokhrel</a><span class="<span class="brsmall"></span> "></span> <small> 2015</small></td>
+<td><a href="https://www.linkedin.com/in/brandon-simmons-928637b2">Brandon Simmons</a> <span class="<span class="brsmall"></span> "></span> <small> 2015</small></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/in/pauldedward">Paul Edward </a> <span class="brxsmall"></span> <small>2015</small></td>
-<td><a href="https://www.linkedin.com/in/ryan-falcona-952316146/">Ryan Falcona</a> <span class="brxsmall"></span> <small> 2017</small></td>
-<td><a href="https://www.linkedin.com/in/noah-lawrence-abab34171">Noah Lawrence</a> <span class="brxsmall"></span> <small> 2018</small></td>
-<td><a href="https://www.linkedin.com/in/akshay-hiregoudar/">Akshay Hiregoudar</a> <span class="brxsmall"></span> <small> 2020</small></td>
+<td><a href="https://www.linkedin.com/in/pauldedward">Paul Edward </a> <span class="<span class="brsmall"></span> "></span> <small>2015</small></td>
+<td><a href="https://www.linkedin.com/in/ryan-falcona-952316146/">Ryan Falcona</a> <span class="<span class="brsmall"></span> "></span> <small> 2017</small></td>
+<td><a href="https://www.linkedin.com/in/noah-lawrence-abab34171">Noah Lawrence</a> <span class="<span class="brsmall"></span> "></span> <small> 2018</small></td>
+<td><a href="https://www.linkedin.com/in/akshay-hiregoudar/">Akshay Hiregoudar</a> <span class="<span class="brsmall"></span> "></span> <small> 2020</small></td>
 </tr>
 </table>
 
 ### Undergraduate 
 <table>
 <tr>
-      <td>Victoria Nagorski <span class="brxsmall"></span> <small>2020</small></td>
-      <td>Christina Erwin <span class="brxsmall"></span> <small>2020</small></td>
-      <td>Brent Mathews <span class="brxsmall"></span> <small>2020</small></td>
-      <td>Joshua Graves <span class="brxsmall"></span> <small>2019</small></td>
+      <td>Victoria Nagorski <span class="<span class="brsmall"></span> "></span> <small>2020</small></td>
+      <td>Christina Erwin <span class="<span class="brsmall"></span> "></span> <small>2020</small></td>
+      <td>Brent Mathews <span class="<span class="brsmall"></span> "></span> <small>2020</small></td>
+      <td>Joshua Graves <span class="<span class="brsmall"></span> "></span> <small>2019</small></td>
     </tr>
     <tr>
-      <td>Rushi Patel <span class="brxsmall"></span> <small>2019</small></td>
-      <td>Charles Conrad <span class="brxsmall"></span> <small>2019</small></td>
-      <td>Jill Sears <span class="brxsmall"></span> <small>2019</small></td>
-      <td>Gerardo Barillas <span class="brxsmall"></span> <small>2018-2019</small></td>
+      <td>Rushi Patel <span class="<span class="brsmall"></span> "></span> <small>2019</small></td>
+      <td>Charles Conrad <span class="<span class="brsmall"></span> "></span> <small>2019</small></td>
+      <td>Jill Sears <span class="<span class="brsmall"></span> "></span> <small>2019</small></td>
+      <td>Gerardo Barillas <span class="<span class="brsmall"></span> "></span> <small>2018-2019</small></td>
     </tr>
     <tr>
-      <td>Tyler Bryant <span class="brxsmall"></span> <small>2015</small></td>
-      <td>Alejandro Castillo <span class="brxsmall"></span> <small>2015</small></td>
-      <td>Sachin Subramanian <span class="brxsmall"></span> <small>2014</small></td>
-      <td><a href="http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0">Scott Slaughter</a> <span class="brxsmall"></span> <small>2013</small></td>
+      <td>Tyler Bryant <span class="<span class="brsmall"></span> "></span> <small>2015</small></td>
+      <td>Alejandro Castillo <span class="<span class="brsmall"></span> "></span> <small>2015</small></td>
+      <td>Sachin Subramanian <span class="<span class="brsmall"></span> "></span> <small>2014</small></td>
+      <td><a href="http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0">Scott Slaughter</a> <span class="<span class="brsmall"></span> "></span> <small>2013</small></td>
     </tr>
     <tr>
-      <td><a href="http://www.linkedin.com/pub/emily-boster/80/183/b89">Emily Boster</a> <span class="brxsmall"></span> <small>2013-2013</small></td>
-      <td><a href="http://www.linkedin.com/pub/mario-botros/51/6b2/559">Mario Botros</a> <span class="brxsmall"></span> <small>2012-2013</small></td>
-      <td><a href="http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711">Chris Bertagne</a> <span class="brxsmall"></span> <small>REU Summer 2012</small></td>
-      <td><a href="http://www.linkedin.com/pub/zachary-sunberg/24/669/540">Zachary Sunberg</a><span class="brxsmall"></span> <small> </small></td>
+      <td><a href="http://www.linkedin.com/pub/emily-boster/80/183/b89">Emily Boster</a> <span class="<span class="brsmall"></span> "></span> <small>2013-2013</small></td>
+      <td><a href="http://www.linkedin.com/pub/mario-botros/51/6b2/559">Mario Botros</a> <span class="<span class="brsmall"></span> "></span> <small>2012-2013</small></td>
+      <td><a href="http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711">Chris Bertagne</a> <span class="<span class="brsmall"></span> "></span> <small>REU Summer 2012</small></td>
+      <td><a href="http://www.linkedin.com/pub/zachary-sunberg/24/669/540">Zachary Sunberg</a><span class="<span class="brsmall"></span> "></span> <small> </small></td>
     </tr>
     <tr>
-      <td><a href="http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715">Ainsley Van Rooyen</a><span class="brxsmall"></span> <small> </small></td>
-      <td><a href="http://www.linkedin.com/pub/shalom-johnson/25/135/55">Shalom Johnson</a><span class="brxsmall"></span> <small> </small></td>
-      <td>Luis Calixto <span class="brxsmall"></span> <small> </small></td>
+      <td><a href="http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715">Ainsley Van Rooyen</a><span class="<span class="brsmall"></span> "></span> <small> </small></td>
+      <td><a href="http://www.linkedin.com/pub/shalom-johnson/25/135/55">Shalom Johnson</a><span class="<span class="brsmall"></span> "></span> <small> </small></td>
+      <td>Luis Calixto <span class="<span class="brsmall"></span> "></span> <small> </small></td>
     </tr>
 </table>
