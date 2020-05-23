@@ -10,6 +10,7 @@ permalink: /members.html
 <!--- [Full CV](/pdfs/raktim-cv.pdf) -->
 
 ## Current Members
+
 | Graduate Students | Postdoctoral Scholar |
 |-------------------|----------------------|
 | [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.) | [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829) |
@@ -22,12 +23,14 @@ permalink: /members.html
 ## Former Members
 
 ### Ph.D.
+
 |||||
 |-|-|-|-|
 |[James Fisher](https://www.linkedin.com/in/james-fisher-0ba9798b) (2008) | [Baljeet Singh](https://www.linkedin.com/in/baljeet-singh-9039b818) (2010) | [Parikshit Dutta](https://www.linkedin.com/in/parikshit-dutta-7a862b13) (2011) | [Zhenchun Xia](http://www.linkedin.com/pub/zhenchun-xia/10/633/129) (2012)
 |[Abhishek Halder](https://www.abhishekhalder.org) (2014) | [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015) | [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (2019)
 
 ### M.S.
+
 |||||
 |-|-|-|-|
 |[Amos Kim](http://www.linkedin.com/pub/amos-kim/2b/63a/69) (2007) | [Avinash Prabhakar](http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464) (2008) | Luis Arturo Ruiz Brito (2009) | [Eric Wendel](http://www.linkedin.com/in/ericdbw) (2012) |
@@ -35,18 +38,21 @@ permalink: /members.html
 [Jaewon Kim](https://www.linkedin.com/in/jwkim8804) (2017) | [Aritra Biswas](https://www.linkedin.com/in/aritrabiswas) (2017)
 
 ### Post-Doc
+
 |||
 |-|-|
 |[Prasenjit Sengupta](http://www.linkedin.com/in/prasenjitsengupta) (2007-2008) | [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015-2016)
 
 
 ### M.E.
+
 |||||
 |-|-|-|-|
 |[Abhishek Bathla](https://www.linkedin.com/in/abhishekbathla) (2007) |  [Ramesh V. B.](https://www.linkedin.com/in/vbramesh) (2008) | [Sumit Pokhrel](https://www.linkedin.com/in/sumit-pokhrel-a60a7a66) (2015) | [Brandon Simmons](https://www.linkedin.com/in/brandon-simmons-928637b2) (2015) | [Paul Edward](https://www.linkedin.com/in/pauldedward) (2015)| 
 |[Ryan Falcona](https://www.linkedin.com/in/ryan-falcona-952316146/) (2017) | [Noah Lawrence](https://www.linkedin.com/in/noah-lawrence-abab34171) (2018) | [Akshay Hiregoudar](https://www.linkedin.com/in/akshay-hiregoudar/) (2020)
 
 ### Undergraduate 
+
 |||||
 |-|-|-|-|
 Victoria Nagorski (2020) | Christina Erwin (2020) | Brent Mathews (2020) | Joshua Graves (2019) | 
