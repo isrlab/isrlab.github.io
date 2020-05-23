@@ -22,15 +22,15 @@ permalink: /members.html
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> (2008)</td>
-    <td><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> (2010)</td>
-    <td><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> (2011)</td>
-    <td><a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a> (2012)</td>
+    <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <br><small>2008</small></td>
+    <td><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <br><small>2010</small></td>
+    <td><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> <br><small>2011</small></td>
+    <td><a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a><br><small>2012</small></td>
   </tr>
     <tr>
-    <td><a href = "https://www.abhishekhalder.org">Abhishek Halder </a> (2014)</td>
-    <td><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> (2015)</td>
-     <td><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> (2019)</td>
+    <td><a href = "https://www.abhishekhalder.org">Abhishek Halder </a> <br><small>2014</small></td>
+    <td><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <br><small>2015</small> </td>
+     <td><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <br><small>2019</small></td>
     </tr>
 </table>
 
@@ -38,20 +38,20 @@ permalink: /members.html
 
 <table>
   <tr>
-    <td><a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim</a> (2007) </td> 
-    <td><a href="http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464"> Avinash Prabhakar</a> (2008) </td> 
+    <td><a href="http://www.linkedin.com/pub/amos-kim/2b/63a/69"> Amos Kim</a><br><small>2007</small> </td> 
+    <td><a href="http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464"> Avinash Prabhakar</a><br><small>2008</small> </td> 
     <td>Luis Arturo Ruiz Brito (2009)</td>
-    <td><a href="http://www.linkedin.com/in/ericdbw">Eric Wendel </a> (2012)</td>
+    <td><a href="http://www.linkedin.com/in/ericdbw">Eric Wendel </a> <br><small>2012</small></td>
   </tr>
     <tr>
      <td>Kyungeun Kevin Kim (2013)</td>
-     <td><a href = "http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap">Michael Young</a> (2016)</td>
-     <td><a href = "https://www.linkedin.com/in/justinbarnes2013">Justin Barnes</a> (2016) </td>
-     <td><a href = "https://in.linkedin.com/in/radhika-saraf-93232498">Radhika Saraf</a> (2017) </td>
+     <td><a href = "http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap">Michael Young</a> <br><small>2016</small></td>
+     <td><a href = "https://www.linkedin.com/in/justinbarnes2013">Justin Barnes</a> <br><small>2016</small> </td>
+     <td><a href = "https://in.linkedin.com/in/radhika-saraf-93232498">Radhika Saraf</a> <br><small>2017</small></td>
     </tr>
     <tr>
-    <td><a href = "https://www.linkedin.com/in/jwkim8804">Jaewon Kim</a> (2017) </td>
-    <td><a href = "https://www.linkedin.com/in/aritrabiswas">Aritra Biswas</a> (2017)</td>
+    <td><a href = "https://www.linkedin.com/in/jwkim8804">Jaewon Kim</a><br><small>2017</small></td>
+    <td><a href = "https://www.linkedin.com/in/aritrabiswas">Aritra Biswas</a><br><small>2017</small></td>
     </tr>
 </table>
 
@@ -59,8 +59,8 @@ permalink: /members.html
 
 <table>
 <tr>
-<td> <a href = "http://www.linkedin.com/in/prasenjitsengupta">Prasenjit Sengupta </a> (2007-2008)</td>
-<td> <a href = "https://sites.google.com/view/kooktaelee">Kooktae Lee </a> (2015-2016)</td>
+<td> <a href = "http://www.linkedin.com/in/prasenjitsengupta">Prasenjit Sengupta </a> <br><small>2007-2008</small></td>
+<td> <a href = "https://sites.google.com/view/kooktaelee">Kooktae Lee </a> <br><small>2015-2016</small></td>
 </tr>
 </table>
 
@@ -68,16 +68,16 @@ permalink: /members.html
 
 <table>
 <tr>
-<td><a href="https://www.linkedin.com/in/abhishekbathla">Abhishek Bathla</a> (2007)   </td>
-<td><a href="https://www.linkedin.com/in/vbramesh">Ramesh V. B.</a> (2008) </td>
-<td><a href="https://www.linkedin.com/in/sumit-pokhrel-a60a7a66">Sumit Pokhrel</a> (2015)</td>
-<td><a href="https://www.linkedin.com/in/brandon-simmons-928637b2">Brandon Simmons</a> (2015)</td>
+<td><a href="https://www.linkedin.com/in/abhishekbathla">Abhishek Bathla</a><br><small> 2007</small></td>
+<td><a href="https://www.linkedin.com/in/vbramesh">Ramesh V. B.</a> <br><small> 2008</small></td>
+<td><a href="https://www.linkedin.com/in/sumit-pokhrel-a60a7a66">Sumit Pokhrel</a><br><small> 2015</small></td>
+<td><a href="https://www.linkedin.com/in/brandon-simmons-928637b2">Brandon Simmons</a> <br><small> 2015</small></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/in/pauldedward">Paul Edward </a> <br><small>2015</small></td>
-<td><a href="https://www.linkedin.com/in/ryan-falcona-952316146/">Ryan Falcona</a> (2017)</td>
-<td><a href="https://www.linkedin.com/in/noah-lawrence-abab34171">Noah Lawrence</a> (2018)</td>
-<td><a href="https://www.linkedin.com/in/akshay-hiregoudar/">Akshay Hiregoudar</a> (2020)</td>
+<td><a href="https://www.linkedin.com/in/ryan-falcona-952316146/">Ryan Falcona</a> <br><small> 2017</small></td>
+<td><a href="https://www.linkedin.com/in/noah-lawrence-abab34171">Noah Lawrence</a> <br><small> 2018</small></td>
+<td><a href="https://www.linkedin.com/in/akshay-hiregoudar/">Akshay Hiregoudar</a> <br><small> 2020</small></td>
 </tr>
 </table>
 
