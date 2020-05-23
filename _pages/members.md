@@ -113,5 +113,4 @@ permalink: /members.html
       <td>Luis Calixto.</td>
       <td> </td>
     </tr>
-  </tbody>
 </table>
