@@ -23,15 +23,12 @@ permalink: /members.html
 
 
 <div class="former_students">
-  <div>One</div>
-  <div>Two
-    <p>I have some more content in.</p>
-    <p>This makes me taller than 100 pixels.</p>
+  <div><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <br> <small>2008</small></div>
+  <div><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <br> <small>2010</small></div>
+  <div><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> <br> <small>2011</small></div>
+  <div><a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a><br> <small>2012</small></div>
+  <div><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <br> <small>2008</small></div>
   </div>
-  <div>Three</div>
-  <div>Four</div>
-  <div>Five</div>
-</div>
 
 
 <table>
