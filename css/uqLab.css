@@ -85,6 +85,12 @@ div.infoblock > div.blockcontent {
     background: #ffffdd;
 }
 
+small{
+  font-size: 50%;
+  font-style: italic;
+  color: gray;
+}
+
 div.codeblock > div.blockcontent, div.blockcontent pre {
 	background: #f8f8f8;
 }
