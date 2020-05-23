@@ -29,20 +29,20 @@ permalink: /members.html
 ### M.S.
 |||||
 |-|-|-|-|
-[Amos Kim](http://www.linkedin.com/pub/amos-kim/2b/63a/69) (2007) | [Avinash Prabhakar](http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464) (2008) | Luis Arturo Ruiz Brito (2009) | [Eric Wendel](http://www.linkedin.com/in/ericdbw) (2012) |
+|[Amos Kim](http://www.linkedin.com/pub/amos-kim/2b/63a/69) (2007) | [Avinash Prabhakar](http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464) (2008) | Luis Arturo Ruiz Brito (2009) | [Eric Wendel](http://www.linkedin.com/in/ericdbw) (2012) |
 |Kyungeun Kevin Kim (2013) | [Michael Young](http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap) (2016) | [Justin Barnes](https://www.linkedin.com/in/justinbarnes2013) (2016) | [Radhika Saraf](https://in.linkedin.com/in/radhika-saraf-93232498) (2017) |
 [Jaewon Kim](https://www.linkedin.com/in/jwkim8804) (2017) | [Aritra Biswas](https://www.linkedin.com/in/aritrabiswas) (2017)
 
 ### Post-Doc
 |||
 |-|-|
-[Prasenjit Sengupta](http://www.linkedin.com/in/prasenjitsengupta) (2007-2008) | [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015-2016)
+|[Prasenjit Sengupta](http://www.linkedin.com/in/prasenjitsengupta) (2007-2008) | [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015-2016)
 
 
 ### M.E.
 |||||
 |-|-|-|-|
-[Abhishek Bathla](https://www.linkedin.com/in/abhishekbathla) (2007) |  [Ramesh V. B.](https://www.linkedin.com/in/vbramesh) (2008) | [Sumit Pokhrel](https://www.linkedin.com/in/sumit-pokhrel-a60a7a66) (2015) | [Brandon Simmons](https://www.linkedin.com/in/brandon-simmons-928637b2) (2015) | [Paul Edward](https://www.linkedin.com/in/pauldedward) (2015)| 
+|[Abhishek Bathla](https://www.linkedin.com/in/abhishekbathla) (2007) |  [Ramesh V. B.](https://www.linkedin.com/in/vbramesh) (2008) | [Sumit Pokhrel](https://www.linkedin.com/in/sumit-pokhrel-a60a7a66) (2015) | [Brandon Simmons](https://www.linkedin.com/in/brandon-simmons-928637b2) (2015) | [Paul Edward](https://www.linkedin.com/in/pauldedward) (2015)| 
 |[Ryan Falcona](https://www.linkedin.com/in/ryan-falcona-952316146/) (2017) | [Noah Lawrence](https://www.linkedin.com/in/noah-lawrence-abab34171) (2018) | [Akshay Hiregoudar](https://www.linkedin.com/in/akshay-hiregoudar/) (2020)
 
 ### Undergraduate 
