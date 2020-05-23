@@ -11,43 +11,45 @@ permalink: /members.html
 
 ## Current Members
 
-| Graduate Students | Postdoctoral Scholar |
-|-------------------|----------------------|
-| [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.) | [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829) |
-| [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.) |
-| [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.) |
-| [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.) |
+### Postdoctoral Scholar
+[Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829)
 
-
+### Graduate Students
+1. [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.)
+1. [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)
+1. [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.)
+1. [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
 
 ## Former Members
 ### Ph.D.
 
-|||||
-|-|-|-|-|
-| [James Fisher](https://www.linkedin.com/in/james-fisher-0ba9798b) (2008) | [Baljeet Singh](https://www.linkedin.com/in/baljeet-singh-9039b818) (2010) |  [Parikshit Dutta](https://www.linkedin.com/in/parikshit-dutta-7a862b13) (2011) | [Zhenchun Xia](http://www.linkedin.com/pub/zhenchun-xia/10/633/129) (2012)|
-| [Abhishek Halder](https://www.abhishekhalder.org) (2014) |  [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015) | [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (2019)|
+1. [James Fisher](https://www.linkedin.com/in/james-fisher-0ba9798b) (2008) 
+1. [Baljeet Singh](https://www.linkedin.com/in/baljeet-singh-9039b818) (2010) 
+1. [Parikshit Dutta](https://www.linkedin.com/in/parikshit-dutta-7a862b13) (2011) 
+1. [Zhenchun Xia](http://www.linkedin.com/pub/zhenchun-xia/10/633/129) (2012)|
+1. [Abhishek Halder](https://www.abhishekhalder.org) (2014)
+1. [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015)
+1. [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (2019)
 
 ### M.S.
-
-|||||
-|-|-|-|-|
-| [Amos Kim](http://www.linkedin.com/pub/amos-kim/2b/63a/69) (2007) | [Avinash Prabhakar](http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464) (2008) | Luis Arturo Ruiz Brito (2009) | [Eric Wendel](http://www.linkedin.com/in/ericdbw) (2012) |
-| Kyungeun Kevin Kim (2013) | [Michael Young](http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap) (2016) | [Justin Barnes](https://www.linkedin.com/in/justinbarnes2013) (2016) | [Radhika Saraf](https://in.linkedin.com/in/radhika-saraf-93232498) (2017) |
-| [Jaewon Kim](https://www.linkedin.com/in/jwkim8804) (2017) | [Aritra Biswas](https://www.linkedin.com/in/aritrabiswas) (2017)
+1. [Amos Kim](http://www.linkedin.com/pub/amos-kim/2b/63a/69) (2007) 
+1. [Avinash Prabhakar](http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464) (2008)
+1. Luis Arturo Ruiz Brito (2009)
+1. [Eric Wendel](http://www.linkedin.com/in/ericdbw) (2012) 
+1. Kyungeun Kevin Kim (2013)
+1. [Michael Young](http://www.linkedin.com/pub/michael-young/76/119/738?trk=pub-pbmap) (2016)
+1. [Justin Barnes](https://www.linkedin.com/in/justinbarnes2013) (2016)
+1. [Radhika Saraf](https://in.linkedin.com/in/radhika-saraf-93232498) (2017) 
+1. [Jaewon Kim](https://www.linkedin.com/in/jwkim8804) (2017)
+1. [Aritra Biswas](https://www.linkedin.com/in/aritrabiswas) (2017)
 
 ### Post-Doc
-
-|||
-|-|-|
-| [Prasenjit Sengupta](http://www.linkedin.com/in/prasenjitsengupta) (2007-2008) | [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015-2016)
+1. [Prasenjit Sengupta](http://www.linkedin.com/in/prasenjitsengupta) (2007-2008)
+1. [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015-2016)
 
 
 ### M.E.
-
-|||||
-|-|-|-|-|
-| [Abhishek Bathla](https://www.linkedin.com/in/abhishekbathla) (2007) |  [Ramesh V. B.](https://www.linkedin.com/in/vbramesh) (2008) | [Sumit Pokhrel](https://www.linkedin.com/in/sumit-pokhrel-a60a7a66) (2015) | [Brandon Simmons](https://www.linkedin.com/in/brandon-simmons-928637b2) (2015) | [Paul Edward](https://www.linkedin.com/in/pauldedward) (2015)| 
+[Abhishek Bathla](https://www.linkedin.com/in/abhishekbathla) (2007) |  [Ramesh V. B.](https://www.linkedin.com/in/vbramesh) (2008) | [Sumit Pokhrel](https://www.linkedin.com/in/sumit-pokhrel-a60a7a66) (2015) | [Brandon Simmons](https://www.linkedin.com/in/brandon-simmons-928637b2) (2015) | [Paul Edward](https://www.linkedin.com/in/pauldedward) (2015)| 
 | [Ryan Falcona](https://www.linkedin.com/in/ryan-falcona-952316146/) (2017) | [Noah Lawrence](https://www.linkedin.com/in/noah-lawrence-abab34171) (2018) | [Akshay Hiregoudar](https://www.linkedin.com/in/akshay-hiregoudar/) (2020)
 
 ### Undergraduate 
