@@ -18,7 +18,7 @@ permalink: /members.html
   <tr>
     <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a><br>
     <a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <br>
-    <a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> 
+    <a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> <br>
     <a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a><br></td>
   </tr>
     <tr>
