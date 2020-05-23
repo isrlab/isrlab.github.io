@@ -9,12 +9,12 @@ small{
   font-size: 75%;
   font-style: italic;
   color: gray;
+  margin-top:-8px;
 }
 
 td {
   text-align: left;
   padding-left: 25px;
-  /*line-height: 100%;*/
 }
 
 table {
