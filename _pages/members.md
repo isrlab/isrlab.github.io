@@ -9,7 +9,6 @@ permalink: /members.html
 <!--- [Full CV](/pdfs/raktim-cv.pdf) -->
 
 ## Current Members
-
 |Graduate Students|Postdoctoral Scholar|
 |-|-|
 |[Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.) | [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829)
@@ -19,14 +18,13 @@ permalink: /members.html
 
 
 ## Former Members
- 
 ### Ph.D.
-|AB|B|C|D|
+|||||
 |-|-|-|-|
-|[James Fisher](https://www.linkedin.com/in/james-fisher-0ba9798b) (2008) | [Baljeet Singh](hhttps://www.linkedin.com/in/baljeet-singh-9039b818) (2010) | [Parikshit Dutta](https://www.linkedin.com/in/parikshit-dutta-7a862b13) (2011) | [Zhenchun Xia](http://www.linkedin.com/pub/zhenchun-xia/10/633/129) (2012)
-<!-- |[Abhishek Halder](https://www.abhishekhalder.org) (2014) | [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015) | [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (2019)  -->
+|[James Fisher](https://www.linkedin.com/in/james-fisher-0ba9798b) (2008) | [Baljeet Singh](https://www.linkedin.com/in/baljeet-singh-9039b818) (2010) | [Parikshit Dutta](https://www.linkedin.com/in/parikshit-dutta-7a862b13) (2011) | [Zhenchun Xia](http://www.linkedin.com/pub/zhenchun-xia/10/633/129) (2012)
+|[Abhishek Halder](https://www.abhishekhalder.org) (2014) | [Kooktae Lee](https://sites.google.com/view/kooktaelee) (2015) | [Shao-Chen Hsu](https://www.linkedin.com/in/shaochenhsu) (2019)
 
-<!-- ### M.S.
+### M.S.
 |||||
 |-|-|-|-|
 |[Amos Kim](http://www.linkedin.com/pub/amos-kim/2b/63a/69) (2007) | [Avinash Prabhakar](http://www.linkedin.com/pub/avinash-prabhakar/4/3b3/464) (2008) | Luis Arturo Ruiz Brito (2009) | [Eric Wendel](http://www.linkedin.com/in/ericdbw) (2012) |
@@ -54,4 +52,3 @@ Tyler Bryant (2015) | Alejandro Castillo (2015) | Sachin Subramanian (2014) | [S
 |[Emily Boster](http://www.linkedin.com/pub/emily-boster/80/183/b89) (2012-2013) | [Mario Botros](http://www.linkedin.com/pub/mario-botros/51/6b2/559) (2012-2013) | [Chris Bertagne](http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711) (Summer 2012) | [Zachary Sunberg](http://www.linkedin.com/pub/zachary-sunberg/24/669/540) |
 |[Ainsley Van Rooyen](http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715)| [Shalom Johnson](http://www.linkedin.com/pub/shalom-johnson/25/135/55) | Luis Calixto.
 
- -->
