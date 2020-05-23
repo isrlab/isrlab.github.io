@@ -106,12 +106,11 @@ permalink: /members.html
       <td><a href="http://www.linkedin.com/pub/emily-boster/80/183/b89">Emily Boster</a> <br><small>2013-2013</small></td>
       <td><a href="http://www.linkedin.com/pub/mario-botros/51/6b2/559">Mario Botros</a> <br><small>2012-2013</small></td>
       <td><a href="http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711">Chris Bertagne</a> <br><small>REU Summer 2012</small></td>
-      <td><a href="http://www.linkedin.com/pub/zachary-sunberg/24/669/540">Zachary Sunberg</a></td>
+      <td><a href="http://www.linkedin.com/pub/zachary-sunberg/24/669/540">Zachary Sunberg</a><br><small> </small></td>
     </tr>
     <tr>
-      <td><a href="http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715">Ainsley Van Rooyen</a></td>
-      <td><a href="http://www.linkedin.com/pub/shalom-johnson/25/135/55">Shalom Johnson</a></td>
-      <td>Luis Calixto.</td>
-      <td> </td>
+      <td><a href="http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715">Ainsley Van Rooyen</a><br><small> </small></td>
+      <td><a href="http://www.linkedin.com/pub/shalom-johnson/25/135/55">Shalom Johnson</a><br><small> </small></td>
+      <td>Luis Calixto <br><small> </small></td>
     </tr>
 </table>
