@@ -21,6 +21,11 @@ table {
   border-spacing: 25px 25px;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: 80px 200px auto 40px;
+}
+
 body {
 	font-family: 'Pontano Sans', sans-serif;
 	font-size: 100%;

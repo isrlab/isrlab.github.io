@@ -21,6 +21,19 @@ permalink: /members.html
 ## Former Members
 ### Ph.D.
 
+
+<div class="wrapper">
+  <div>One</div>
+  <div>Two
+    <p>I have some more content in.</p>
+    <p>This makes me taller than 100 pixels.</p>
+  </div>
+  <div>Three</div>
+  <div>Four</div>
+  <div>Five</div>
+</div>
+
+
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <br> <small>2008</small></td>
