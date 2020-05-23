@@ -82,7 +82,6 @@ permalink: /members.html
 </table>
 
 ### Undergraduate 
-
 <table>
 <tr>
       <td>Victoria Nagorski <br><small>2020</small></td>
