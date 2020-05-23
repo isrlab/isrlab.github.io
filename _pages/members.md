@@ -4,8 +4,6 @@ title: Members
 permalink: /members.html
 ---
 
-margin-bottom: 0.5em;
-
 ## Faculty
 
 [Raktim Bhattacharya](http://engineering.tamu.edu/aerospace/people/rbhattacharya)
