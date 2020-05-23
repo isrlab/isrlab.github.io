@@ -21,29 +21,15 @@ permalink: /members.html
 ## Former Members
 ### Ph.D.
 
-
 <div class="former_students">
   <div><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <br> <small>2008</small></div>
   <div><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <br> <small>2010</small></div>
   <div><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> <br> <small>2011</small></div>
   <div><a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a><br> <small>2012</small></div>
-  <div><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <br> <small>2008</small></div>
+  <div><a href = "https://www.abhishekhalder.org">Abhishek Halder </a> <br> <small>2014</small></div>
+  <div><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <br> <small>2015</small> </div>
+  <div><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <br> <small>2019</small></div>
   </div>
-
-
-<table>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <br> <small>2008</small></td>
-    <td><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <br> <small>2010</small></td>
-    <td><a href ="https://www.linkedin.com/in/parikshit-dutta-7a862b13"> Parikshit Dutta </a> <br> <small>2011</small></td>
-    <td><a href ="http://www.linkedin.com/pub/zhenchun-xia/10/633/129"> Zhenchun Xia </a><br> <small>2012</small></td>
-  </tr>
-    <tr>
-    <td><a href = "https://www.abhishekhalder.org">Abhishek Halder </a> <br> <small>2014</small></td>
-    <td><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <br> <small>2015</small> </td>
-     <td><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <br> <small>2019</small></td>
-    </tr>
-</table>
 
 ### M.S.
 
