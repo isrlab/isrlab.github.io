@@ -7,11 +7,12 @@ li {
 
 td {
   text-align: left;
+  padding-left: 10px;
 }
 
 table {
   border-collapse: collapse;
-  border-spacing: 15px 20px;
+  border-spacing: 15px 0px;
 }
 
 body {
