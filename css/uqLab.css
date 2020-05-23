@@ -21,6 +21,11 @@ table {
   border-spacing: 25px 25px;
 }
 
+.brsmall { 
+  display: block; 
+  margin-bottom: -.2em; 
+} 
+
 body {
 	font-family: 'Pontano Sans', sans-serif;
 	font-size: 100%;
