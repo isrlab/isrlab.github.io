@@ -11,11 +11,12 @@ permalink: /members.html
 
 ## Current Members
 | Graduate Students | Postdoctoral Scholar |
-| - | - |
-| [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.) | [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829)
-| [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)
-| [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.)
-| [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
+|-------------------|----------------------|
+| [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.) | [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829) |
+| [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.) |
+| [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.) |
+| [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.) |
+
 
 
 ## Former Members
