@@ -68,8 +68,8 @@ permalink: /members.html
 
 <table>
 <tr>
-<td><a href="https://www.linkedin.com/in/abhishekbathla">Abhishek Bathla</a><br><small> 2007</small></td>
-<td><a href="https://www.linkedin.com/in/vbramesh">Ramesh V. B.</a> <br><small> 2008</small></td>
+<td><a href="https://www.linkedin.com/in/abhishekbathla"> Abhishek Bathla </a><br><small> 2007</small></td>
+<td><a href="https://www.linkedin.com/in/vbramesh"> Ramesh V. B. </a> <br><small> 2008</small></td>
 <td><a href="https://www.linkedin.com/in/sumit-pokhrel-a60a7a66">Sumit Pokhrel</a><br><small> 2015</small></td>
 <td><a href="https://www.linkedin.com/in/brandon-simmons-928637b2">Brandon Simmons</a> <br><small> 2015</small></td>
 </tr>
