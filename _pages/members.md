@@ -5,6 +5,7 @@ permalink: /members.html
 ---
 
 ## Faculty
+
 [Raktim Bhattacharya](http://engineering.tamu.edu/aerospace/people/rbhattacharya)
 <!--- [Full CV](/pdfs/raktim-cv.pdf) -->
 
@@ -18,6 +19,7 @@ permalink: /members.html
 
 
 ## Former Members
+
 ### Ph.D.
 |||||
 |-|-|-|-|
