@@ -17,12 +17,6 @@ permalink: /members.html
 1. [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)
 1. [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.)
 1. [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.)
-1. Akshay Hiregoudar (M.S.)
-
-### Undergraduate
-1. Victoria Nagorski
-1. Christina Erwin 
-1. Brent Mathews 
 
 ## Former Members
 
@@ -55,7 +49,7 @@ permalink: /members.html
 1. [Paul Edward](https://www.linkedin.com/in/pauldedward) (2015)
 1. [Ryan Falcona](https://www.linkedin.com/in/ryan-falcona-952316146/) (2017)
 1. [Noah Lawrence](https://www.linkedin.com/in/noah-lawrence-abab34171) (2018) 
-
+1. [Akshay Hiregoudar](https://www.linkedin.com/in/akshay-hiregoudar/) (2020)
 
 ### Post-Doc
 1. [Prasenjit Sengupta](http://www.linkedin.com/in/prasenjitsengupta) (2007-2008)
@@ -63,8 +57,6 @@ permalink: /members.html
 
 
 ### Undergraduate 
-> Joshua Graves (2019), Rushi Patel (2019), Charles Conrad (2019), Jill Sears (2019), Gerardo Barillas (2018-2019), Tyler Bryant (2015), Alejandro Castillo (2015), Sachin Subramanian (2014), [Scott Slaughter](http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0) (2013), [Emily Boster](http://www.linkedin.com/pub/emily-boster/80/183/b89) (2012-2013), [Mario Botros](http://www.linkedin.com/pub/mario-botros/51/6b2/559) (2012-2013), [Chris Bertagne](http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711) (Summer 2012), [Zachary Sunberg](http://www.linkedin.com/pub/zachary-sunberg/24/669/540), [Ainsley Van Rooyen](http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715), [Shalom Johnson](http://www.linkedin.com/pub/shalom-johnson/25/135/55), Luis Calixto.
+>  Victoria Nagorski (2020), Christina Erwin (2020), Brent Mathews (2020), Joshua Graves (2019), Rushi Patel (2019), Charles Conrad (2019), Jill Sears (2019), Gerardo Barillas (2018-2019), Tyler Bryant (2015), Alejandro Castillo (2015), Sachin Subramanian (2014), [Scott Slaughter](http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0) (2013), [Emily Boster](http://www.linkedin.com/pub/emily-boster/80/183/b89) (2012-2013), [Mario Botros](http://www.linkedin.com/pub/mario-botros/51/6b2/559) (2012-2013), [Chris Bertagne](http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711) (Summer 2012), [Zachary Sunberg](http://www.linkedin.com/pub/zachary-sunberg/24/669/540), [Ainsley Van Rooyen](http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715), [Shalom Johnson](http://www.linkedin.com/pub/shalom-johnson/25/135/55), Luis Calixto.
 
-## Visting Students
-> Jorge Gutierez, Bordeaux University (Summer 2015)
 
