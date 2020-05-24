@@ -11,7 +11,7 @@ permalink: /members.html
 
 ## Current Members
 
-| **Graduate Students** | **Posdivoctoral Scholar** | 
+| **Graduate Students** | **Postdocs** | 
 |-|-|
 | [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.) | [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829) |
 | [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)   
