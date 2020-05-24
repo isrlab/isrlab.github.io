@@ -18,7 +18,7 @@ small{
   column-gap: 10px;
   row-gap: 10px;
   justify-content: left;
-  grid-auto-columns: minmax(auto,4);
+  grid-auto-columns: auto;
 }
 
 body {
