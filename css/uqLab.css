@@ -11,16 +11,6 @@ small{
   color: gray;
 }
 
-td {
-  text-align: left;
-  padding-left: 25px;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 25px 25px;
-}
-
 .former_students{
   display: grid;
   /*grid-template-columns: 1fr 1fr 1fr 1fr;*/
