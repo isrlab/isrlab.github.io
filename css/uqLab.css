@@ -39,7 +39,7 @@ div.card {
   padding: 1em;
   background-color: #FFF;
 	border-radius: 1em;
-	/* max-width: device-width;*/
+	max-width: device-width;
 	 margin:auto; 
 }
 
