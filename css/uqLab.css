@@ -29,7 +29,7 @@ body {
 	margin: 1em;
 	background-color: #EEEEEE;
   float:center;
-  max-width: device-width;
+  max-width: max-content;
 }
 
 
@@ -87,8 +87,7 @@ div.blocktitle {
 div.blockcontent {
   border: none;
 	font-size: 90%;
-  font-family: 'Pontano Sans', sans-serif;
-  width: device-width;
+	font-family: 'Pontano Sans', sans-serif;
 }
 
 div.infoblock > div.blockcontent {
