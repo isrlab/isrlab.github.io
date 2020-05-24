@@ -34,12 +34,12 @@ body {
 
 div.card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-	text-align: justify;
-	text-justify: inter-word;
-  padding: 1em;
+	/* text-align: justify; */
+	/* text-justify: inter-word; */
+  /* padding: 1em; */
 	border-radius: 1em;
-	max-width: device-width;
-	margin:auto;
+	/* max-width: device-width;
+	margin:auto; */
 }
 
 
