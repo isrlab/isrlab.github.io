@@ -18,7 +18,7 @@ small{
   column-gap: 10px;
   row-gap: 1em;
   justify-content: left;
-  background-color: lightblue;
+  background-color: #ccc;
 }
 
 body {
