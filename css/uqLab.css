@@ -18,6 +18,8 @@ small{
   column-gap: 10px;
   row-gap: 10px;
   justify-content: left;
+  max-width: 80%;
+  mrgin: auto;
 }
 
 body {
