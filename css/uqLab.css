@@ -20,7 +20,7 @@ small{
   row-gap: 10px;
   justify-content: left;
   /* grid-auto-columns: auto; */
-  margin: auto;
+  margin: 1em;
 }
 
 
