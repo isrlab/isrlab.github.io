@@ -9,13 +9,13 @@ permalink: /members.html
 <!--- [Full CV](/pdfs/raktim-cv.pdf) -->
 
 ## Current Members
-
-| **Graduate Students** | **Postdoc** | 
-|-|-|
-| [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.) | [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829) |
-| [Sunsoo Kim](https://www.linkedin.com/in/sunsoo-kim-1222a511b) (Ph.D.)   
-| [Vedang Deshpande](https://www.linkedin.com/in/vedang-deshpande) (Ph.D.) 
-| [Vaishnav Tadiparthi](https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923) (Ph.D.) 
+<div class="former_students">
+  <div><a href="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <small>Ph.D.</small></div>
+  <div><a href="https://www.linkedin.com/in/sunsoo-kim-1222a511b">Sunsoo Kim</a> <br> <small>Ph.D.</small></div>
+  <div><a href ="https://www.linkedin.com/in/vedang-deshpande"> Vedang Deshpande </a> <br> <small>Ph.D.</small></div>
+  <div><a href ="https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923"> Vaishnav Tadiparthi </a><br> <small>2012</small></div>
+  <div><a href ="http://linkedin.com/in/dipanjan-saha-37b53829"> Dipanjan Saha </a> <br> <small>Postdoctoral Scholar</small></div>
+</div>
 
 ## Former Members
 ### Ph.D.
@@ -27,7 +27,7 @@ permalink: /members.html
   <div><a href = "https://www.abhishekhalder.org">Abhishek Halder </a> <br> <small>2014</small></div>
   <div><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <br> <small>2015</small> </div>
   <div><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <br> <small>2019</small></div>
-  </div>
+</div>
 
 ### M.S.
 
