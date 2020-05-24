@@ -85,9 +85,10 @@ div.blocktitle {
 }
 
 div.blockcontent {
-    border: none;
+  border: none;
 	font-size: 90%;
-	font-family: 'Pontano Sans', sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
+  width: device-width;
 }
 
 div.infoblock > div.blockcontent {
