@@ -10,10 +10,10 @@ permalink: /members.html
 
 ## Current Members
 <div class="former_students">
-  <div><a href="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <small>Ph.D.</small></div>
+  <div><a href="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <small>Ph.D. Student</small></div>
   <div><a href="https://www.linkedin.com/in/sunsoo-kim-1222a511b">Sunsoo Kim</a> <br> <small>Ph.D.</small></div>
   <div><a href ="https://www.linkedin.com/in/vedang-deshpande"> Vedang Deshpande </a> <br> <small>Ph.D.</small></div>
-  <div><a href ="https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923"> Vaishnav Tadiparthi </a><br> <small>2012</small></div>
+  <div><a href ="https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923"> Vaishnav Tadiparthi </a><br> <small>Ph.D.</small></div>
   <div><a href ="http://linkedin.com/in/dipanjan-saha-37b53829"> Dipanjan Saha </a> <br> <small>Postdoctoral Scholar</small></div>
 </div>
 
