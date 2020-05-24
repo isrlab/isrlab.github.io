@@ -37,8 +37,9 @@ div.card {
 	/* text-align: justify; */
 	/* text-justify: inter-word; */
   /* padding: 1em; */
-	/* border-radius: 1em; */
-
+	border-radius: 1em;
+	/* max-width: device-width;
+	margin:auto; */
 }
 
 
