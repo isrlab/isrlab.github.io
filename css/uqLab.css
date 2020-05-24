@@ -19,7 +19,7 @@ small{
   column-gap: 10px;
   row-gap: 10px;
   justify-content: left;
-  /* grid-auto-columns: min-content max-content auto; */
+  grid-auto-columns: min-content max-content auto;
 }
 
 
