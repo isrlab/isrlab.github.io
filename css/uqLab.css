@@ -15,11 +15,11 @@ small{
   max-width: device-width;
   display: grid;
   /* grid-template-columns: 1fr 1fr 1fr 1fr; */
-  /* grid-template-columns: auto auto auto auto;  */
+  grid-template-columns: minmax(100px, max-content)
   column-gap: 10px;
   row-gap: 10px;
   justify-content: left;
-  grid-auto-columns: fit-content(100%);
+  /* grid-auto-columns: fit-content(100%); */
 }
 
 
