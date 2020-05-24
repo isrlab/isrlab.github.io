@@ -20,6 +20,7 @@ small{
   row-gap: 10px;
   justify-content: left;
   /* grid-auto-columns: auto; */
+  margin: auto;
 }
 
 
@@ -40,7 +41,7 @@ div.card {
   background-color: #FFF;
 	border-radius: 1em;
 	max-width: device-width;
-	 margin:auto; 
+	margin:auto; 
 }
 
 
