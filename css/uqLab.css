@@ -19,6 +19,7 @@ small{
   column-gap: 10px;
   row-gap: 10px;
   justify-content: left;
+  padding: 1em;
   /* grid-auto-columns: min-content max-content auto; */
 }
 body {
@@ -34,7 +35,7 @@ div.card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	text-align: justify;
 	text-justify: inter-word;
-	background-color: rgb(175, 11, 11);
+	background-color: #FFF;
   padding: 1em;
 	border-radius: 1em;
 	max-width: 960px;
