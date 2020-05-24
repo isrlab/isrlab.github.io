@@ -12,7 +12,7 @@ small{
 }
 
 .former_students{
-  /* max-width: 600px; */
+  max-width: max-content;
   display: grid;
   /* grid-template-columns: 1fr 1fr 1fr 1fr; */
   grid-template-columns: auto auto auto auto; 
@@ -29,7 +29,6 @@ body {
 	margin: 1em;
 	background-color: #EEEEEE;
   float:center;
-  width: 500px;
 }
 
 
