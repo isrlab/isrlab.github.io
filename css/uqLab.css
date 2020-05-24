@@ -24,9 +24,9 @@ small{
 body {
 	font-family: 'Pontano Sans', sans-serif;
 	font-size: 100%;
-	margin: 0.5in;
+	margin: auto;
 	background-color: #EEEEEE;
-    float:center;
+  float:center;
 }
 
 div.card {
@@ -36,7 +36,7 @@ div.card {
 	background-color: #FFFFFF;
   padding: 1em;
 	border-radius: 1em;
-	max-width:auto; /*960px;*/
+	max-width: 960px;
 	margin:auto;
 }
 
