@@ -12,15 +12,15 @@ small{
 }
 
 .former_students{
+  max-width: 600px;
   display: grid;
-  /*grid-template-columns: 1fr 1fr 1fr 1fr;*/
-  /* grid-template-columns: auto auto auto auto; */
+  /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+  grid-template-columns: auto auto auto auto; 
   column-gap: 10px;
   row-gap: 10px;
   justify-content: left;
-  grid-auto-columns:  minmax(min-content, 4fr);
+  grid-auto-columns: min-content max-content auto;
 }
-
 body {
 	font-family: 'Pontano Sans', sans-serif;
 	font-size: 100%;
