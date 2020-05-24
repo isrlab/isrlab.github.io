@@ -12,7 +12,7 @@ small{
 }
 
 .former_students{
-  max-width: max-content;
+  max-width: device-width;
   display: grid;
   /* grid-template-columns: 1fr 1fr 1fr 1fr; */
   grid-template-columns: auto auto auto auto; 
