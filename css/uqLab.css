@@ -15,7 +15,7 @@ small{
   display: grid;
   /*grid-template-columns: 1fr 1fr 1fr 1fr;*/
   grid-template-columns: auto auto auto auto;
-  column-gap: 10px;
+  column-gap: 20px;
   row-gap: 1em;
   justify-content: left;
 }
