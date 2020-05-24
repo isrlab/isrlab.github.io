@@ -19,7 +19,6 @@ small{
   column-gap: 10px;
   row-gap: 10px;
   justify-content: left;
-
   /* grid-auto-columns: min-content max-content auto; */
 }
 
@@ -30,7 +29,7 @@ body {
 	margin: 1em;
 	background-color: #EEEEEE;
   float:center;
-  max-width: device-width;
+  max-width: 500px;
 }
 
 
