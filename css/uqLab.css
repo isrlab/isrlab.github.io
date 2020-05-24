@@ -12,14 +12,14 @@ small{
 }
 
 .former_students{
-  max-width: 600px;
+  /* max-width: 600px; */
   display: grid;
   /* grid-template-columns: 1fr 1fr 1fr 1fr; */
   grid-template-columns: auto auto auto auto; 
   column-gap: 10px;
   row-gap: 10px;
   justify-content: left;
-  grid-auto-columns: min-content max-content auto;
+  /* grid-auto-columns: min-content max-content auto; */
 }
 body {
 	font-family: 'Pontano Sans', sans-serif;
@@ -34,9 +34,9 @@ div.card {
 	text-align: justify;
 	text-justify: inter-word;
 	background-color: #FFFFFF;
-  	padding: 1em;
+  padding: 1em;
 	border-radius: 1em;
-	max-width:960px;
+	max-width:auto; /*960px;*/
 	margin:auto;
 }
 
