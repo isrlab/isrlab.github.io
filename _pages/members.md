@@ -5,12 +5,10 @@ permalink: /members.html
 ---
 
 ## Faculty
-
 [Raktim Bhattacharya](http://engineering.tamu.edu/aerospace/people/rbhattacharya)
 <!--- [Full CV](/pdfs/raktim-cv.pdf) -->
 
 ## Current Members
-
 | **Graduate Students** | **Postdocs** | 
 |-|-|
 | [Niladri Das](https://www.linkedin.com/in/niladri-das) (Ph.D.) | [Dipanjan Saha](http://linkedin.com/in/dipanjan-saha-37b53829) |
@@ -20,7 +18,6 @@ permalink: /members.html
 
 ## Former Members
 ### Ph.D.
-
 <div class="former_students">
   <div><a href="https://www.linkedin.com/in/james-fisher-0ba9798b">James Fisher</a> <br> <small>2008</small></div>
   <div><a href="https://www.linkedin.com/in/baljeet-singh-9039b818">Baljeet Singh</a> <br> <small>2010</small></div>
