@@ -68,16 +68,16 @@ permalink: /members.html
 
 ### Undergraduate 
 <div class="former_students">
-      <div>Victoria Nagorski <br> <small>2020</small></div>
+      <div><a href="https://www.linkedin.com/in/victoria-n-485311aa/">Victoria Nagorski</a> <br> <small>2020</small></div>
       <div>Christina Erwin <br> <small>2020</small></div>
-      <div>Brent Mathews <br> <small>2020</small></div>
+      <div><a href="https://www.linkedin.com/in/brent-mathews-b2724017a/">Brent Mathews</a> <br> <small>2020</small></div>
       <div>Joshua Graves <br> <small>2019</small></div>
-      <div>Rushi Patel <br> <small>2019</small></div>
-      <div>Charles Conrad <br> <small>2019</small></div>
+      <div><a href="https://www.linkedin.com/in/rushi-patel-97071b19b/">Rushi Patel</a> <br> <small>2019</small></div>
+      <div><a href="https://www.linkedin.com/in/charles-conrad-5a0791155/">Charles Conrad</a> <br> <small>2019</small></div>
       <div>Jill Sears <br> <small>2019</small></div>
-      <div>Gerardo Barillas <br> <small>2018-2019</small></div>
-      <div>Tyler Bryant <br> <small>2015</small></div>
-      <div>Alejandro Castillo <br> <small>2015</small></div>
+      <div><a href="https://www.linkedin.com/in/gerardo-javier-barillas-0b1b9296/">Gerardo Barillas</a> <br> <small>2018-2019</small></div>
+      <div><a href="https://www.linkedin.com/in/tyler-bryant-191125b0/">Tyler Bryant</a> <br> <small>2015</small></div>
+      <div><a href="https://www.linkedin.com/in/alejandrojcastillo/">Alejandro Castillo</a> <br> <small>2015</small></div>
       <div>Sachin Subramanian <br> <small>2014</small></div>
       <div><a href="http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0">Scott Slaughter</a> <br> <small>2013</small></div>
       <div><a href="http://www.linkedin.com/pub/emily-boster/80/183/b89">Emily Boster</a> <br> <small>2013-2013</small></div>
@@ -86,5 +86,5 @@ permalink: /members.html
       <div><a href="http://www.linkedin.com/pub/zachary-sunberg/24/669/540">Zachary Sunberg</a><br> <small> </small></div>
       <div><a href="http://www.linkedin.com/pub/ainsley-van-rooyen/32/59b/715">Ainsley Van Rooyen</a><br> <small> </small></div>
       <div><a href="http://www.linkedin.com/pub/shalom-johnson/25/135/55">Shalom Johnson</a><br> <small> </small></div>
-      <div>Luis Calixto <br> <small> </small></div>
+      <div><a href="https://www.linkedin.com/in/luisfcalixto/">Luis Calixto</a> <br> <small> </small></div>
     </div>
