@@ -24,16 +24,17 @@ small{
 body {
 	font-family: 'Pontano Sans', sans-serif;
 	font-size: 100%;
-	margin: auto;
+	margin: 1em;
 	background-color: #EEEEEE;
   float:center;
 }
+
 
 div.card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	text-align: justify;
 	text-justify: inter-word;
-	background-color: #FFFFFF;
+	background-color: rgb(175, 11, 11);
   padding: 1em;
 	border-radius: 1em;
 	max-width: 960px;
