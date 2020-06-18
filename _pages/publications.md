@@ -5,8 +5,12 @@ permalink: /publications.html
 ---
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
-
-1. V. Deshpande, R. Bhattacharya, [Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions](https://arxiv.org/pdf/2004.01736.pdf), **IFAC World Congress**, 2020
+1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $\mathcal{H}_2/\mathcal{H}_\infty$ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
+1. S. Kim, V. Deshpande, R. Bhattacharya, [Robust Kalman Filtering with Probabilistic Uncertainty in System Parameters](https://arxiv.org/pdf/2003.10926.pdf), **IEEE Control System Letters**, 2020.
+1. S. Kim, R. Bhattacharya, Hybrid Drone Modeling and Control with Wind Disturbance, **International Conference on Systems and Control**, 2020.
+1. S. Kim, R. Bhattacharya, $\mathcal{H}_2$ Optimized PID Control of Quad-Copter Platform with Wind Disturbance, **International Conference on Unmanned Aircraft Systems**, 2020.
+1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
+1. V. Deshpande, R. Bhattacharya, [Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions](https://arxiv.org/pdf/2004.01736.pdf), **IFAC World Congress**, 2020.
 1. N. Das, R. Bhattacharya, [Eigen Value Analysis in Lower Bounding Uncertainty of Kalman Filter Estimates](https://arxiv.org/pdf/2003.06029.pdf), **IFAC World Congress**, 2020.
 1.  N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
 1. N. Das, R. Bhattacharya, [Optimal Transport Based Filtering with Nonlinear State Equality Constraints](https://arxiv.org/pdf/2003.06028.pdf), **IFAC World Congress**, 2020.
