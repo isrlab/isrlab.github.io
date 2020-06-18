@@ -9,7 +9,7 @@ permalink: /publications.html
 1. S. Kim, V. Deshpande, R. Bhattacharya, [Robust Kalman Filtering with Probabilistic Uncertainty in System Parameters](https://arxiv.org/pdf/2003.10926.pdf), **IEEE Control System Letters**, 2020.
 1. S. C. Hsu, R. Bhattacharya, Design of Linear Parameter Varying Quadratic Regulator in Polynomial Chaos Framework, **International Journal of Robust and Nonlinear Control**, 2020.
 1. S. Kim, R. Bhattacharya, Hybrid Drone Modeling and Control with Wind Disturbance, **International Conference on Systems and Control**, 2020.
-1. S. Kim, R. Bhattacharya, [$\mathcal{H}_2$ Optimized PID Control of Quad-Copter Platform with Wind Disturbance](https://arxiv.org/pdf/2003.13801.pdf), **International Conference on Unmanned Aircraft Systems**, 2020.
+1. S. Kim, V. Deshpande, R. Bhattacharya, [$\mathcal{H}_2$ Optimized PID Control of Quad-Copter Platform with Wind Disturbance](https://arxiv.org/pdf/2003.13801.pdf), **International Conference on Unmanned Aircraft Systems**, 2020.
 1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
 1. V. Deshpande, R. Bhattacharya, [Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions](https://arxiv.org/pdf/2004.01736.pdf), **IFAC World Congress**, 2020.
 1. N. Das, R. Bhattacharya, [Eigen Value Analysis in Lower Bounding Uncertainty of Kalman Filter Estimates](https://arxiv.org/pdf/2003.06029.pdf), **IFAC World Congress**, 2020.
