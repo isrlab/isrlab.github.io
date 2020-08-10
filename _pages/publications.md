@@ -7,7 +7,7 @@ permalink: /publications.html
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $\mathcal{H}_2$/$\mathcal{H}$∞ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
 1. S. Kim, V. Deshpande, R. Bhattacharya, [Robust Kalman Filtering with Probabilistic Uncertainty in System Parameters](https://arxiv.org/pdf/2003.10926.pdf), **IEEE Control System Letters**, 2020.
-1. S. C. Hsu, R. Bhattacharya, Design of Linear Parameter Varying Quadratic Regulator in Polynomial Chaos Framework, **International Journal of Robust and Nonlinear Control**, 2020.
+1. S. C. Hsu, R. Bhattacharya, [Design of Linear Parameter Varying Quadratic Regulator in Polynomial Chaos Framework](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.5128), **International Journal of Robust and Nonlinear Control**, 2020.
 1. S. Kim, R. Bhattacharya, Hybrid Drone Modeling and Control with Wind Disturbance, **International Conference on Systems and Control**, 2020.
 1. S. Kim, V. Deshpande, R. Bhattacharya, [$\mathcal{H}_2$ Optimized PID Control of Quad-Copter Platform with Wind Disturbance](https://arxiv.org/pdf/2003.13801.pdf), **International Conference on Unmanned Aircraft Systems**, 2020.
 1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
