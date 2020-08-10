@@ -5,6 +5,15 @@ permalink: /index.html
 ---
   Welcome to the Intelligent Systems Research Laboratory at Texas A&M University. We focus on information fusion and uncertainty quantification on manifolds, for estimation and control of nonlinear dynamical systems.  Below are highlights from our recent work.
 
+## Sparse Architectures for Privacy/Utility Aware Control and Estimation
+  We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. The emphasis is on utility and privacy in these problems. The utility is defined as accuracy or performance that is below a user-defined bound. Whereas, privacy is defined as accuracy or performance that is above a user-defined bound. These problems are considered in the Kalman filtering framework, including ensemble and unscented variants, and $\mathcal{H}_2$ and $\mathcal{H}\infty$ framework. NSF and AFOSR are funding the work.
+
+  **Selected Papers**
+  1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $\mathcal{H}_2$/$\mathcal{H}$∞ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
+  1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
+  1. N. Das, R. Bhattacharya, [Eigen Value Analysis in Lower Bounding Uncertainty of Kalman Filter Estimates](https://arxiv.org/pdf/2003.06029.pdf), **IFAC World Congress**, 2020.
+  1.  N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
+
 ## Information Fusion on Manifolds
 Space situational awareness is concerned with tracking of space objects and classifying it with respect to certain characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non Gaussian uncertainty supported on cylindrical coordinate systems $\mathbb{R}^5\times\mathbb{S}$, sparse sensing and unknown sensor characteristics. These algorithms are used for conjunction analysis, which is the process of predicting upcoming object encounters in an effort to notify satellite operators and avoid high risk encounters. This work is been funded by AFOSR and Intelligent Fusion Technology.
 
@@ -14,16 +23,6 @@ Space situational awareness is concerned with tracking of space objects and clas
 1. N. Das, V. Deshpande, R. Bhattacharya, [Optimal Transport based Tracking of Space Objects using Range Data from a Single Ranging Station](https://www.researchgate.net/publication/329487928_Optimal_Transport_based_Tracking_of_Space_Objects_using_Range_Data_from_a_Single_Ranging_Station), **AIAA JGCD**, 2019.
 1. N. Das, R. Bhattacharya, Sparse Sensing Architecture for Kalman Filtering with Guaranteed Error Bound, **1st IAA Conference on Space Situational Awareness (ICSSA)**, Orlando, FL, USA, 2017.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
-
-## Sparse Architectures for Privacy/Utility Aware Control and Estimation
-We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. The emphasis is on utility and privacy in these problems. The utility is defined as accuracy or performance that is below a user-defined bound. Whereas, privacy is defined as accuracy or performance that is above a user-defined bound. These problems are considered in the Kalman filtering framework, including ensemble and unscented variants, and $\mathcal{H}_2$ and $\mathcal{H}\infty$ framework. NSF and AFOSR are funding the work.
-
-**Selected Papers**
-1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $\mathcal{H}_2$/$\mathcal{H}$∞ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
-1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
-1. N. Das, R. Bhattacharya, [Eigen Value Analysis in Lower Bounding Uncertainty of Kalman Filter Estimates](https://arxiv.org/pdf/2003.06029.pdf), **IFAC World Congress**, 2020.
-1.  N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
-
 
 ## Robust Cyber Physical Systems
 Cyber physical systems have strong coupling between physics, communication and computation. In our research, we develop algorithms for quantifying uncertainty in system behavior due uncertainties in the physics (unmodeled dynamics, process and sensor noise), communication (irregular channels, packet loss, etc), computation (jitter in real-time tasks, CPU transients, etc). The system level behavior is modeled as a stochastic jump system and new uncertainty propagation algorithms for such jump systems are developed. New stochastic scheduling algorithms are developed that switch between computational tasks to ensure system-level robustness. This work has been funded by NSF.
