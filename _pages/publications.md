@@ -76,14 +76,8 @@ permalink: /publications.html
 1.  A. Halder, K. Lee, R. Bhattacharya, [Probabilistic Robustness
     Analysis of F- 16 Controller Performance: An Optimal Transport
     Approach](http://arxiv.org/pdf/1402.0147.pdf), **ACC**, 2013.
-1.  P. Dutta, A. Halder and R. Bhattacharya, [Nonlinear Filtering with
-    Transfer
-    Operator](http://people.tamu.edu/~ahalder/KLPFfilterACC2013.pdf),
-    **ACC**, 2013.
-1.  R. Bhattacharya, J. Fisher, [Linear Receding Horizon Control with
-    Probabilistic System
-    Parameters](http://dx.doi.org/10.3182/20120620-3-DK-2025.00154),
-    **7th IFAC Symposium on Robust Control Design**, Aalborg, Denmark, June 2012.
+1.  P. Dutta, A. Halder and R. Bhattacharya, [Nonlinear Filtering with Transfer Operator](http://people.tamu.edu/~ahalder/KLPFfilterACC2013.pdf), **ACC**, 2013.
+1.  R. Bhattacharya, J. Fisher, [Linear Receding Horizon Control with Probabilistic System Parameters](http://dx.doi.org/10.3182/20120620-3-DK-2025.00154),**7th IFAC Symposium on Robust Control Design**, Aalborg, Denmark, June 2012.
 1.  P. Dutta, A. Halder, R. Bhattacharya, [Uncertainty Quantification
     for Stochastic Nonlinear Systems using Perron-Frobenius Operator and
     Karhunen-Loeve
