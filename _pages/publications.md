@@ -5,7 +5,7 @@ permalink: /publications.html
 ---
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
-1. S. Kim, V. Tadiparthi, R. Bhattacharya, Computationally Efficient Attitude Estimation with Extended $\mathcal{H}_2$ Filtering, **AIAA Journal of Guidance, Control, and Dynamics**, (in Press), 2020.
+1. S. Kim, V. Tadiparthi, R. Bhattacharya, [Computationally Efficient Attitude Estimation with Extended $\mathcal{H}_2$ Filtering](https://arxiv.org/pdf/2006.14385.pdf), **AIAA Journal of Guidance, Control, and Dynamics**, (in Press), 2020.
 1. S. C. Hsu, V. Tadiparthi, R. Bhattacharya, [A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars](https://arxiv.org/abs/2008.13772), **Journal of Computational Mechanics**, (in Press), 2020.
 1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $\mathcal{H}_2$/$\mathcal{H}$∞ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
 1. S. Kim, V. Deshpande, R. Bhattacharya, [Robust Kalman Filtering with Probabilistic Uncertainty in System Parameters](https://arxiv.org/pdf/2003.10926.pdf), **IEEE Control System Letters**, 2020.
