@@ -11,7 +11,6 @@ permalink: /index.html
   **Selected Papers**
   1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $\mathcal{H}_2$/$\mathcal{H}$∞ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
   1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
-  1. N. Das, R. Bhattacharya, [Eigen Value Analysis in Lower Bounding Uncertainty of Kalman Filter Estimates](https://arxiv.org/pdf/2003.06029.pdf), **IFAC World Congress**, 2020.
   1.  N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
 
 ## Information Fusion on Manifolds
