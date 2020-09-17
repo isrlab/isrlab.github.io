@@ -53,7 +53,7 @@ A tensegrity system is an arrangement of axially-loaded elements (no element ben
 <img class="mySlides" src="images/tensegrity.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
 **Selected Papers**
-1. S. C. Hsu, V. Tadiparthi, R. Bhattacharya, [A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars](https://arxiv.org/abs/2008.13772), **Journal of Computational Mechanics**, (in Press), 2020.
+1. S. C. Hsu, V. Tadiparthi, R. Bhattacharya, [A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars](https://rdcu.be/b7jyY), **Journal of Computational Mechanics**, (in Press), 2020.
 1. V. Tadiparthi, S. C. Hsu, R. Bhattacharya, [Software for Tensegrity Dynamics](http://joss.theoj.org/papers/10.21105/joss.01042#), The Journal of Open Source Software, 2019.
 
 ## Flight Control Applications
