@@ -9,7 +9,7 @@ permalink: /index.html
   We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. The emphasis is on utility and privacy in these problems. The utility is defined as accuracy or performance that is below a user-defined bound. Whereas, privacy is defined as accuracy or performance that is above a user-defined bound. These problems are considered in the Kalman filtering framework, including ensemble and unscented variants, and $\mathcal{H}_2$ and $\mathcal{H}\infty$ framework. NSF and AFOSR are funding the work.
 
   **Selected Papers**
-  1. N. Das, R. Bhattacharya [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transaction in Aerospace and Electronic Systems**, 2020. 
+  1. N. Das, R. Bhattacharya [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020. 
   1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $\mathcal{H}_2$/$\mathcal{H}$∞ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
   1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
   1.  N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
@@ -20,7 +20,7 @@ Space situational awareness is concerned with tracking of space objects and clas
 <img class="mySlides" src="images/ssa.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
 **Selected Papers**
-1. N. Das, R. Bhattacharya [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transaction in Aerospace and Electronic Systems**, 2020. 
+1. N. Das, R. Bhattacharya [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020. 
 1. N. Das, V. Deshpande, R. Bhattacharya, [Optimal Transport based Tracking of Space Objects using Range Data from a Single Ranging Station](https://www.researchgate.net/publication/329487928_Optimal_Transport_based_Tracking_of_Space_Objects_using_Range_Data_from_a_Single_Ranging_Station), **AIAA JGCD**, 2019.
 1. N. Das, R. Bhattacharya, Sparse Sensing Architecture for Kalman Filtering with Guaranteed Error Bound, **1st IAA Conference on Space Situational Awareness (ICSSA)**, Orlando, FL, USA, 2017.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
