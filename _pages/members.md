@@ -10,7 +10,6 @@ permalink: /members.html
 
 ## Current Members
 <div class="former_students">
-  <div><a href="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <small>Ph.D.</small></div>
   <div><a href ="https://www.linkedin.com/in/vedang-deshpande"> Vedang Deshpande </a> <br> <small>Ph.D.</small></div>
   <div><a href ="https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923"> Vaishnav Tadiparthi </a><br> <small>Ph.D.</small></div>
 </div>
@@ -26,6 +25,7 @@ permalink: /members.html
   <div><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <br> <small>2015</small> </div>
   <div><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <br> <small>2019</small></div>
   <div><a href="https://www.linkedin.com/in/sunsoo-kim-1222a511b">Sunsoo Kim</a> <br> <small>2020</small></div>
+  <div><a href="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <small>2020</small></div>
 </div>
 
 ### M.S.
