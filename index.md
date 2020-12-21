@@ -5,7 +5,7 @@ permalink: /index.html
 ---
   Welcome to the Intelligent Systems Research Laboratory at Texas A&M University. We focus on information fusion and uncertainty quantification on manifolds, for estimation and control of nonlinear dynamical systems.  Below are highlights from our recent work.
 
-## Sparse Architectures for Control and Estimation
+## Privacy Aware Sparse Architectures for Control and Estimation
   We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. The emphasis is on utility and privacy in these problems. The utility is defined as accuracy or performance that is below a user-defined bound. Whereas, privacy is defined as accuracy or performance that is above a user-defined bound. These problems are considered in the Kalman filtering framework, including ensemble and unscented variants, and $\mathcal{H}_2$ and $\mathcal{H}\infty$ framework. NSF and AFOSR are funding the work.
 
   **Selected Papers**
@@ -70,7 +70,7 @@ Our lab has expertise in designing custom aerial platforms for various needs. Ou
 1. R. Bhattacharya, G. J. Balas, [Implementation of Online Control Customization within the Open Control Platform, Software-Enabled Control: Information Technologies for Dynamical Systems](https://www.amazon.com/Software-Enabled-Control-Information-Technology-Dynamical/dp/0471234362), A John Wiley/IEEE Press Publication, 2003.
 1. R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](https://arc.aiaa.org/doi/10.2514/2.4965), **Journal of Guidance, Control, and Dynamics**, Vol. 25, No. 5, pp. 924-931, 2002.
 
-## Uncertainty Quantification in Planetary Entry, Descent, and Landing
+## Uncertainty Quantification in Hypersonic Flight 
 Hypersonic flight leading to entry descent landing of a large spacecraft on the surface of Mars has been identified as a research area by NASA. The requirement is to land within a few kilometers of the robotic test sites. One of the major concerns of high mass entry is the mismatch between entry conditions and deceleration capabilities provided by supersonic parachute technologies. In such applications, there are uncertainties present in initial conditions and other system parameters. Estimation of parameters for these systems is a hard problem because of the nonlinearities in the system and the lack of frequent measurements. The evolution of uncertainty (as shown in the figure) is non Gaussian. In our work, we develop new algorithms for UQ, state-estimation, and guidance algorithms. The controlled descent ensures robustness with respect to system uncertainties, and guarantees landing at the desired site with high accuracy. This work has been funded by NASA.
 
 <img class="mySlides" src="images/edl.png" style="display:block; margin:auto; width:100%;max-width:960px">

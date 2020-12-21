@@ -10,7 +10,7 @@ permalink: /members.html
 
 ## Current Members
 <div class="former_students">
-  <div><a href ="https://www.linkedin.com/in/vedang-deshpande"> Vedang Deshpande </a> <br> <small>Ph.D.</small></div>
+  <div><a href ="https://vedang.page"> Vedang Deshpande </a> <br> <small>Ph.D.</small></div>
   <div><a href ="https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923"> Vaishnav Tadiparthi </a><br> <small>Ph.D.</small></div>
 </div>
 
