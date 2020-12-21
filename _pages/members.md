@@ -71,7 +71,7 @@ permalink: /members.html
       <div><a href="https://www.linkedin.com/in/luisfcalixto/">Luis Calixto</a> <br> <small> </small></div>
       <div><a href="http://www.linkedin.com/pub/mario-botros/51/6b2/559">Mario Botros</a> <br> <small>2012</small></div>
       <div><a href="http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711">Chris Bertagne</a> <br> <small>REU Summer 2012</small></div>
-      <div><a href="http://www.linkedin.com/pub/zachary-sunberg/24/669/540">Zachary Sunberg</a><br> <small> </small></div>
+      <div><a href="https://www.colorado.edu/aerospace/zachary-sunberg">Zachary Sunberg</a><br> <small> </small></div>
       <div><a href="http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0">Scott Slaughter</a> <br> <small>2013</small></div>
       <div><a href="http://www.linkedin.com/pub/emily-boster/80/183/b89">Emily Boster</a> <br> <small>2013</small></div>
       <div>Sachin Subramanian <br> <small>2014</small></div>
@@ -85,5 +85,4 @@ permalink: /members.html
       <div>Christina Erwin <br> <small>2020</small></div>
       <div><a href="https://www.linkedin.com/in/brent-mathews-b2724017a/">Brent Mathews</a> <br> <small>2020</small></div>
       <div><a href="https://www.linkedin.com/in/victoria-n-485311aa/">Victoria Nagorski</a> <br> <small>2020</small></div>
-
     </div>
