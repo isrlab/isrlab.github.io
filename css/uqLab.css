@@ -29,7 +29,6 @@ body {
 	margin: 1em;
 	background-color: #EEEEEE;
   float:center;
-  max-width: 1000px;
 }
 
 
@@ -40,7 +39,7 @@ div.card {
   padding: 1em;
   background-color: #FFF;
 	border-radius: 1em;
-	max-width: 1000px;
+	max-width: device-width;
 	margin:auto; 
 }
 
@@ -112,7 +111,7 @@ p b {
 }
 
 div.container {
-    width: 1000px;
+    width: device-width;
     border: 0px;	
 }
 
