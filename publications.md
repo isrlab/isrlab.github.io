@@ -98,8 +98,7 @@ permalink: /publications.html
 
 1. R. Bhattacharya, J. Fisher, [Linear Receding Horizon Control with Probabilistic System Parameters](http://dx.doi.org/10.3182/20120620-3-DK-2025.00154),**7th IFAC Symposium on Robust Control Design**, Aalborg, Denmark, June 2012.
 
-1. P. Dutta, A. Halder, R. Bhattacharya, [Uncertainty Quantification for Stochastic Nonlinear Systems using Perron-Frobenius Operator and Karhunen-Loeve Expansion](http://dx.doi.org/10.1109/CCA.2012.6402455), **IEEE
-    Multi-Conference on Systems and Control**, Dubrovnik, 2012.
+1. P. Dutta, A. Halder, R. Bhattacharya, [Uncertainty Quantification for Stochastic Nonlinear Systems using Perron-Frobenius Operator and Karhunen-Loeve Expansion](http://dx.doi.org/10.1109/CCA.2012.6402455), **IEEE Multi-Conference on Systems and Control**, Dubrovnik, 2012.
 
 1. A. Halder, R. Bhattacharya, [Further Results on Probabilistic Model Validation in Wasserstein Metric](http://dx.doi.org/10.1109/CDC.2012.6425987), **51st IEEE Conference on Decision and Control**, Maui, 2012.
 
@@ -121,7 +120,7 @@ permalink: /publications.html
 
 1. P. Dutta, R. Bhattacharya, [Nonlinear Estimation of Hypersonic Flight Using Polynomial Chaos](http://dx.doi.org/10.2514/6.2010-7590), **AIAA GNC**, 2010.
 
-1. A. Halder, R. Bhattacharya, [Beyond Monte Carlo: A Computational Framework for Uncertainty Propagation in Planetary Entry, Descent and Landing](http://dx.doi.org/10.2514/6.2010-8029) , **AIAA GNC** 2010.
+1. A. Halder, R. Bhattacharya, [Beyond Monte Carlo: A Computational Framework for Uncertainty Propagation in Planetary Entry, Descent and Landing](http://dx.doi.org/10.2514/6.2010-8029), **AIAA GNC** 2010.
 
 1. P. Dutta, R. Bhattacharya, [Nonlinear Estimation with Polynomial Chaos and Higher Order Moment Updates](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5531023), **IEEE ACC** 2010.
 
@@ -184,6 +183,7 @@ permalink: /publications.html
 1. R. Bhattacharya, S. Mijanovic , E. Scholte , A. Ferrari , M.Huzmezan, M. Lelic, M. Atalla, Rigorous Design of Real-Time Embedded Control Systems, **IEEE Advanced Process Control Applications for Industry**, Vancouver, May, 2006.
 
 1. R. Bhattacharya, G. J. Balas, [Anytime Control Algorithm: Model Reduction Approach](http://dx.doi.org/10.2514/1.9457 "http://dx.doi.org/10.2514/1.9457"), **Journal of Guidance, Control, and Dynamics**, 2004, Vol. 27, No.5, pp. 767-776, 2004.
+
 1. R. Bhattacharya, J. Fung, A. Tiwari, R. M. Murray, [Ellipsoidal Cones and Rendezvous of Multiple Agents](http://dx.doi.org/10.1109/CDC.2004.1428625), **IEEE Conference on Decision and Control**, Bahamas, 2004.
 
 1. A. Tiwari, J. Fung, R. Bhattacharya, R. M. Murray, [Polyhedral Cone Invariance Applied to Rendezvous of Multiple Agents](http://dx.doi.org/10.1109/CDC.2004.1428624), **IEEE Conference on Decision and Control**, Bahamas, 2004.
