@@ -103,7 +103,7 @@ permalink: /publications.html
 
 1. A. Halder, R. Bhattacharya, [Further Results on Probabilistic Model Validation in Wasserstein Metric](http://dx.doi.org/10.1109/CDC.2012.6425987), **51st IEEE Conference on Decision and Control**, Maui, 2012.
 
-1. Zhenchun Xia, G. H. Huff, J. F. Chamberland, H. Pfister, and R.Bhattacharya. Crystallographic-based Antenna Configurations for DOA Estimation. **In USNC/URSI Nat. Radio Sci. Mtg.**, 2012.
+1. Zhenchun Xia, G. H. Huff, J. F. Chamberland, H. Pfister, and R. Bhattacharya. Crystallographic-based Antenna Configurations for DOA Estimation. **In USNC/URSI Nat. Radio Sci. Mtg.**, 2012.
 
 1. Zhenchun Xia, G. H. Huff, J. F. Chamberland, H. Pfister, and R. Bhattacharya, [DOA Estimation Using Canonical and Crystallographic Volumetric Element Configurations](http://dx.doi.org/10.1109/EuCAP.2012.6206123), **EuCAP, Czech Republic**, 2012.
 
