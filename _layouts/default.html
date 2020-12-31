@@ -1,16 +1,10 @@
 <!DOCTYPE html>
-<html>
-{% include head.html %}
-<body>
-	<div class="card">
-	{% include header.html %}
-	<main>
-		<article>
-			{{ content }}
-		</article>
-		{% include footer.html %}
-	</main>
-	</div>
-</body>
-
+<div class="card">
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body>
+    {{ content }}
+  </body>
+  {% include footer.html %}
 </html>
+</div>
