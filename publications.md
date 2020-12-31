@@ -196,6 +196,6 @@ permalink: /publications.html
 
 1. R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](http://dx.doi.org/10.2514/2.4965 "http://dx.doi.org/10.2514/2.4965"), **Journal of Guidance, Control, and Dynamics**, Vol. 25, No. 5, pp. 924-931, 2002.
 
-1. R. Bhattacharya, G. J. Balas,[Implementation of Control Algorithms in an Environment of Dynamically Scheduled CPU Time Using Balanced Truncation](http://dx.doi.org/10.2514/6.2002-4758), **AIAA GNC** Conference, August 5-8, 2002.
+1. R. Bhattacharya, G. J. Balas, [Implementation of Control Algorithms in an Environment of Dynamically Scheduled CPU Time Using Balanced Truncation](http://dx.doi.org/10.2514/6.2002-4758), **AIAA GNC** Conference, August 5-8, 2002.
 
 1. R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](http://dx.doi.org/10.1109/ACC.2001.945598), **American Control Conference**, June 2001.
