@@ -1,6 +1,6 @@
 
 .former_students{
-  /* max-width: device-width; */
+  max-width: device-width;
   display: grid;
   grid-template-columns: auto auto auto auto;
   column-gap: 10px;
