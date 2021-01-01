@@ -56,17 +56,47 @@
   </script>
 </head>
   <body>
-    <h3 id="1-stedy">1. STEDY</h3>
-<p><a href="https://github.com/uqLab/stedy">STEDY</a> is a MATLAB Software for TEnsegrity DYnamics. In this software, the topology of the tensegrity network is described using connectivity matrices, with mass properties of the bars and cables. The dynamics is derived in the Lagrangian framework with non-minimal coordinates and holonomic constraints (<a href="https://www.researchgate.net/publication/328676032_A_Lagrangian_Formulation_for_Constrained_Multibody_Dynamics_in_Tensegrity_Systems">paper</a>). The software also accounts for errors in numerical integration by providing corrections for constraint violations and drifts in mechanical energy. Please see the <a href="https://github.com/uqLab/stedy/blob/master/Docs/UserGuide.md">user guide</a> to get started.</p>
+    <p>Visit our <a href="https://github.com/isrlab">GitHub page</a> for a full list.</p>
 
-<h3 id="2-optragen">2. OPTRAGEN</h3>
-<p><a href="https://github.com/uqLab/Optragen">OPTRAGEN</a> is a MATLAB toolbox for solving optimal control problems. Currently, it relies on <a href="https://ccom.ucsd.edu/~optimizers/software.html#snopt">SNOPT</a>, which can be downloaded from <a href="https://ccom.ucsd.edu/~optimizers/downloads.php">here</a>. Future versions will interface with matlab’s fmincon(…).</p>
+<h2 id="f-16-model">F-16 Model</h2>
 
-<!--
-#### [F-16 Model](link)
-A full nonlinear model of the F-16 airplane with matlab scripts for trimming, linearizing, and designing controllers.
+<p><a href="https://github.com/isrlab/F16Model"><img src="assets/images/GitHub-Mark-120px-plus.png" alt="GitHubicon" style="float: left; margin-right: 10px; height:14pt" /></a>
+This is a Julia package for a nonlinear model of the F16 aircraft. The aerodynamics included in this model come from the NASA Technical Report 1538, Simulator Study of Stall/Post-Stall Characteristics of a Fighter Airplane with Relaxed Longitudinal Static Stability, by Nguyen, Ogburn, Gilbert, Kibler, Brown, and Deal, Dec 1979. The flight dynamics are based on Aircraft Control and Simulations, by Brian Stevens and Frank Lewis, Wiley Inter-Science, New York, 1992.</p>
 
-#### [Polynomial Chaos](link)
+<h2 id="robust-control-toolbox">Robust Control Toolbox</h2>
+
+<p><a href="https://github.com/isrlab/RobustControl"><img src="assets/images/GitHub-Mark-120px-plus.png" alt="GitHubicon" style="float: left; margin-right: 10px; height:14pt" /></a>
+This is a Julia implementation of robust control design and analysis algorithms. This is under development. Currently, the toolbox has support for:</p>
+
+<ol>
+  <li>Definition of linear system objects</li>
+  <li>Plotting of standard responses</li>
+  <li>System interconnections</li>
+</ol>
+
+<p>More features are being added.</p>
+
+<h2 id="maximum-entropy-basis-functions">Maximum Entropy Basis Functions</h2>
+
+<p><a href="https://github.com/isrlab/MaximumEntropyBasisFunctions"><img src="assets/images/GitHub-Mark-120px-plus.png" alt="GitHubicon" style="float: left; margin-right: 10px; height:14pt" /></a>
+Julia package for maximum entropy basis functions. See examples in example/ for generating basis functions and their first derivative in 1D and 2D. The code is dimension agnostic.</p>
+
+<p>The code implements algorithm from the following paper: <em>Local maximum-entropy approximation schemes: A seamless bridge between finite elements and meshfree methods by M. Arroyo and M. Ortiz</em>.</p>
+
+<h2 id="multibody-dynamics">Multibody Dynamics</h2>
+
+<p><a href="https://github.com/isrlab/Multibody-Dynamics"><img src="assets/images/GitHub-Mark-120px-plus.png" alt="GitHubicon" style="float: left; margin-right: 10px; height:14pt" /></a>
+Julia package for multibody dynamics using <a href="https://en.wikipedia.org/wiki/Udwadia–Kalaba_equation">Udwadia-Kalaba</a> formulation. This is a fairly complete package with several joint types defined. Many new features are currently being added.</p>
+
+<h2 id="stedy">STEDY</h2>
+
+<p><a href="https://github.com/isrlab/stedy"><img src="assets/images/GitHub-Mark-120px-plus.png" alt="GitHubicon" style="float: left; margin-right: 10px; height:14pt" /></a>STEDY is a MATLAB Software for TEnsegrity DYnamics. In this software, the topology of the tensegrity network is described using connectivity matrices, with mass properties of the bars and cables. The dynamics is derived in the Lagrangian framework with non-minimal coordinates and holonomic constraints (<a href="https://rdcu.be/b7jyY">paper</a>). The software also accounts for errors in numerical integration by providing corrections for constraint violations and drifts in mechanical energy. Please see the <a href="https://github.com/uqLab/stedy/blob/master/Docs/UserGuide.md">user guide</a> to get started.</p>
+
+<h2 id="optragen">OPTRAGEN</h2>
+<p><a href="https://github.com/isrlab/Optragen"><img src="assets/images/GitHub-Mark-120px-plus.png" alt="GitHubicon" style="float: left; margin-right: 10px; height:14pt" /></a>
+OPTRAGEN is a MATLAB toolbox for solving optimal control problems. Currently, it relies on <a href="https://web.stanford.edu/group/SOL/snopt.htm">SNOPT</a>. Future versions will interface with matlab’s fmincon(…).</p>
+
+<!-- #### [Polynomial Chaos](link)
 Matlab scripts for applying polynomial chaos theory to propagate uncertainty in dynamical systems. A python version is also in the making. Relies on symbolic computing toolbox. 
 
 #### [Particle based Uncertainty Quantification in Dynamical Systems](link)
@@ -82,8 +112,7 @@ We make use of lazy synchronization and asynchronous updates across processing e
 * H2, Hinf, LPV controller and estimator designs
 * Probabilistic and worst-case uncertainty
 * Control theoretic systems engineering
-* Examples from flight control, structural control, and large-scale distributed systems
--->
+* Examples from flight control, structural control, and large-scale distributed systems -->
 
 
   </body>
