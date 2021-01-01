@@ -26,7 +26,6 @@ Space situational awareness is concerned with tracking space objects and classif
 
 ### Selected Papers
 
-1. N. Das, R. Bhattacharya [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020. 
 1. N. Das, V. Deshpande, R. Bhattacharya, [Optimal Transport based Tracking of Space Objects using Range Data from a Single Ranging Station](https://www.researchgate.net/publication/329487928_Optimal_Transport_based_Tracking_of_Space_Objects_using_Range_Data_from_a_Single_Ranging_Station), **AIAA JGCD**, 2019.
 1. N. Das, R. Bhattacharya, Sparse Sensing Architecture for Kalman Filtering with Guaranteed Error Bound, **1st IAA Conference on Space Situational Awareness (ICSSA)**, Orlando, FL, USA, 2017.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
@@ -79,7 +78,7 @@ Our lab has expertise in designing custom aerial platforms for various needs. Ou
 
 1. S. C. Hsu, R. Bhattacharya, [Design of Stochastic Collocation Based Linear Parameter Varying Quadratic Regulator](https://www.researchgate.net/publication/314088074_Design_of_Stochastic_Collocation_Based_Linear_Parameter_Varying_Quadratic_Regulator), **American Control Conference**, 2017.
 1. A. Halder, K. Lee, and R. Bhattacharya, Optimal Transport Approach for Probabilistic Robustness Analysis of F-16 Controllers, **AIAA Journal of Guidance, Control, and Dynamics**, 2015.
-1. R. Bhattacharya, S. Mijanovic , E. Scholte , A. Ferrari , M. Huzmezan, M. Lelic, M. Atalla, Rigorous Design of Real-Time Embedded Control Systems, **IEEE Advanced Process Control Applications for Industry**, Vancouver, May, 2006.
+1. R. Bhattacharya, S. Mijanovic, E. Scholte, A. Ferrari, M. Huzmezan, M. Lelic, M. Atalla, Rigorous Design of Real-Time Embedded Control Systems, **IEEE Advanced Process Control Applications for Industry**, Vancouver, May, 2006.
 1. R. Bhattacharya, G. J. Balas, [Implementation of Online Control Customization within the Open Control Platform, Software-Enabled Control: Information Technologies for Dynamical Systems](https://www.amazon.com/Software-Enabled-Control-Information-Technology-Dynamical/dp/0471234362), A John Wiley/IEEE Press Publication, 2003.
 1. R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](https://arc.aiaa.org/doi/10.2514/2.4965), **Journal of Guidance, Control, and Dynamics**, Vol. 25, No. 5, pp. 924-931, 2002.
 
@@ -93,5 +92,5 @@ Hypersonic flight leading to entry descent landing of a large spacecraft on the 
 
 1. A. Halder, R. Bhattacharya, [Dispersion Analysis in Hypersonic Flight During Planetary Entry Using Stochastic Liouville Equation](https://arc.aiaa.org/doi/10.2514/1.51196), **AIAA Journal of Guidance, Control, and Dynamics**,2011, 0731-5090 vol.34 no.2 (459-474).
 2. P. Dutta & R. Bhattacharya, [Nonlinear Estimation of Hypersonic State Trajectories in Bayesian Framework with Polynomial Chaos](https://arc.aiaa.org/doi/10.2514/1.49743), **Journal of Guidance, Control, and Dynamics**, vol.33 no.6 (1765-1778), 2011.
-3. P. Dutta & R. Bhattacharya, [Hypersonic State Estimation Using Frobenius-Perron Operator](https://arc.aiaa.org/doi/10.2514/1.52184), **AIAA Journal of Guidance, Control, and Dynamics**,Volume 34, Number 2, 2011.
+3. P. Dutta & R. Bhattacharya, [Hypersonic State Estimation Using Frobenius-Perron Operator](https://arc.aiaa.org/doi/10.2514/1.52184), **AIAA Journal of Guidance, Control, and Dynamics**, Volume 34, Number 2, 2011.
 4. J. Fisher, R. Bhattacharya, [Linear Quadratic Regulation of Systems with Stochastic Parameter Uncertainties](https://www.sciencedirect.com/science/article/pii/S0005109809004622?via%3Dihub), **Automatica**, 2009.
