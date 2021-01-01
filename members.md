@@ -26,7 +26,7 @@ permalink: /members.html
   <div><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <br> <year>2015</year> </div>
   <div><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <br> <year>2019</year></div>
   <div><a href="https://www.linkedin.com/in/sunsoo-kim-1222a511b">Sunsoo Kim</a> <br> <year>2020</year></div>
-  <div><a href="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <year>Ph.D.</year></div>
+  <div><a href="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <year>2020</year></div>
 </div>
 
 ### M.S.
