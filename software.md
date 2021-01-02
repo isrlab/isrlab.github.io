@@ -3,7 +3,6 @@ layout: default
 title: Software
 permalink: /software.html
 ---
-Visit our [GitHub page](https://github.com/isrlab) for a full list.
 
 ## F-16 Model
 
