@@ -10,7 +10,7 @@ Visit our [GitHub page](https://github.com/isrlab) for a full list.
 [<img src="assets/images/GitHub-Mark-120px-plus.png"
      alt="GitHubicon"
      style="float: left; margin-right: 10px; height:14pt" />](https://github.com/isrlab/F16Model)
-This is a Julia package for a nonlinear model of the F16 aircraft. The aerodynamics included in this model come from the NASA Technical Report 1538, Simulator Study of Stall/Post-Stall Characteristics of a Fighter Airplane with Relaxed Longitudinal Static Stability, by Nguyen, Ogburn, Gilbert, Kibler, Brown, and Deal, Dec 1979. The flight dynamics are based on *Aircraft Control and Simulations, by Brian Stevens and Frank Lewis, Wiley Inter-Science, New York, 1992*.
+This is a Julia package for a nonlinear model of the F16 aircraft. The aerodynamics included in this model come from the NASA Technical Report 1538, Simulator Study of Stall/Post-Stall Characteristics of a Fighter Airplane with Relaxed Longitudinal Static Stability, by Nguyen, Ogburn, Gilbert, Kibler, Brown, and Deal, Dec 1979. The model is based on *Aircraft Control and Simulations, by Brian Stevens and Frank Lewis, Wiley Inter-Science, New York, 1992*.
 
 ## Robust Control Toolbox
 
