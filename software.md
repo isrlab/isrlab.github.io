@@ -50,7 +50,7 @@ Julia package for multibody dynamics using [Udwadia-Kalaba](https://en.wikipedia
 [<img src="assets/images/GitHub-Mark-120px-plus.png"
      alt="GitHubicon"
      style="float: left; margin-right: 10px; height:14pt" />](https://github.com/isrlab/Optragen)
-OPTRAGEN is a MATLAB toolbox for solving optimal control problems. It works with fmincon. SNOPT dependency has been removed.
+OPTRAGEN is a MATLAB toolbox for solving optimal control problems. It now works with fmincon. SNOPT dependency has been removed. 
 
 <!-- #### [Polynomial Chaos](link)
 Matlab scripts for applying polynomial chaos theory to propagate uncertainty in dynamical systems. A python version is also in the making. Relies on symbolic computing toolbox. 
