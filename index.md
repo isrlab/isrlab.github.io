@@ -51,7 +51,7 @@ Cyber-physical systems have strong coupling between physics, communication, and 
 
 ### Selected Papers
 
-1. K. Lee, R. Bhattacharya, [Design of Resource-Optimal Switching for Resource-Constrained Dynamical Systems](https://link.springer.com/article/10.1007/s12555-017-0530-3), **International Journal of Control, Automation, and Systems**, 2018.
+1. K. Lee, R. Bhattacharya, [Optimal Controller Switching for Resource-constrained Dynamical Systems](https://link.springer.com/article/10.1007/s12555-017-0530-3), **International Journal of Control, Automation, and Systems**, 2018.
 1. K. Lee, R. Bhattacharya, [Stability Analysis of Large-Scale Distributed Networked Control Systems with Random Communication Delays: A Switched System Approach](https://arxiv.org/abs/1503.03047), **System & Control Letters**, 2015.
 1. K. Lee, A. Halder, R. Bhattacharya, [Probabilistic Robustness Analysis of Stochastic Jump Linear Systems](https://arxiv.org/abs/1403.2411), **ACC**, 2014.
 1. P. Dutta, A. Halder, R. Bhattacharya, [Uncertainty Quantification for Stochastic Nonlinear Systems using Perron-Frobenius Operator and Karhunen-Loeve Expansion](https://ieeexplore.ieee.org/document/6402455/), **IEEE Multi-Conference on Systems and Control**, Dubrovnik, Oct 2012.
