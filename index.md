@@ -9,7 +9,7 @@ permalink: /index.html
 
 ## Privacy Aware Sparse Architectures for Control and Estimation
 
- We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. The emphasis is on understanding the tradeoff between utility and privacy in these problems. The utility is defined as accuracy or performance that is below a user-defined bound. Whereas privacy is defined as accuracy or performance that is above a user-defined bound. These problems are considered in the Kalman filtering framework, including ensemble and unscented variants, and $$\mathcal{H}_2$$ and $$\mathcal{H}_\infty$$ framework. Funding Source: NSF and AFOSR.
+ We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. The emphasis is on understanding the tradeoff between utility and privacy in these problems. The utility is defined as accuracy or performance that is below a user-defined bound. Whereas privacy is defined as accuracy or performance that is above a user-defined bound. These problems are considered in the Kalman filtering framework, including ensemble and unscented variants, and $$\mathcal{H}_2/\mathcal{H}_\infty$$ framework. Funding Source: NSF and AFOSR.
 
 ### Selected Papers
 
