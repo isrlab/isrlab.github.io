@@ -19,9 +19,9 @@ year{
 body {
 	/* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
 	/* font-size: 100%; */
-	margin: 2em;
+	/* margin: 1em; */
 	background-color: lightgray;
-  float:center;
+  /* float:center; */
   text-align: justify;
   font-size: 12pt;
 }
@@ -65,11 +65,11 @@ nav {
 .card {
   box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2);
   /* transition: 0.3s; */
-  border-radius: 10px; /* 5px rounded corners */
+  border-radius: 10px; 
   background-color: white;
-  padding: 30px;
-  margin: auto;
-  /* max-width: 2000px; */
+  padding: 1em;
+  margin: 1em;
+  /* max-width: 1000px; */
 }
 
 
