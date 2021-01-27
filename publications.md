@@ -6,6 +6,8 @@ permalink: /publications.html
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 
+1. V. Deshpande, R. Bhattacharya, D.Donzis [A Unified Framework to Generate Optimized Compact Finite Difference Schemes](https://arxiv.org/pdf/1912.07382.pdf), **Journal of Computational Physics**, 2020. 
+
 1. N. Das, R. Bhattacharya [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020. 
 
 1. S. Kim, V. Tadiparthi, R. Bhattacharya, [Computationally Efficient Attitude Estimation with Extended $$\mathcal{H}_2$$ Filtering](https://arxiv.org/pdf/2006.14385.pdf), **AIAA Journal of Guidance, Control, and Dynamics**, 2020.
