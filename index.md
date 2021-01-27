@@ -38,7 +38,7 @@ Future exascale machines are expected to have $$10^5-10^6$$ processors, providin
 
 ### Selected Papers
 
-1. V. Deshpande, R. Bhattacharya, D. Donzis [A Unified Framework to Generate Optimized Compact Finite Difference Schemes](https://arxiv.org/pdf/1912.07382.pdf), **Journal of Computational Physics**, 2020.
+1. V. Deshpande, R. Bhattacharya, D. Donzis [A Unified Framework to Generate Optimized Compact Finite Difference Schemes](https://arxiv.org/pdf/1912.07382.pdf), **Journal of Computational Physics**, 2021.
 1. K. Kumari, R. Bhattacharya, D. Donzis, [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
 1. K. Lee, R. Bhattacharya, J. Dass, V. Sakuru, and R. Mahapatra, [A Relaxed Synchronization Approach for Solving Parallel Quadratic Programming Problems with Guaranteed Convergence](https://ieeexplore.ieee.org/document/7516014/), **IPDPS**, Chicago,2016.
 1. K. Lee and R. Bhattacharya, [On the Relaxed Synchronization for Massively Parallel Numerical Algorithms](https://www.researchgate.net/publication/301650726_On_the_Relaxed_Synchronization_for_Massively_Parallel_Numerical_Algorithms), **American Control Conference**, 2016.
