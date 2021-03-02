@@ -6,7 +6,7 @@ permalink: /publications.html
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 
-1. V. Deshpande, R. Bhattacharya [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-agent Systems in Sensing-denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
+1. V. Deshpande, R. Bhattacharya [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
 
 1. V. Deshpande, R. Bhattacharya [Sparse Sensing and Optimal Precision: Robust $$\mathcal{H}_\infty$$ Optimal Observer Design with Model Uncertainty](https://arxiv.org/pdf/2009.01930.pdf), **American Control Conference**, 2021.
 
