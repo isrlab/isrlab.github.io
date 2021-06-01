@@ -12,7 +12,7 @@ permalink: /index.html
 We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and $$\mathcal{H}_2$$ and $$\mathcal{H}_\infty$$ framework. Funding Source: NSF and AFOSR.
 
 ### Selected Papers
-
+  1. V. Deshpande, R. Bhattacharya, K. Subbarao [Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems](https://arxiv.org/pdf/2105.05976.pdf), **IEEE Control Systems Letters**, 2021.
   1. N. Das, R. Bhattacharya [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020. 
   1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $$\mathcal{H}_2/\mathcal{H}_\infty$$ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
   1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
