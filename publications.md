@@ -14,15 +14,15 @@ permalink: /publications.html
 
 4. V. Deshpande, R. Bhattacharya, D. Donzis, [A Unified Framework to Generate Optimized Compact Finite Difference Schemes](https://arxiv.org/pdf/1912.07382.pdf), **Journal of Computational Physics**, 2021.
 
-5. N. Das, R. Bhattacharya, [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020.
+5. S. Kim, V. Tadiparthi, R. Bhattacharya, [Computationally Efficient Attitude Estimation with Extended $$\mathcal{H}_2$$ Filtering](https://arxiv.org/pdf/2006.14385.pdf), **AIAA Journal of Guidance, Control, and Dynamics**, 2021.
 
-6. S. Kim, V. Tadiparthi, R. Bhattacharya, [Computationally Efficient Attitude Estimation with Extended $$\mathcal{H}_2$$ Filtering](https://arxiv.org/pdf/2006.14385.pdf), **AIAA Journal of Guidance, Control, and Dynamics**, 2020.
+6. S. C. Hsu, V. Tadiparthi, R. Bhattacharya, [A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars](https://rdcu.be/b7jyY), **Journal of Computational Mechanics**, 2021.
+   
+7. N. Das, R. Bhattacharya, [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020.
+ 
+8.  V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $$\mathcal{H}_2/\mathcal{H}_\infty$$ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
 
-7. S. C. Hsu, V. Tadiparthi, R. Bhattacharya, [A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars](https://rdcu.be/b7jyY), **Journal of Computational Mechanics**, 2020.
-
-8. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $$\mathcal{H}_2/\mathcal{H}_\infty$$ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
-
-9. S. Kim, V. Deshpande, R. Bhattacharya, [Robust Kalman Filtering with Probabilistic Uncertainty in System Parameters](https://arxiv.org/pdf/2003.10926.pdf), **IEEE Control System Letters**, 2020.
+9.  S. Kim, V. Deshpande, R. Bhattacharya, [Robust Kalman Filtering with Probabilistic Uncertainty in System Parameters](https://arxiv.org/pdf/2003.10926.pdf), **IEEE Control System Letters**, 2020.
 
 10. S. C. Hsu, R. Bhattacharya, [Design of Linear Parameter Varying Quadratic Regulator in Polynomial Chaos Framework](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.5128), **International Journal of Robust and Nonlinear Control**, 2020.
 
@@ -200,9 +200,9 @@ permalink: /publications.html
 
 97. R. Bhattacharya, G. J. Balas, [An Algorithm for Computationally Efficient Digital Implementation of LTI Controllers](http://dx.doi.org/10.1109/ACC.2003.1239745), **American Control Conference**, June 2003.
 
-98. R. Bhattacharya, G. J. Balas, [Implementation of Online Control Customization within the Open Control Platform](http://www.amazon.com/Software-Enabled-Control-Information-Technology-Dynamical/dp/0471234362), Software-Enabled Control: Information Technologies for Dynamical Systems, A John Wiley/IEEE Press Publication, 2003.
+98.  R. Bhattacharya, G. J. Balas, [Implementation of Online Control Customization within the Open Control Platform](http://www.amazon.com/Software-Enabled-Control-Information-Technology-Dynamical/dp/0471234362), Software-Enabled Control: Information Technologies for Dynamical Systems, A John Wiley/IEEE Press Publication, 2003.
 
-99. R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](http://dx.doi.org/10.2514/2.4965 "http://dx.doi.org/10.2514/2.4965"), **Journal of Guidance, Control, and Dynamics**, Vol. 25, No. 5, pp. 924-931, 2002.
+99.  R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](http://dx.doi.org/10.2514/2.4965 "http://dx.doi.org/10.2514/2.4965"), **Journal of Guidance, Control, and Dynamics**, Vol. 25, No. 5, pp. 924-931, 2002.
 
 100. R. Bhattacharya, G. J. Balas, [Implementation of Control Algorithms in an Environment of Dynamically Scheduled CPU Time Using Balanced Truncation](http://dx.doi.org/10.2514/6.2002-4758), **AIAA GNC** Conference, August 5-8, 2002.
 
