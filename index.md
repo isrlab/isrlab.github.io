@@ -78,9 +78,9 @@ A tensegrity system is an arrangement of axially-loaded elements (no element ben
 ### Selected Papers
 
 1. S. C. Hsu, V. Tadiparthi, R. Bhattacharya, [A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars](https://rdcu.be/b7jyY), **Journal of Computational Mechanics**, 2020.
-1. V. Tadiparthi, S. C. Hsu, R. Bhattacharya, [Software for Tensegrity Dynamics](http://joss.theoj.org/papers/10.21105/joss.01042#), The Journal of Open Source Software, 2019.
+1. V. Tadiparthi, S. C. Hsu, R. Bhattacharya, [Software for Tensegrity Dynamics](http://joss.theoj.org/papers/10.21105/joss.01042#), **The Journal of Open Source Software**, 2019.
 
-## Flight Control Applications
+## Robust Flight Control Design
 
 Our lab has expertise in designing custom aerial platforms for various needs. Our research integrates aerodynamics, structural design, and flight control design in a single unified framework. The objective is to develop next-generation tools for rapid custom design of high confidence unmanned air vehicles for various industries, including defense, oil & gas, and precision agriculture. The vision is to codesign much of the system engineering aspect by integrating state-of-the-art in computational fluid dynamics, structural mechanics, robust control theory, CAD software, and 3D printing. The application focus is currently on aerospace systems but can be extended to general autonomous systems.
 
