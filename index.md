@@ -7,18 +7,28 @@ permalink: /index.html
 
   <!-- Welcome to the Intelligent Systems Research Laboratory at Texas A&M University. We focus on information fusion and uncertainty quantification on manifolds, for estimation and control of nonlinear dynamical systems.  Below are highlights from our recent work. -->
 
+## Certification of Autonomous Flight with Theory & Data Driven Machine Learning
+We expect Urban Air Mobility to rely more on autonomy than any other transportation sector, and consequently, it is critical to quantify their safe flight envelope accurately. Computational tools for critical analyses of the system, such as determining region-of-attraction, establishing local performance bounds, and identifying the largest uncertainty set for which robust performance is guaranteed, are necessary to establish trust in this increased autonomy. This research focuses on developing new formulations and algorithms for determining the region of attraction of uncertain nonlinear system dynamics with various gust models, establishing bounds on exogenous signal attenuations and quantifying the largest uncertainty set for which the control and estimation algorithms perform satisfactorily. These formulations incorporate simulation data (black box) and physics-derived vehicle dynamics, resulting in constrained PDEs in high dimensional space, which are solved using recent developments in scientific machine learning.
+
+<img class="mySlides" src="assets/images/sciml_vnv.png" style="display:block; margin:auto; width:100%;max-width:960px">
+
+### Selected Papers
+1. Vaishnav Tadiparthi, Raktim Bhattacharya, [Optimal Transport Based Refinement of Physics-Informed Neural Networks](https://arxiv.org/pdf/2105.12307.pdf)
+
+
+
 ## Sparse Architectures for Control and Estimation
 
-We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and $$\mathcal{H}_2$$ and $$\mathcal{H}_\infty$$ framework. Funding Source: NSF and AFOSR.
+We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and $$\mathcal{H}_2$$ and $$\mathcal{H}_\infty$$ framework. Applications include tracking of aerospace vehicles, structural health-monitoring of wind-turbine blades, and battery thermal management. Funding Source: NSF and AFOSR.
 
 ### Selected Papers
   1. V. Deshpande, R. Bhattacharya, K. Subbarao, [Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems](https://arxiv.org/pdf/2105.05976.pdf), **IEEE Control Systems Letters**, 2021.
-  1. N. Das, R. Bhattacharya, [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020. 
+  1. N. Das, R. Bhattacharya, [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020.
   1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $$\mathcal{H}_2/\mathcal{H}_\infty$$ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
   1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
   1.  N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
 
-## Information Fusion on Manifolds
+## Space Situational Awareness
 
 Space situational awareness is concerned with tracking space objects and classifying them with respect to specific characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non-Gaussian uncertainty supported on cylindrical coordinate systems $$\mathbb{R}^5\times\mathbb{S}$$, sparse sensing, and unknown sensor characteristics. These algorithms are used for conjunction analysis, which predicts upcoming object encounters to notify satellite operators and avoid high-risk encounters. Funding Source: NSF and Intelligent Fusion Technology.
 
@@ -31,7 +41,7 @@ Space situational awareness is concerned with tracking space objects and classif
 1. N. Das, R. Bhattacharya, Sparse Sensing Architecture for Kalman Filtering with Guaranteed Error Bound, **1st IAA Conference on Space Situational Awareness (ICSSA)**, Orlando, FL, USA, 2017.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
 
-## Asynchronous Numerical Algorithms
+## Asynchronous Numerical Algorithms for Computational Mechanics and Optimization
 
 Future exascale machines are expected to have $$10^5-10^6$$ processors, providing a deep hierarchy of systems and resources. However, many challenges exist, which must be overcome before exascale systems can be utilized as a useful tool to further understanding critical scientific inquires. Among the main obstacles to scaling code to exascale levels is the communication necessary in tightly coupled problems, such as in **uncertainty propagation, turbulence flow simulations at high Reynolds numbers, and large-scale convex optimization**. The synchronization across processors can cause 50-80% processor idle time. Our research focuses on asynchronous numerical algorithms that do not wait for data to be synchronized. Communication between processors is modeled as a stochastic channel, and the behavior of the numerical algorithm is analyzed in a stochastic jump dynamical system framework. Funding Source: NSF.
 
@@ -84,7 +94,7 @@ Our lab has expertise in designing custom aerial platforms for various needs. Ou
 1. R. Bhattacharya, G. J. Balas, [Implementation of Online Control Customization within the Open Control Platform, Software-Enabled Control: Information Technologies for Dynamical Systems](https://www.amazon.com/Software-Enabled-Control-Information-Technology-Dynamical/dp/0471234362), A John Wiley/IEEE Press Publication, 2003.
 1. R. Bhattacharya, G. J. Balas, M. Alpay Kaya, A. Packard, [Nonlinear Receding Horizon Control of an F-16 Aircraft](https://arc.aiaa.org/doi/10.2514/2.4965), **Journal of Guidance, Control, and Dynamics**, Vol. 25, No. 5, pp. 924-931, 2002.
 
-## Uncertainty Quantification in Hypersonic Flight 
+## Uncertainty Quantification in Hypersonic Flight
 
 Hypersonic flight leading to entry descent landing of a large spacecraft on the surface of Mars has been identified as a research area by NASA. The requirement is to land within a few kilometers of the robotic test sites. One of the significant concerns of high mass entry is the mismatch between entry conditions and deceleration capabilities provided by supersonic parachute technologies. In such applications, there are uncertainties present in initial conditions and other system parameters. Estimating these systems' parameters is a challenging problem because of the nonlinearities in the system and the lack of frequent measurements. The evolution of uncertainty (as shown in the figure) is non-Gaussian. In our work, we develop new algorithms for UQ, state-estimation, and guidance algorithms. The controlled descent ensures robustness with respect to system uncertainties and guarantees landing at the desired site with high accuracy. Funding Source: NASA.
 
