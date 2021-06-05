@@ -10,7 +10,7 @@ permalink: /index.html
 ## Certification of Autonomous Flight with Theory & Data Driven Machine Learning
 We expect Urban Air Mobility to rely more on autonomy than any other transportation sector, and consequently, it is critical to quantify their safe flight envelope accurately. Computational tools for critical analyses of the system, such as determining region-of-attraction, establishing local performance bounds, and identifying the largest uncertainty set for which robust performance is guaranteed, are necessary to establish trust in this increased autonomy. This research focuses on developing new formulations and algorithms for determining the region of attraction of uncertain nonlinear system dynamics with various gust models, establishing bounds on exogenous signal attenuations and quantifying the largest uncertainty set for which the control and estimation algorithms perform satisfactorily. These formulations incorporate simulation data (black box) and physics-derived vehicle dynamics, resulting in constrained PDEs in high dimensional space, which are solved using recent developments in scientific machine learning.
 
-<img class="mySlides" src="assets/images/sciml_vnv.png" style="display:block; margin:auto; width:100%;max-width:960px">
+<img class="mySlides" src="assets/images/sciml_vnv.png" style="display:block; margin:auto; width:100%;max-width:860px">
 
 ### Selected Papers
 1. Vaishnav Tadiparthi, Raktim Bhattacharya, [Optimal Transport Based Refinement of Physics-Informed Neural Networks](https://arxiv.org/pdf/2105.12307.pdf), **submitted**, 2021.
