@@ -14,8 +14,8 @@ We expect Urban Air Mobility to rely more on autonomy than any other transportat
 
 ### Selected Papers
 1. Vaishnav Tadiparthi, Raktim Bhattacharya, [Optimal Transport Based Refinement of Physics-Informed Neural Networks](https://arxiv.org/pdf/2105.12307.pdf), **submitted**, 2021.
-1. A. Halder, K. Lee, and R. Bhattacharya, [Optimal Transport Approach for Probabilistic Robustness Analysis of F-16 Controllers](https://arc.aiaa.org/doi/10.2514/1.G000386), AIAA Journal of Guidance, Control, and Dynamics, 2015.
-1. A. Halder, K. Lee, R. Bhattacharya, [Probabilistic Robustness Analysis of F- 16 Controller Performance: An Optimal Transport Approach](http://arxiv.org/pdf/1402.0147.pdf), ACC, 2013.
+1. A. Halder, K. Lee, and R. Bhattacharya, [Optimal Transport Approach for Probabilistic Robustness Analysis of F-16 Controllers](https://arc.aiaa.org/doi/10.2514/1.G000386), **AIAA Journal of Guidance, Control, and Dynamics**, 2015.
+1. A. Halder, K. Lee, R. Bhattacharya, [Probabilistic Robustness Analysis of F- 16 Controller Performance: An Optimal Transport Approach](http://arxiv.org/pdf/1402.0147.pdf), **ACC**, 2013.
 
 ## Sparse Architectures for Control and Estimation
 
