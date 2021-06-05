@@ -61,7 +61,7 @@ Future exascale machines are expected to have $$10^5-10^6$$ processors, providin
 
 ## Uncertainty Management in Cyber Physical Systems
 
-Cyber-physical systems have strong coupling between physics, communication, and computation. In our research, we develop algorithms for quantifying uncertainty in system behavior due to uncertainties in the physics (unmodeled dynamics, process and sensor noise), communication (irregular channels, packet loss, etc.), computation (jitter in real-time tasks, CPU transients, etc.). The system-level behavior is modeled as a stochastic jump system, and new uncertainty propagation algorithms for such jump systems are developed. New stochastic scheduling algorithms have been developed that switch between computational tasks to ensure system-level robustness. Funding Source: NSF,
+Cyber-physical systems have strong coupling between physics, communication, and computation. In our research, we develop algorithms for quantifying uncertainty in system behavior due to uncertainties in the physics (unmodeled dynamics, process and sensor noise), communication (irregular channels, packet loss, etc.), computation (jitter in real-time tasks, CPU transients, etc.). The system-level behavior is modeled as a stochastic jump system, and new uncertainty propagation algorithms for such jump systems are developed. New stochastic scheduling algorithms have been developed that switch between computational tasks to ensure system-level robustness. Funding Source: NSF, DARPA.
 
 <img class="mySlides" src="assets/images/cps.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
