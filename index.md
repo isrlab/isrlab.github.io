@@ -21,7 +21,7 @@ We expect Urban Air Mobility to rely more on autonomy than any other transportat
 
 We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and $$\mathcal{H}_2$$ and $$\mathcal{H}_\infty$$ framework. Applications include tracking of aerospace vehicles, structural health-monitoring of wind-turbine blades, and battery thermal management. Funding Source: NSF and AFOSR.
 
-<img class="mySlides" src="assets/images/sparse_sensing.png" style="display:block; margin:auto; width:100%;max-width:960px">
+<img class="mySlides" src="assets/images/sparse_sensing.png" style="display:block; margin:auto; width:100%;max-width:1060px">
 
 ### Selected Papers
   1. V. Deshpande, R. Bhattacharya, K. Subbarao, [Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems](https://arxiv.org/pdf/2105.05976.pdf), **IEEE Control Systems Letters**, 2021.
