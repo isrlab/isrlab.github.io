@@ -32,7 +32,7 @@ We are interested in determining sparse architectures for control and estimation
   1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
   1.  N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
 
-## Space Situational Awareness
+## Information Fusion on Manifolds for Space Situational Awareness
 
 Space situational awareness is concerned with tracking space objects and classifying them with respect to specific characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non-Gaussian uncertainty supported on cylindrical coordinate systems $$\mathbb{R}^5\times\mathbb{S}$$, sparse sensing, and unknown sensor characteristics. These algorithms are used for conjunction analysis, which predicts upcoming object encounters to notify satellite operators and avoid high-risk encounters. Funding Source: NSF and Intelligent Fusion Technology.
 
