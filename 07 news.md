@@ -4,7 +4,7 @@ title: News
 permalink: /news.html
 ---
 ## News 
-Watch this space for udpates from our lab.
+Watch this space for updates from our lab.
 
 ### 2021
 
