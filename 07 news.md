@@ -6,7 +6,7 @@ permalink: /news.html
 ## News 
 Watch this space for udpates from our lab.
 
-1. **June 2021** New journal paper published 
+1. **June 2021** New journal paper published
    > V. Deshpande, R. Bhattacharya, K. Subbarao, [Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems](https://arxiv.org/pdf/2105.05976.pdf), **IEEE Control Systems Letters**, 2021.
     
 2. **June 2021** Lab member Vedang Despande starts internship at MERL.
