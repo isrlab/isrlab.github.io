@@ -11,5 +11,5 @@ Watch this space for udpates from our lab.
     
 2. **June 2021** Lab member Vedang Despande starts internship at MERL.
 3. **June 2021** Lab member Vaishnav Tadiparthi starts internship at University of Florida Innovation Station. 
-4. **April 2021**  Lab alumni Dr. Niladri Das joined Sandia National Laboratories as a postdoctoral scholar.
+4. **April 2021**  Lab alumni Dr. Niladri Das joins Sandia National Laboratories as a postdoctoral scholar.
 5. 
