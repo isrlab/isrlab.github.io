@@ -8,9 +8,9 @@ Watch this space for updates from our lab.
 
 ### 2021
 
-1. **July 2021** Diego Sol accepts offer to join ISRLab in Fall for M.S.
+1. **July 2021** Diego Sol will join ISRLab in Fall for M.S.
    
-2. **July 2021** Yash Raj Sharma accepts offer to join ISRLab in Fall for Ph.D.
+2. **July 2021** Yash Raj Sharma will join ISRLab in Fall for Ph.D.
    
 3. **June 2021** Lab member Vedang Despande starts internship at MERL.
 
