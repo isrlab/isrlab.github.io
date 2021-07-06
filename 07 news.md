@@ -3,10 +3,10 @@ layout: default
 title: News
 permalink: /news.html
 ---
-## News 
+# News 
 Watch this space for updates from our lab.
 
-### 2021
+## 2021
 
 1. **July 2021** Diego Sol accepts offer to join ISRLab in Fall for M.S.
    
