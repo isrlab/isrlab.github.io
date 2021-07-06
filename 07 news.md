@@ -20,7 +20,7 @@ Watch this space for updates from our lab.
 
 6. **June 2021** New conference paper accepted. V. Deshpande, R. Bhattacharya, [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
 
-7. **June 2021** New conference paper accepted. V. Deshpande, R. Bhattacharya, Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments, American Control Conference, 2021.
+7. **June 2021** New conference paper accepted. V. Deshpande, R. Bhattacharya, [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
 
 8. **June 2021** New conference paper accepted. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: Robust $$\mathcal{H}_\infty$$ Optimal Observer Design with Model Uncertainty](https://arxiv.org/pdf/2009.01930.pdf), **American Control Conference**, 2021.
 
