@@ -4,7 +4,7 @@ title: News
 permalink: /news.html
 ---
 ## News 
-Watch this space for updates from our lab.
+Watch this space for recent updates from our lab.
 
 ### 2021
 
