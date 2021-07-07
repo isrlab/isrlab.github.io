@@ -28,6 +28,8 @@ Watch this space for recent updates from our lab.
 
 10. **May 2021** New journal paper published. V. Deshpande, R. Bhattacharya, D. Donzis, [A Unified Framework to Generate Optimized Compact Finite Difference Schemes](https://arxiv.org/pdf/1912.07382.pdf), **Journal of Computational Physics**, 2021.
 
-11. **April 2021**  Lab alumni Dr. Niladri Das joins Sandia National Laboratories as a postdoctoral scholar.
+11. **April 2021** Vedang Deshpande clears Ph.D. preliminary exam.  Congratulations!
 
-12. **Feb 2021** New journal paper pubished. S. Kim, V. Tadiparthi, R. Bhattacharya, [Computationally Efficient Attitude Estimation with Extended $$\mathcal{H}_2$$ Filtering](https://arxiv.org/pdf/2006.14385.pdf), **AIAA Journal of Guidance, Control, and Dynamics**, 2021.
+12. **April 2021**  Lab alumni Dr. Niladri Das joins Sandia National Laboratories as a postdoctoral scholar.
+
+13. **Feb 2021** New journal paper pubished. S. Kim, V. Tadiparthi, R. Bhattacharya, [Computationally Efficient Attitude Estimation with Extended $$\mathcal{H}_2$$ Filtering](https://arxiv.org/pdf/2006.14385.pdf), **AIAA Journal of Guidance, Control, and Dynamics**, 2021.
