@@ -75,7 +75,7 @@ permalink: /members.html
       <div><a href="http://www.linkedin.com/pub/zachary-sunberg/24/669/540">Zachary Sunberg</a><br> <year> </year></div>
       <div><a href="http://www.linkedin.com/pub/christopher-bertagne/63/2b9/711">Chris Bertagne</a> <br> <year>REU Summer 2012</year></div>
       <div><a href="http://www.linkedin.com/pub/mario-botros/51/6b2/559">Mario Botros</a> <br> <year>2012-2013</year></div>
-      <div><a href="http://www.linkedin.com/pub/emily-boster/80/183/b89">Emily Boster</a> <br> <year>2013-2013</year></div>
+      <div><a href="http://www.linkedin.com/pub/emily-boster/80/183/b89">Emily Boster</a> <br> <year>2013</year></div>
       <div><a href="http://www.linkedin.com/pub/scott-slaughter/31/4a9/ba0">Scott Slaughter</a> <br> <year>2013</year></div>
       <div>Sachin Subramanian <br> <year>2014</year></div>
       <div><a href="https://www.linkedin.com/in/alejandrojcastillo/">Alejandro Castillo</a> <br> <year>2015</year></div>
