@@ -20,16 +20,14 @@ Watch this space for recent updates from our lab.
 
 6. **June 2021** New conference paper accepted. V. Deshpande, R. Bhattacharya, [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
 
-7. **June 2021** New conference paper accepted. V. Deshpande, R. Bhattacharya, [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
+7. **June 2021** New conference paper accepted. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: Robust $$\mathcal{H}_\infty$$ Optimal Observer Design with Model Uncertainty](https://arxiv.org/pdf/2009.01930.pdf), **American Control Conference**, 2021.
 
-8. **June 2021** New conference paper accepted. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: Robust $$\mathcal{H}_\infty$$ Optimal Observer Design with Model Uncertainty](https://arxiv.org/pdf/2009.01930.pdf), **American Control Conference**, 2021.
+8. **May 2021** New paper on SciML submitted. V. Tadiparthi, R. Bhattacharya, [Optimal Transport Based Refinement of Physics-Informed Neural Networks](https://arxiv.org/pdf/2105.12307.pdf), **submitted**, 2021.
 
-9. **May 2021** New paper on SciML submitted. V. Tadiparthi, R. Bhattacharya, [Optimal Transport Based Refinement of Physics-Informed Neural Networks](https://arxiv.org/pdf/2105.12307.pdf), **submitted**, 2021.
+9.  **May 2021** New journal paper published. V. Deshpande, R. Bhattacharya, D. Donzis, [A Unified Framework to Generate Optimized Compact Finite Difference Schemes](https://arxiv.org/pdf/1912.07382.pdf), **Journal of Computational Physics**, 2021.
 
-10. **May 2021** New journal paper published. V. Deshpande, R. Bhattacharya, D. Donzis, [A Unified Framework to Generate Optimized Compact Finite Difference Schemes](https://arxiv.org/pdf/1912.07382.pdf), **Journal of Computational Physics**, 2021.
+10. **April 2021** Vedang Deshpande clears Ph.D. preliminary exam.  Congratulations!
 
-11. **April 2021** Vedang Deshpande clears Ph.D. preliminary exam.  Congratulations!
+11. **April 2021**  Lab alumni Dr. Niladri Das joins Sandia National Laboratories as a postdoctoral scholar.
 
-12. **April 2021**  Lab alumni Dr. Niladri Das joins Sandia National Laboratories as a postdoctoral scholar.
-
-13. **Feb 2021** New journal paper pubished. S. Kim, V. Tadiparthi, R. Bhattacharya, [Computationally Efficient Attitude Estimation with Extended $$\mathcal{H}_2$$ Filtering](https://arxiv.org/pdf/2006.14385.pdf), **AIAA Journal of Guidance, Control, and Dynamics**, 2021.
+12. **Feb 2021** New journal paper pubished. S. Kim, V. Tadiparthi, R. Bhattacharya, [Computationally Efficient Attitude Estimation with Extended $$\mathcal{H}_2$$ Filtering](https://arxiv.org/pdf/2006.14385.pdf), **AIAA Journal of Guidance, Control, and Dynamics**, 2021.
