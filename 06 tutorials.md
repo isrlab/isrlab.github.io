@@ -21,8 +21,8 @@ permalink: /tutorials.html
 * [Introduction to Linear Matrix Inequalities](../pdfs/aero632/04 Intro to LMI.pdf)
 * Full State Feedback Design 
 		* [Linear Quadratic Regulator (Part II)](../pdfs/aero632/05a StateFeedback LQR.pdf)
-		* [H2 Optimal](../pdfs/aero632/05b StateFeedback H2.pdf) 
-		* [Hinf Optimal](../pdfs/aero632/05c StateFeedback Hinf.pdf)
+		* [$\mathcal{H}_2$ Optimal](../pdfs/aero632/05b StateFeedback H2.pdf) 
+		* [$\mathcal{H}_\infty$ Optimal](../pdfs/aero632/05c StateFeedback Hinf.pdf)
 * [Estimator Design](../pdfs/aero632/06 Estimator Design.pdf)
 * [Output Feedback](../pdfs/aero632/07 Output Feedback.pdf)
 * [Uncertainty Modeling](../pdfs/aero632/08 Uncertainty.pdf)
