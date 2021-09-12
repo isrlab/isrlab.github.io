@@ -6,6 +6,8 @@ permalink: /publications.html
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 
+1. N.Das, R. Bhattacharya, [Optimal Sensor Precision for Multi-Rate Sensing for Bounded Estimation Error](https://arxiv.org/pdf/2106.06906.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2021. 
+
 1. V. Deshpande, R. Bhattacharya, K. Subbarao, [Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems](https://arxiv.org/pdf/2105.05976.pdf), **IEEE Control Systems Letters**, 2021.
 
 2. V. Deshpande, R. Bhattacharya, [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
