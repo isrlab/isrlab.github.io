@@ -92,7 +92,7 @@ permalink: /publications.html
 
 42. K. Lee, R. Bhattacharya, [Optimal Switching Synthesis for Jump Linear Systems with Gaussian Initial State Uncertainty](http://arxiv.org/abs/1408.4859), ASME Dynamic Systems and Control Conference (**DSCC**), 2014.
 
-43. K. Lee, A. Halder, R. Bhattacharya, [Performance and Robustness Analysis of Stochastic Jump Linear Systems Using Wasserstein Metric](http://people.tamu.edu/~animodor/papers/(J)Performance_Automatica.pdf), **Automatica**, 2014
+43. K. Lee, A. Halder, R. Bhattacharya, [Performance and Robustness Analysis of Stochastic Jump Linear Systems Using Wasserstein Metric](https://arxiv.org/pdf/1403.2013.pdf), **Automatica**, 2014
 
 44. A. Halder, R. Bhattacharya, [Probabilistic Model Validation for Uncertain Nonlinear Systems](http://arxiv.org/abs/1402.0140), **Automatica**, 2014.
 
