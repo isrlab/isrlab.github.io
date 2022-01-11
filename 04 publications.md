@@ -6,9 +6,9 @@ permalink: /publications.html
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 
-1. V. Tadiparthi, R. Bhattacharya, [Estimating Invariant Sets using Physics-Informed Neural Networks](https://www.researchgate.net/publication/357558414_Estimating_Invariant_Sets_using_Physics-Informed_Neural_Networks), AIAA SCITECH Forum, 2022.
+1. V. Tadiparthi, R. Bhattacharya, [Estimating Invariant Sets using Physics-Informed Neural Networks](https://www.researchgate.net/publication/357558414_Estimating_Invariant_Sets_using_Physics-Informed_Neural_Networks), **AIAA SCITECH Forum**, 2022.
 
-1. V. Tadiparthi, R. Bhattacharya, [Data-driven Verification using Efficient Active Learning](https://www.researchgate.net/publication/357588868_Data-driven_Verification_using_Efficient_Active_Learning), AIAA SCITECH Forum, 2022.
+1. V. Tadiparthi, R. Bhattacharya, [Data-driven Verification using Efficient Active Learning](https://www.researchgate.net/publication/357588868_Data-driven_Verification_using_Efficient_Active_Learning), **AIAA SCITECH Forum**, 2022.
 
 1. N. Das, R. Bhattacharya, [Optimal Sensor Precision for Multi-Rate Sensing for Bounded Estimation Error](https://arxiv.org/pdf/2106.06906.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2021. 
 
