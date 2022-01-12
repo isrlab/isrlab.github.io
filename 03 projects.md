@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects.html
 ---
 
+1. Development and Experimental Validation of Multi-modal Control for Rapidly Changing Flight Dynamics, Sep 2021 – Aug 2024, **PI: Raktim Bhattacharya (TAMU)**, *** University Consortium for Applied Hypersonics ***.
+
 1. Adaptive Markov Inference Game Optimization (AMIGO) for Rapid Discovery of Evasive Satellite Behaviors Phase II (2019)  **PI: Raktim Bhattacharya**, ***Intelligent Fusion Technology, Inc.***
 
 1. Modeling, Analysis, and Diagnostics of High Strength-to-Weight Wind Turbine Blades Using Tensegrity Principles (2018) **PI: Raktim Bhattacharya**, ***NSF*** [#1762825](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1762825&HistoricalAwards=false)
