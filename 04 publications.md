@@ -6,6 +6,12 @@ permalink: /publications.html
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 
+1. V. Tadiparthi, R. Bhattacharya, [Estimating Invariant Sets using Physics-Informed Neural Networks](https://www.researchgate.net/publication/357558414_Estimating_Invariant_Sets_using_Physics-Informed_Neural_Networks), **AIAA SCITECH Forum**, 2022.
+
+1. V. Tadiparthi, R. Bhattacharya, [Data-driven Verification using Efficient Active Learning](https://www.researchgate.net/publication/357588868_Data-driven_Verification_using_Efficient_Active_Learning), **AIAA SCITECH Forum**, 2022.
+
+1. N. Das, R. Bhattacharya, [Optimal Sensor Precision for Multi-Rate Sensing for Bounded Estimation Error](https://arxiv.org/pdf/2106.06906.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2021. 
+
 1. V. Deshpande, R. Bhattacharya, K. Subbarao, [Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems](https://arxiv.org/pdf/2105.05976.pdf), **IEEE Control Systems Letters**, 2021.
 
 2. V. Deshpande, R. Bhattacharya, [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
@@ -90,7 +96,7 @@ permalink: /publications.html
 
 42. K. Lee, R. Bhattacharya, [Optimal Switching Synthesis for Jump Linear Systems with Gaussian Initial State Uncertainty](http://arxiv.org/abs/1408.4859), ASME Dynamic Systems and Control Conference (**DSCC**), 2014.
 
-43. K. Lee, A. Halder, R. Bhattacharya, [Performance and Robustness Analysis of Stochastic Jump Linear Systems Using Wasserstein Metric](http://people.tamu.edu/~animodor/papers/(J)Performance_Automatica.pdf), **Automatica**, 2014
+43. K. Lee, A. Halder, R. Bhattacharya, [Performance and Robustness Analysis of Stochastic Jump Linear Systems Using Wasserstein Metric](https://arxiv.org/pdf/1403.2013.pdf), **Automatica**, 2014
 
 44. A. Halder, R. Bhattacharya, [Probabilistic Model Validation for Uncertain Nonlinear Systems](http://arxiv.org/abs/1402.0140), **Automatica**, 2014.
 
