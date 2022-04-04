@@ -8,7 +8,7 @@ permalink: /index.html
   <!-- Welcome to the Intelligent Systems Research Laboratory at Texas A&M University. We focus on information fusion and uncertainty quantification on manifolds, for estimation and control of nonlinear dynamical systems.  Below are highlights from our recent work. -->
 
 ## Certification of Autonomous Flight with Theory & Data Driven Machine Learning
-We expect Urban Air Mobility to rely more on autonomy than any other transportation sector, and consequently, it is critical to quantify their safe flight envelope accurately. Computational tools for critical analyses of the system, such as determining region-of-attraction, establishing local performance bounds, and identifying the largest uncertainty set for which robust performance is guaranteed, are necessary to establish trust in this increased autonomy. This research focuses on developing new formulations and algorithms for determining the region of attraction of uncertain nonlinear system dynamics with various gust models, establishing bounds on exogenous signal attenuations and quantifying the largest uncertainty set for which the control and estimation algorithms perform satisfactorily. These formulations incorporate simulation data (black box) and physics-derived vehicle dynamics, resulting in constrained PDEs in high dimensional space, which are solved using recent developments in scientific machine learning. Funding Source: NSF.
+We expect Urban Air Mobility to rely more on autonomy than any other transportation sector, and consequently, it is critical to quantify their safe flight envelope accurately. Computational tools for critical analyses of the system, such as determining region-of-attraction, establishing local performance bounds, and identifying the largest uncertainty set for which robust performance is guaranteed, are necessary to establish trust in this increased autonomy. This research focuses on developing new formulations and algorithms for determining the region of attraction of uncertain nonlinear system dynamics with various gust models, establishing bounds on exogenous signal attenuations and quantifying the largest uncertainty set for which the control and estimation algorithms perform satisfactorily. These formulations incorporate simulation data (black box) and physics-derived vehicle dynamics, resulting in constrained PDEs in high dimensional space, which are solved using recent developments in scientific machine learning. 
 
 <img class="mySlides" src="assets/images/sciml_vnv.png" style="display:block; margin:auto; width:100%;max-width:860px">
 
@@ -19,7 +19,7 @@ We expect Urban Air Mobility to rely more on autonomy than any other transportat
 
 ## Sparse Architectures for Control and Estimation
 
-We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and $$\mathcal{H}_2$$ and $$\mathcal{H}_\infty$$ framework. Applications include tracking of aerospace vehicles, structural health-monitoring of wind-turbine blades, and battery thermal management. Funding Source: NSF and AFOSR.
+We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and $$\mathcal{H}_2$$ and $$\mathcal{H}_\infty$$ framework. Applications include tracking of aerospace vehicles, structural health-monitoring of wind-turbine blades, and battery thermal management. 
 
 <img class="mySlides" src="assets/images/sparse_sensing.png" style="display:block; margin:auto; width:100%;max-width:1060px">
 
@@ -34,7 +34,7 @@ We are interested in determining sparse architectures for control and estimation
 
 ## Information Fusion on Manifolds for Space Situational Awareness
 
-Space situational awareness is concerned with tracking space objects and classifying them with respect to specific characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non-Gaussian uncertainty supported on cylindrical coordinate systems $$\mathbb{R}^5\times\mathbb{S}$$, sparse sensing, and unknown sensor characteristics. These algorithms are used for conjunction analysis, which predicts upcoming object encounters to notify satellite operators and avoid high-risk encounters. Funding Source: NSF and AFOSR/Intelligent Fusion Technology.
+Space situational awareness is concerned with tracking space objects and classifying them with respect to specific characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non-Gaussian uncertainty supported on cylindrical coordinate systems $$\mathbb{R}^5\times\mathbb{S}$$, sparse sensing, and unknown sensor characteristics. These algorithms are used for conjunction analysis, which predicts upcoming object encounters to notify satellite operators and avoid high-risk encounters. 
 
 <img class="mySlides" src="assets/images/ssa.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
@@ -47,7 +47,7 @@ Space situational awareness is concerned with tracking space objects and classif
 
 ## Asynchronous Numerical Algorithms for Computational Mechanics and Optimization
 
-Future exascale machines are expected to have $$10^5-10^6$$ processors, providing a deep hierarchy of systems and resources. However, many challenges exist, which must be overcome before exascale systems can be utilized as a useful tool to further understanding critical scientific inquires. Among the main obstacles to scaling code to exascale levels is the communication necessary in tightly coupled problems, such as in **uncertainty propagation, turbulence flow simulations at high Reynolds numbers, and large-scale convex optimization**. The synchronization across processors can cause 50-80% processor idle time. Our research focuses on asynchronous numerical algorithms that do not wait for data to be synchronized. Communication between processors is modeled as a stochastic channel, and the behavior of the numerical algorithm is analyzed in a stochastic jump dynamical system framework. Funding Source: NSF.
+Future exascale machines are expected to have $$10^5-10^6$$ processors, providing a deep hierarchy of systems and resources. However, many challenges exist, which must be overcome before exascale systems can be utilized as a useful tool to further understanding critical scientific inquires. Among the main obstacles to scaling code to exascale levels is the communication necessary in tightly coupled problems, such as in **uncertainty propagation, turbulence flow simulations at high Reynolds numbers, and large-scale convex optimization**. The synchronization across processors can cause 50-80% processor idle time. Our research focuses on asynchronous numerical algorithms that do not wait for data to be synchronized. Communication between processors is modeled as a stochastic channel, and the behavior of the numerical algorithm is analyzed in a stochastic jump dynamical system framework.
 
 <img class="mySlides" src="assets/images/async.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
@@ -61,7 +61,7 @@ Future exascale machines are expected to have $$10^5-10^6$$ processors, providin
 
 ## Uncertainty Management in Cyber Physical Systems
 
-Cyber-physical systems have strong coupling between physics, communication, and computation. In our research, we develop algorithms for quantifying uncertainty in system behavior due to uncertainties in the physics (unmodeled dynamics, process and sensor noise), communication (irregular channels, packet loss, etc.), computation (jitter in real-time tasks, CPU transients, etc.). The system-level behavior is modeled as a stochastic jump system, and new uncertainty propagation algorithms for such jump systems are developed. New stochastic scheduling algorithms have been developed that switch between computational tasks to ensure system-level robustness. Funding Source: NSF, DARPA.
+Cyber-physical systems have strong coupling between physics, communication, and computation. In our research, we develop algorithms for quantifying uncertainty in system behavior due to uncertainties in the physics (unmodeled dynamics, process and sensor noise), communication (irregular channels, packet loss, etc.), computation (jitter in real-time tasks, CPU transients, etc.). The system-level behavior is modeled as a stochastic jump system, and new uncertainty propagation algorithms for such jump systems are developed. New stochastic scheduling algorithms have been developed that switch between computational tasks to ensure system-level robustness. 
 
 <img class="mySlides" src="assets/images/cps.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
@@ -74,10 +74,10 @@ Cyber-physical systems have strong coupling between physics, communication, and 
 1. R. Bhattacharya, G. J. Balas, [Control in Computationally Constrained Environments](https://ieeexplore.ieee.org/document/4797794/), **IEEE Control Systems Technology**, Volume 17, Issue 3, 2009.
 1. R. Bhattacharya, G. J. Balas, [Anytime Control Algorithm: Model Reduction Approach](https://arc.aiaa.org/doi/10.2514/1.9457), **Journal of Guidance, Control, and Dynamics**, 2004, Vol. 27, No.5, pp. 767-776, 2004.
 
-## Modeling & Control of Tensegrity Systems
+<!-- ## Modeling & Control of Tensegrity Systems
 A tensegrity system is an arrangement of axially-loaded elements (no element bends, even though the overall structure bends) that we loosely characterize as a network of bars and cables. The bars take the compressive axial load, and the cables take the tensile load. Tensegrity structures can be designed to be extremely light for a given stiffness. In our research, we focus on efficient multi-body modeling and nonlinear control of tensegrity systems. Applications considered include dexterous robotics, all-terrain ground robots, and biological systems. Funding Source: NSF and NASA.
 
-<img class="mySlides" src="assets/images/tensegrity.png" style="display:block; margin:auto; width:100%;max-width:960px">
+<img class="mySlides" src="assets/images/tensegrity.png" style="display:block; margin:auto; width:100%;max-width:960px"> -->
 
 ### Selected Papers
 
@@ -100,7 +100,7 @@ Our lab has expertise in designing custom aerial platforms for various needs. Ou
 
 ## Uncertainty Quantification in Hypersonic Flight
 
-Hypersonic flight leading to entry descent landing of a large spacecraft on the surface of Mars has been identified as a research area by NASA. The requirement is to land within a few kilometers of the robotic test sites. One of the significant concerns of high mass entry is the mismatch between entry conditions and deceleration capabilities provided by supersonic parachute technologies. In such applications, there are uncertainties present in initial conditions and other system parameters. Estimating these systems' parameters is a challenging problem because of the nonlinearities in the system and the lack of frequent measurements. The evolution of uncertainty (as shown in the figure) is non-Gaussian. In our work, we develop new algorithms for UQ, state-estimation, and guidance algorithms. The controlled descent ensures robustness with respect to system uncertainties and guarantees landing at the desired site with high accuracy. Funding Source: NASA.
+Hypersonic flight leading to entry descent landing of a large spacecraft on the surface of Mars has been identified as a research area by NASA. The requirement is to land within a few kilometers of the robotic test sites. One of the significant concerns of high mass entry is the mismatch between entry conditions and deceleration capabilities provided by supersonic parachute technologies. In such applications, there are uncertainties present in initial conditions and other system parameters. Estimating these systems' parameters is a challenging problem because of the nonlinearities in the system and the lack of frequent measurements. The evolution of uncertainty (as shown in the figure) is non-Gaussian. In our work, we develop new algorithms for UQ, state-estimation, and guidance algorithms. The controlled descent ensures robustness with respect to system uncertainties and guarantees landing at the desired site with high accuracy.
 
 <img class="mySlides" src="assets/images/edl.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
