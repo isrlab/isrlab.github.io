@@ -15,9 +15,8 @@ permalink: /members.html
   <div><a href ="https://www.linkedin.com/in/himanshu-prabhat-2a5ba82b"> Himanshu Prabhat </a><br> <year>Ph.D.</year></div>
   <div><a href ="https://www.linkedin.com/in/diego-sol-073bb1148/"> Diego Sol </a><br> <year>M.S.</year></div>
   <div><a href ="https://www.linkedin.com/in/yash-raj-sharma-874835140/"> Yash Raj Sharma </a><br> <year>Ph.D.</year></div>
-  <div><a href ="https://www.linkedin.com/in/luke-m-marshall/"> Luke Marshall </a><br> <year>UG Researcher</year></div>
-  <div><a href ="https://www.linkedin.com/in/henryweinstein/"> Henry Weinstein </a><br> <year>UG Researcher</year></div>
-  <div><a href ="https://www.linkedin.com/in/ty-buchanan/"> Ty Buchanan </a><br> <year>UG Researcher</year></div>
+  <div><a href ="https://www.linkedin.com/in/luke-m-marshall/"> Luke Marshall </a><br> <year>M.S.</year></div>
+  <div><a href ="https://www.linkedin.com/in/henryweinstein/"> Henry Weinstein </a><br> <year>M.S.</year></div>
 </div>
 
 ## Former Members
@@ -91,4 +90,6 @@ permalink: /members.html
       <div><a href="https://www.linkedin.com/in/brent-mathews-b2724017a/">Brent Mathews</a> <br> <year>2020</year></div>
       <div>Christina Erwin <br> <year>2020</year></div>
       <div><a href="https://www.linkedin.com/in/victoria-n-485311aa/">Victoria Nagorski</a> <br> <year>2020</year></div>
+      <div><a href ="https://www.linkedin.com/in/ty-buchanan/"> Ty Buchanan </a><br> <year>2021-2022</year></div>
+
     </div>
