@@ -91,5 +91,7 @@ permalink: /members.html
       <div>Christina Erwin <br> <year>2020</year></div>
       <div><a href="https://www.linkedin.com/in/victoria-n-485311aa/">Victoria Nagorski</a> <br> <year>2020</year></div>
       <div><a href ="https://www.linkedin.com/in/ty-buchanan/"> Ty Buchanan </a><br> <year>2021-2022</year></div>
+      <div><a href ="https://www.linkedin.com/in/luke-m-marshall/"> Luke Marshall </a><br> <year>2021-2022</year></div>
+  <div><a href ="https://www.linkedin.com/in/henryweinstein/"> Henry Weinstein </a><br> <year>2021-2022</year></div>
 
     </div>
