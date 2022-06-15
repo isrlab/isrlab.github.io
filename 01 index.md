@@ -8,11 +8,13 @@ permalink: /index.html
   <!-- Welcome to the Intelligent Systems Research Laboratory at Texas A&M University. We focus on information fusion and uncertainty quantification on manifolds, for estimation and control of nonlinear dynamical systems.  Below are highlights from our recent work. -->
 
 ## Certification of Autonomous Flight with Theory & Data Driven Machine Learning
-We expect Urban Air Mobility to rely more on autonomy than any other transportation sector, and consequently, it is critical to quantify their safe flight envelope accurately. Computational tools for critical analyses of the system, such as determining region-of-attraction, establishing local performance bounds, and identifying the largest uncertainty set for which robust performance is guaranteed, are necessary to establish trust in this increased autonomy. This research focuses on developing new formulations and algorithms for determining the region of attraction of uncertain nonlinear system dynamics with various gust models, establishing bounds on exogenous signal attenuations and quantifying the largest uncertainty set for which the control and estimation algorithms perform satisfactorily. These formulations incorporate simulation data (black box) and physics-derived vehicle dynamics, resulting in constrained PDEs in high dimensional space, which are solved using recent developments in scientific machine learning. 
+
+We expect Urban Air Mobility to rely more on autonomy than any other transportation sector, and consequently, it is critical to quantify their safe flight envelope accurately. Computational tools for critical analyses of the system, such as determining region-of-attraction, establishing local performance bounds, and identifying the largest uncertainty set for which robust performance is guaranteed, are necessary to establish trust in this increased autonomy. This research focuses on developing new formulations and algorithms for determining the region of attraction of uncertain nonlinear system dynamics with various gust models, establishing bounds on exogenous signal attenuations and quantifying the largest uncertainty set for which the control and estimation algorithms perform satisfactorily. These formulations incorporate simulation data (black box) and physics-derived vehicle dynamics, resulting in constrained PDEs in high dimensional space, which are solved using recent developments in scientific machine learning.
 
 <img class="mySlides" src="assets/images/sciml_vnv.png" style="display:block; margin:auto; width:100%;max-width:860px">
 
 ### Selected Papers
+
 1. V. Tadiparthi, R. Bhattacharya, [Estimating Invariant Sets using Physics-Informed Neural Networks](https://www.researchgate.net/publication/357558414_Estimating_Invariant_Sets_using_Physics-Informed_Neural_Networks), **AIAA SCITECH Forum**, 2022.
 1. V. Tadiparthi, R. Bhattacharya, [Data-driven Verification using Efficient Active Learning](https://www.researchgate.net/publication/357588868_Data-driven_Verification_using_Efficient_Active_Learning), **AIAA SCITECH Forum**, 2022.
 1. A. Halder, K. Lee, and R. Bhattacharya, [Optimal Transport Approach for Probabilistic Robustness Analysis of F-16 Controllers](https://arc.aiaa.org/doi/10.2514/1.G000386), **AIAA Journal of Guidance, Control, and Dynamics**, 2015.
@@ -20,22 +22,23 @@ We expect Urban Air Mobility to rely more on autonomy than any other transportat
 
 ## Sparse Architectures for Control and Estimation
 
-We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and $$\mathcal{H}_2$$ and $$\mathcal{H}_\infty$$ framework. Applications include tracking of aerospace vehicles, structural health-monitoring of wind-turbine blades, and battery thermal management. 
+We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and $$\mathcal{H}_2$$ and $$\mathcal{H}_\infty$$ framework. Applications include tracking of aerospace vehicles, structural health-monitoring of wind-turbine blades, and battery thermal management.
 
 <img class="mySlides" src="assets/images/sparse_sensing.png" style="display:block; margin:auto; width:100%;max-width:1060px">
 
 ### Selected Papers
+
   1. V. Deshpande, R. Bhattacharya, K. Subbarao, [Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems](https://arxiv.org/pdf/2105.05976.pdf), **IEEE Control Systems Letters**, 2021.
   1. V. Deshpande, R. Bhattacharya, [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
   1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: Robust $$\mathcal{H}_\infty$$ Optimal Observer Design with Model Uncertainty](https://arxiv.org/pdf/2009.01930.pdf), **American Control Conference**, 2021.
   1. N. Das, R. Bhattacharya, [Privacy and Utility Aware Data Sharing for Space Situational Awareness from Ensemble and Unscented Kalman Filtering Perspective](https://arxiv.org/pdf/1912.03775.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2020.
   1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: An Integrated Framework for  $$\mathcal{H}_2/\mathcal{H}_\infty$$ Optimal Observer Design with Bounded Errors](https://arxiv.org/pdf/2003.10887.pdf), **IEEE Control System Letters**, 2020.
   1. N. Das, R. Bhattacharya, [Utility and Privacy in Object Tracking from Video Stream using Kalman Filter](https://arxiv.org/pdf/2006.08098.pdf), **Fusion**, 2020.
-  1.  N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
+  1. N. Das, R. Bhattacharya, [Optimal Sensing Precision in Ensemble and Unscented Kalman Filtering](https://arxiv.org/pdf/2003.06003.pdf), **IFAC World Congress**, 2020.
 
-## Information Fusion on Manifolds for Space Situational Awareness
+## Space Domain Awareness
 
-Space situational awareness is concerned with tracking space objects and classifying them with respect to specific characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non-Gaussian uncertainty supported on cylindrical coordinate systems $$\mathbb{R}^5\times\mathbb{S}$$, sparse sensing, and unknown sensor characteristics. These algorithms are used for conjunction analysis, which predicts upcoming object encounters to notify satellite operators and avoid high-risk encounters. 
+Space domain awareness is concerned with tracking space objects and classifying them with respect to specific characteristics. In this research, we are developing novel algorithms for uncertainty propagation and state estimation. Challenges include non-Gaussian uncertainty supported on cylindrical coordinate systems $$\mathbb{R}^5\times\mathbb{S}$$, sparse sensing, and unknown sensor characteristics. These algorithms are used for conjunction analysis, which predicts upcoming object encounters to notify satellite operators and avoid high-risk encounters.
 
 <img class="mySlides" src="assets/images/ssa.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
@@ -46,23 +49,23 @@ Space situational awareness is concerned with tracking space objects and classif
 1. N. Das, R. Bhattacharya, Sparse Sensing Architecture for Kalman Filtering with Guaranteed Error Bound, **1st IAA Conference on Space Situational Awareness (ICSSA)**, Orlando, FL, USA, 2017.
 1. N. Das, R. P. Ghosh, N. Guha, R. Bhattacharya, B. K. Mallick, [Optimal Transport Based Tracking of Space Objects in Cylindrical Manifolds](https://www.researchgate.net/publication/319357580_Optimal_Transport_Based_Tracking_of_Space_Objects_in_Cylindrical_Manifolds), **The Journal of Astronautical Sciences**, 2019.
 
-## Asynchronous Numerical Algorithms for Computational Mechanics and Optimization
+## Systems Theory of Numerical Algorithms for Computational Mechanics and Optimization
 
-Future exascale machines are expected to have $$10^5-10^6$$ processors, providing a deep hierarchy of systems and resources. However, many challenges exist, which must be overcome before exascale systems can be utilized as a useful tool to further understanding critical scientific inquires. Among the main obstacles to scaling code to exascale levels is the communication necessary in tightly coupled problems, such as in **uncertainty propagation, turbulence flow simulations at high Reynolds numbers, and large-scale convex optimization**. The synchronization across processors can cause 50-80% processor idle time. Our research focuses on asynchronous numerical algorithms that do not wait for data to be synchronized. Communication between processors is modeled as a stochastic channel, and the behavior of the numerical algorithm is analyzed in a stochastic jump dynamical system framework.
+Future exascale machines are expected to have $$10^5-10^6$$ processors, providing a deep hierarchy of systems and resources. However, many challenges exist, which must be overcome before exascale systems can be utilized as a useful tool to further understanding critical scientific inquires. Among the main obstacles to scaling code to exascale levels is the communication necessary in tightly coupled problems, such as in **uncertainty propagation, turbulence flow simulations at high Reynolds numbers, and large-scale convex optimization**. The synchronization across processors can cause 50-80% processor idle time. Our research focuses on applying systems theory to asynchronous numerical algorithms that do not wait for data to be synchronized. Communication between processors is modeled as a stochastic channel, and the behavior of the numerical algorithm is analyzed in a stochastic jump dynamical system framework. In addition, we present a new systems theory for finite-difference schemes that guarantee a given spectral error, a given approximation order, and numerical stability for a given linear PDE. The formulation treats the coefficients in a finite-difference formulation as *control gains* and the finite-difference scheme is synthesized as a controller for a linear dynamical system.
 
 <img class="mySlides" src="assets/images/async.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
 ### Selected Papers
 
 1. V. Deshpande, R. Bhattacharya, D. Donzis [A Unified Framework to Generate Optimized Compact Finite Difference Schemes](https://arxiv.org/pdf/1912.07382.pdf), **Journal of Computational Physics**, 2021.
-1. K. Kumari, R. Bhattacharya, D. Donzis, [ A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
+1. K. Kumari, R. Bhattacharya, D. Donzis, [A Unified Approach for Deriving Optimal Finite Differences](https://authors.elsevier.com/a/1ZodA_W0q~1ic), **Journal of Computational Physics**, 2019.
 1. K. Lee, R. Bhattacharya, J. Dass, V. Sakuru, and R. Mahapatra, [A Relaxed Synchronization Approach for Solving Parallel Quadratic Programming Problems with Guaranteed Convergence](https://ieeexplore.ieee.org/document/7516014/), **IPDPS**, Chicago,2016.
 1. K. Lee and R. Bhattacharya, [On the Relaxed Synchronization for Massively Parallel Numerical Algorithms](https://www.researchgate.net/publication/301650726_On_the_Relaxed_Synchronization_for_Massively_Parallel_Numerical_Algorithms), **American Control Conference**, 2016.
 1. K. Lee, R. Bhattacharya, and V. Gupta, [A Switched Dynamical System Framework for Analysis of Massively Parallel Asynchronous Numerical Algorithms](https://www.researchgate.net/publication/273640349_A_Switched_Dynamical_System_Framework_for_Analysis_of_Massively_Parallel_Asynchronous_Numerical_Algorithms), **ACC**, 2015.
 
 ## Uncertainty Management in Cyber Physical Systems
 
-Cyber-physical systems have strong coupling between physics, communication, and computation. In our research, we develop algorithms for quantifying uncertainty in system behavior due to uncertainties in the physics (unmodeled dynamics, process and sensor noise), communication (irregular channels, packet loss, etc.), computation (jitter in real-time tasks, CPU transients, etc.). The system-level behavior is modeled as a stochastic jump system, and new uncertainty propagation algorithms for such jump systems are developed. New stochastic scheduling algorithms have been developed that switch between computational tasks to ensure system-level robustness. 
+Cyber-physical systems have strong coupling between physics, communication, and computation. In our research, we develop algorithms for quantifying uncertainty in system behavior due to uncertainties in the physics (unmodeled dynamics, process and sensor noise), communication (irregular channels, packet loss, etc.), computation (jitter in real-time tasks, CPU transients, etc.). The system-level behavior is modeled as a stochastic jump system, and new uncertainty propagation algorithms for such jump systems are developed. New stochastic scheduling algorithms have been developed that switch between computational tasks to ensure system-level robustness.
 
 <img class="mySlides" src="assets/images/cps.png" style="display:block; margin:auto; width:100%;max-width:960px">
 
