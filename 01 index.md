@@ -81,12 +81,13 @@ Cyber-physical systems have strong coupling between physics, communication, and 
 <!-- ## Modeling & Control of Tensegrity Systems
 A tensegrity system is an arrangement of axially-loaded elements (no element bends, even though the overall structure bends) that we loosely characterize as a network of bars and cables. The bars take the compressive axial load, and the cables take the tensile load. Tensegrity structures can be designed to be extremely light for a given stiffness. In our research, we focus on efficient multi-body modeling and nonlinear control of tensegrity systems. Applications considered include dexterous robotics, all-terrain ground robots, and biological systems. Funding Source: NSF and NASA.
 
-<img class="mySlides" src="assets/images/tensegrity.png" style="display:block; margin:auto; width:100%;max-width:960px"> -->
+<img class="mySlides" src="assets/images/tensegrity.png" style="display:block; margin:auto; width:100%;max-width:960px"> 
 
 ### Selected Papers
 
 1. S. C. Hsu, V. Tadiparthi, R. Bhattacharya, [A Lagrangian Method for Constrained Dynamics in Tensegrity Systems with Compressible Bars](https://rdcu.be/b7jyY), **Journal of Computational Mechanics**, 2020.
 1. V. Tadiparthi, S. C. Hsu, R. Bhattacharya, [Software for Tensegrity Dynamics](http://joss.theoj.org/papers/10.21105/joss.01042#), **The Journal of Open Source Software**, 2019.
+-->
 
 ## Robust Flight Control Design
 
