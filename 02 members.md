@@ -10,7 +10,6 @@ permalink: /members.html
 
 ## Current Members
 <div class="former_students">
-  <div><a href ="https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923"> Vaishnav Tadiparthi </a><br> <year>Ph.D.</year></div>
   <div><a href ="https://www.linkedin.com/in/himanshu-prabhat-2a5ba82b"> Himanshu Prabhat </a><br> <year>Ph.D.</year></div>
   <div><a href ="https://www.linkedin.com/in/diego-sol-073bb1148/"> Diego Sol </a><br> <year>M.S.</year></div>
   <div><a href ="https://www.linkedin.com/in/yash-raj-sharma-874835140/"> Yash Raj Sharma </a><br> <year>Ph.D.</year></div>
@@ -31,6 +30,7 @@ permalink: /members.html
   <div><a href="https://www.linkedin.com/in/sunsoo-kim-1222a511b">Sunsoo Kim</a> <br> <year>2020</year></div>
   <div><a href="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <year>2020</year></div>
     <div><a href ="https://vedang.page"> Vedang Deshpande </a> <br> <year>2022</year></div>
+    <div><a href ="https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923"> Vaishnav Tadiparthi </a><br> <year>2022</year></div>
 </div>
 
 ### M.S.
