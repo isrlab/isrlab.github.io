@@ -55,21 +55,6 @@ permalink: /members.html
 <div><a href ="http://linkedin.com/in/dipanjan-saha-37b53829"> Dipanjan Saha </a> <br> <year>2020</year></div>
 </div>
 
-<!---
-### M.E.
-<div class="former_students">
-<div><a href="https://www.linkedin.com/in/abhishekbathla"> Abhishek Bathla </a><br> <year> 2007</year></div>
-<div><a href="https://www.linkedin.com/in/vbramesh"> Ramesh V. B. </a> <br> <year> 2008</year></div>
-<div><a href="https://www.linkedin.com/in/sumit-pokhrel-a60a7a66">Sumit Pokhrel</a><br> <year> 2015</year></div>
-<div><a href="https://www.linkedin.com/in/brandon-simmons-928637b2">Brandon Simmons</a> <br> <year> 2015</year></div>
-<div><a href="https://www.linkedin.com/in/pauldedward">Paul Edward </a> <br> <year>2015</year></div>
-<div><a href="https://www.linkedin.com/in/ryan-falcona-952316146/">Ryan Falcona</a> <br> <year> 2017</year></div>
-<div><a href="https://www.linkedin.com/in/noah-lawrence-abab34171">Noah Lawrence</a> <br> <year> 2018</year></div>
-<div><a href="https://www.linkedin.com/in/akshay-hiregoudar/">Akshay Hiregoudar</a> <br> <year> 2020</year></div>
-<div><a href ="https://www.linkedin.com/in/diego-sol-073bb1148/"> Diego Sol </a><br> <year>2023</year></div> 
-</div>
---->
-
 ### Undergraduate
 <div class="former_students">
       <div><a href="https://www.linkedin.com/in/luisfcalixto/">Luis Calixto</a> <br> <year> </year></div>
