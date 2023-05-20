@@ -6,7 +6,7 @@ permalink: /publications.html
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 
-1. V. Deshpande, R. Bhattacharya, [Guaranteed Robust Performance of $\mathcal{H}_{\infty} $ Filters With Sparse and Low Precision Sensing](https://ieeexplore.ieee.org/document/10124983), **IEEE Transactions on Automatic Control**, 2023.
+1. V. Deshpande, R. Bhattacharya, [Guaranteed Robust Performance of $$\mathcal{H}_{\infty}$$ Filters With Sparse and Low Precision Sensing](https://ieeexplore.ieee.org/document/10124983), **IEEE Transactions on Automatic Control**, 2023.
 
 1. V. Tadiparthi, R. Bhattacharya, [Estimating Invariant Sets using Physics-Informed Neural Networks](https://www.researchgate.net/publication/357558414_Estimating_Invariant_Sets_using_Physics-Informed_Neural_Networks), **AIAA SCITECH Forum**, 2022.
 
