@@ -28,6 +28,7 @@ We are interested in determining sparse architectures for control and estimation
 
 ### Selected Papers
 
+  1. V. Deshpande, R. Bhattacharya, [Guaranteed Robust Performance of $\mathcal{H}_{\infty} $ Filters With Sparse and Low Precision Sensing](https://ieeexplore.ieee.org/document/10124983), **IEEE Transactions on Automatic Control**, 2023.
   1. V. Deshpande, R. Bhattacharya, K. Subbarao, [Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems](https://arxiv.org/pdf/2105.05976.pdf), **IEEE Control Systems Letters**, 2021.
   1. V. Deshpande, R. Bhattacharya, [Sparse Sensing Architectures with Optimal Precision for Tracking Multi-Agent Systems in Sensing-Denied Environments](https://arxiv.org/pdf/2103.00739.pdf), **American Control Conference**, 2021.
   1. V. Deshpande, R. Bhattacharya, [Sparse Sensing and Optimal Precision: Robust $$\mathcal{H}_\infty$$ Optimal Observer Design with Model Uncertainty](https://arxiv.org/pdf/2009.01930.pdf), **American Control Conference**, 2021.
