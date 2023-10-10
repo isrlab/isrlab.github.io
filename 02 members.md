@@ -14,6 +14,7 @@ permalink: /members.html
   <div><a href ="https://www.linkedin.com/in/yash-raj-sharma-874835140/"> Yash Raj Sharma </a><br> <year>Ph.D.</year></div>
   <div><a href ="https://www.linkedin.com/in/luke-m-marshall/"> Luke Marshall </a><br> <year>M.S.</year></div>
   <div><a href ="https://www.linkedin.com/in/henryweinstein/"> Henry Weinstein </a><br> <year>M.S.</year></div>
+  <div><a href ="https://www.linkedin.com/in/patrick-cramer-7060a31b8/"> Patrick Cramer </a><br> <year>UG Researcher</year></div>
 </div>
 
 ## Former Members
