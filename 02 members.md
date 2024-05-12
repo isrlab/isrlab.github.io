@@ -11,11 +11,7 @@ permalink: /members.html
 ## Current Members
 <div class="former_students">
   <div><a href ="https://www.linkedin.com/in/himanshu-prabhat-2a5ba82b"> Himanshu Prabhat </a><br> <year>Ph.D.</year></div>
-  <div><a href ="https://www.linkedin.com/in/luke-m-marshall/"> Luke Marshall </a><br> <year>M.S.</year></div>
-  <div><a href ="https://www.linkedin.com/in/henryweinstein/"> Henry Weinstein </a><br> <year>M.S.</year></div>
-      <div><a href ="https://www.linkedin.com/in/nicholas-siodlarz-a79901204"> Nicholas Siodlarz </a><br> <year>UG Researcher</year></div>
-  <div><a href ="https://www.linkedin.com/in/patrick-cramer-7060a31b8/"> Patrick Cramer </a><br> <year>UG Researcher</year></div>
-    <div><a href ="https://www.linkedin.com/in/eliot-nychka/"> Eliot Nychka </a><br> <year>Ph.D.</year></div>
+  <div><a href ="https://www.linkedin.com/in/eliot-nychka/"> Eliot Nychka </a><br> <year>Ph.D.</year></div>
 </div>
 
 ## Former Members
@@ -47,6 +43,8 @@ permalink: /members.html
      <div><a href = "https://in.linkedin.com/in/radhika-saraf-93232498">Radhika Saraf</a> <br> <year>2017</year></div>
     <div><a href = "https://www.linkedin.com/in/jwkim8804">Jaewon Kim</a><br> <year>2017</year></div>
     <div><a href = "https://www.linkedin.com/in/aritrabiswas">Aritra Biswas</a><br> <year>2017</year></div>
+      <div><a href ="https://www.linkedin.com/in/luke-m-marshall/"> Luke Marshall </a><br> <year>2024</year></div>
+  <div><a href ="https://www.linkedin.com/in/henryweinstein/"> Henry Weinstein </a><br> <year>2024</year></div>
 </div>
 
 ### Post-Doc
@@ -81,4 +79,6 @@ permalink: /members.html
       <div><a href ="https://www.linkedin.com/in/ty-buchanan/"> Ty Buchanan </a><br> <year>2021-2022</year></div>
       <div><a href ="https://www.linkedin.com/in/luke-m-marshall/"> Luke Marshall </a><br> <year>2021-2022</year></div>
   <div><a href ="https://www.linkedin.com/in/henryweinstein/"> Henry Weinstein </a><br> <year>2021-2022</year></div>
+  <div><a href ="https://www.linkedin.com/in/nicholas-siodlarz-a79901204"> Nicholas Siodlarz </a><br> <year>2022-2024</year></div>
+  <div><a href ="https://www.linkedin.com/in/patrick-cramer-7060a31b8/"> Patrick Cramer </a><br> <year>2023-2024</year></div>
     </div>
