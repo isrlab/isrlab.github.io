@@ -10,8 +10,12 @@ permalink: /members.html
 
 ## Current Members
 <div class="former_students">
-  <div><a href ="https://www.linkedin.com/in/himanshu-prabhat-2a5ba82b"> Himanshu Prabhat </a><br> <year>Ph.D.</year></div>
-  <div><a href ="https://www.linkedin.com/in/eliot-nychka/"> Eliot Nychka </a><br> <year>Ph.D.</year></div>
+  <div><a href ="https://www.linkedin.com/in/himanshu-prabhat-2a5ba82b"> Himanshu Prabhat </a><br> <year></year></div>
+  <div><a href ="https://www.linkedin.com/in/eliot-nychka/"> Eliot Nychka </a><br> <year></year></div>
+  <div><a href ="https://www.linkedin.com/in/osvaldo-cortes-b74207270/"> Osvaldo Cortes </a><br> <year></year></div>
+  <div><a href ="https://www.linkedin.com/in/tanay-kumar-46485a175/"> Tanay Kumar </a><br> <year></year></div>
+  <div><a href ="https://www.linkedin.com/in/dylan-tysinger/"> Dylan Tysinger </a><br> <year></year></div>
+  <div><a href ="https://www.linkedin.com/in/george-mersiowsky-7285a9157/"> George Mersiowsky </a><br> <year></year></div>
 </div>
 
 ## Former Members
