@@ -6,7 +6,7 @@ permalink: /publications.html
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 
-1. H. Das, E. Nychka, R. Bhattacharya [Quantifying Maximum Actuator Degradation for a Given $$\mathcal{H}_2/\mathcal{H}_infty$$ Performance with Full-State Feedback Control](https://arxiv.org/abs/2403.01333), **IEEE Conference on Decision and Control**, 2024.
+1. H. Das, E. Nychka, R. Bhattacharya [Quantifying Maximum Actuator Degradation for a Given $$\mathcal{H}_2/\mathcal{H}_\infty$$ Performance with Full-State Feedback Control](https://arxiv.org/abs/2403.01333), **IEEE Conference on Decision and Control**, 2024.
 
 1. H. Prabhat, R. Bhattacharya, [Optimal State Estimation in the Presence of Non-Gaussian Uncertainty via Wasserstein Distance Minimization](https://arxiv.org/pdf/2403.13828), **IEEE American Control Conference**, 2024.
 
