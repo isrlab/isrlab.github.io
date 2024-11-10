@@ -10,7 +10,6 @@ permalink: /members.html
 
 ## Current Members
 <div class="former_students">
-  <div><a href ="https://www.linkedin.com/in/himanshu-prabhat-2a5ba82b"> Himanshu Prabhat </a><br> <year></year></div>
   <div><a href ="https://www.linkedin.com/in/eliot-nychka/"> Eliot Nychka </a><br> <year></year></div>
   <div><a href ="https://www.linkedin.com/in/osvaldo-cortes-b74207270/"> Osvaldo Cortes </a><br> <year></year></div>
   <div><a href ="https://www.linkedin.com/in/tanay-kumar-46485a175/"> Tanay Kumar </a><br> <year></year></div>
@@ -28,10 +27,11 @@ permalink: /members.html
   <div><a href = "https://www.abhishekhalder.org">Abhishek Halder </a> <br> <year>2014</year></div>
   <div><a href ="https://sites.google.com/view/kooktaelee"> Kooktae Lee </a> <br> <year>2015</year> </div>
   <div><a href ="https://www.linkedin.com/in/shaochenhsu"> Shao-Chen Hsu </a> <br> <year>2019</year></div>
-  <div><a href="https://www.linkedin.com/in/sunsoo-kim-1222a511b">Sunsoo Kim</a> <br> <year>2020</year></div>
-  <div><a href="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <year>2020</year></div>
-    <div><a href ="https://vedang.page"> Vedang Deshpande </a> <br> <year>2022</year></div>
-    <div><a href ="https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923"> Vaishnav Tadiparthi </a><br> <year>2022</year></div>
+  <div><a href ="https://www.linkedin.com/in/sunsoo-kim-1222a511b">Sunsoo Kim</a> <br> <year>2020</year></div>
+  <div><a href ="https://www.linkedin.com/in/niladri-das">Niladri Das</a> <br> <year>2020</year></div>
+  <div><a href ="https://www.linkedin.com/in/vedang-deshpande/"> Vedang Deshpande </a> <br> <year>2022</year></div>
+  <div><a href ="https://www.linkedin.com/in/vaishnav-tadiparthi-0453b923"> Vaishnav Tadiparthi </a><br> <year>2022</year></div>
+  <div><a href ="https://www.linkedin.com/in/himanshu-prabhat-2a5ba82b"> Himanshu Prabhat </a><br> <year>2024</year></div>
 </div>
 
 ### M.S.
