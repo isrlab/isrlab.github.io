@@ -6,11 +6,19 @@ permalink: /publications.html
 
 [**Google Scholar**](http://scholar.google.com/citations?user=2LF_sqEAAAAJ),  [**arXiv**](https://arxiv.org/search/?query=raktim+bhattacharya&searchtype=all&source=header)
 
+1. J. Aloor, B. Gurung, G. Wadhwa, M. Singh, R. Bhattacharya, S. Saha, Investigation of Flight Conditions Where Box-Wing Outperforms Mono-Wing Configurations for Small UAVs, **AIAA SciTech**, 2025.
+
+1. H. Das, E. Nychka, R. Bhattacharya, [Quantifying Maximum Actuator Degradation for a Given $$\mathcal{H}_2/\mathcal{H}_\infty$$ Performance with Full-State Feedback Control](https://arxiv.org/abs/2403.01333), **IEEE Conference on Decision and Control**, 2024.
+
+1. H. Prabhat, R. Bhattacharya, [Optimal State Estimation in the Presence of Non-Gaussian Uncertainty via Wasserstein Distance Minimization](https://arxiv.org/pdf/2403.13828), **IEEE American Control Conference**, 2024.
+
+1. T. Kumar, M. Kothari, R. Bhattacharya [$$\mathcal{H}_\infty$$ Robust Control of a Quadrotor Biplane Tailsitter UAV](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0318), **AIAA SciTech**, 2024.
+
 1. V. Deshpande, R. Bhattacharya, [Guaranteed Robust Performance of $$\mathcal{H}_{\infty}$$ Filters With Sparse and Low Precision Sensing](https://ieeexplore.ieee.org/document/10124983), **IEEE Transactions on Automatic Control**, 2023.
 
-1. V. Tadiparthi, R. Bhattacharya, [Estimating Invariant Sets using Physics-Informed Neural Networks](https://www.researchgate.net/publication/357558414_Estimating_Invariant_Sets_using_Physics-Informed_Neural_Networks), **AIAA SCITECH Forum**, 2022.
+1. V. Tadiparthi, R. Bhattacharya, [Estimating Invariant Sets using Physics-Informed Neural Networks](https://www.researchgate.net/publication/357558414_Estimating_Invariant_Sets_using_Physics-Informed_Neural_Networks), **AIAA SciTech Forum**, 2022.
 
-1. V. Tadiparthi, R. Bhattacharya, [Data-driven Verification using Efficient Active Learning](https://www.researchgate.net/publication/357588868_Data-driven_Verification_using_Efficient_Active_Learning), **AIAA SCITECH Forum**, 2022.
+1. V. Tadiparthi, R. Bhattacharya, [Data-driven Verification using Efficient Active Learning](https://www.researchgate.net/publication/357588868_Data-driven_Verification_using_Efficient_Active_Learning), **AIAA SciTech Forum**, 2022.
 
 1. N. Das, R. Bhattacharya, [Optimal Sensor Precision for Multi-Rate Sensing for Bounded Estimation Error](https://arxiv.org/pdf/2106.06906.pdf), **IEEE Transactions in Aerospace and Electronic Systems**, 2021. 
 
