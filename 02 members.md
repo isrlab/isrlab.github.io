@@ -13,8 +13,6 @@ permalink: /members.html
   <div><a href ="https://www.linkedin.com/in/eliot-nychka/"> Eliot Nychka </a><br> <year></year></div>
   <div><a href ="https://www.linkedin.com/in/osvaldo-cortes-b74207270/"> Osvaldo Cortes </a><br> <year></year></div>
   <div><a href ="https://www.linkedin.com/in/tanay-kumar-46485a175/"> Tanay Kumar </a><br> <year></year></div>
-  <div><a href ="https://www.linkedin.com/in/dylan-tysinger/"> Dylan Tysinger </a><br> <year></year></div>
-  <div><a href ="https://www.linkedin.com/in/george-mersiowsky-7285a9157/"> George Mersiowsky </a><br> <year></year></div>
 </div>
 
 ## Former Members
@@ -85,4 +83,6 @@ permalink: /members.html
   <div><a href ="https://www.linkedin.com/in/henryweinstein/"> Henry Weinstein </a><br> <year>2021-2022</year></div>
   <div><a href ="https://www.linkedin.com/in/nicholas-siodlarz-a79901204"> Nicholas Siodlarz </a><br> <year>2022-2024</year></div>
   <div><a href ="https://www.linkedin.com/in/patrick-cramer-7060a31b8/"> Patrick Cramer </a><br> <year>2023-2024</year></div>
+    <div><a href ="https://www.linkedin.com/in/dylan-tysinger/"> Dylan Tysinger </a><br> <year>2024</year></div>
+  <div><a href ="https://www.linkedin.com/in/george-mersiowsky-7285a9157/"> George Mersiowsky </a><br> <year>2024</year></div>
     </div>
