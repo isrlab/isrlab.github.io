@@ -23,19 +23,7 @@ We expect Urban Air Mobility to rely more on autonomy than any other transportat
 
 ## Sparse Architectures for Control and Estimation
 
-We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and
-
-$$
-\mathcal{H}_2
-$$
-
-and
-
-$$
-\mathcal{H}_\infty
-$$
-
-framework. Applications include tracking of aerospace vehicles, structural health-monitoring of wind-turbine blades, and battery thermal management.
+We are interested in determining sparse architectures for control and estimation for large-scale dynamical systems in this work. For large-scale systems it is nontrivial to determine location and precision of sensors and actuators to achieve the desired closed-loop system performance. We also consider the tradeoff between utility and privacy in these problems. These problems are considered in the Kalman filtering framework  including ensemble and unscented variants, and $\mathcal{H}_2$ and $\mathcal{H}_\infty$ framework. Applications include tracking of aerospace vehicles, structural health-monitoring of wind-turbine blades, and battery thermal management.
 
 <img class="mySlides" src="assets/images/sparse_sensing.png" style="display:block; margin:auto; width:100%;max-width:1060px">
 
