@@ -1,0 +1,18 @@
+/* css styles */
+
+figcaption {
+  /* font-size:small; */
+  text-align: center;
+  color: rgb(70, 70, 70);
+}
+
+figure {
+  border: 0px solid rgba(128, 0, 0, 0.306);
+  padding: 0px;
+  box-shadow: 0px 0px 0px rgb(128, 0, 0, 0.306);
+}
+
+body {
+  /* font-family: "HelveticaNeue-Light", sans-serif; */
+  font-size: 12pt;
+}
