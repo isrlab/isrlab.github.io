@@ -16,3 +16,11 @@ body {
   /* font-family: "HelveticaNeue-Light", sans-serif; */
   font-size: 12pt;
 }
+/* Keep faculty and student portraits the same size and shape. */
+img.member-portrait {
+  width: min(210px, 18vw);
+  height: auto;
+  aspect-ratio: 7 / 9;
+  object-fit: cover;
+  object-position: center;
+}
