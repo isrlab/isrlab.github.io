@@ -24,3 +24,15 @@ img.member-portrait {
   object-fit: cover;
   object-position: center;
 }
+
+.student-portraits {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.student-member {
+  flex: 0 0 auto;
+  width: min(210px, 18vw);
+}
