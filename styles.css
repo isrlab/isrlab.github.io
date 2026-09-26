@@ -17,9 +17,13 @@ body {
   font-size: 12pt;
 }
 /* Keep faculty and student portraits the same size and shape. */
+.members-layout {
+  container-type: inline-size;
+}
+
 img.member-portrait {
-  width: min(210px, 18vw);
-  height: min(270px, 23.142857vw);
+  width: min(210px, 22cqw);
+  height: min(270px, 28.285714cqw);
   max-width: none;
   object-fit: cover;
   object-position: center;
@@ -27,12 +31,12 @@ img.member-portrait {
 
 .student-portraits {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
+  flex-wrap: nowrap;
+  gap: 0.75rem;
   align-items: flex-start;
 }
 
 .student-member {
   flex: 0 0 auto;
-  width: min(210px, 18vw);
+  width: min(210px, 22cqw);
 }
