@@ -19,8 +19,8 @@ body {
 /* Keep faculty and student portraits the same size and shape. */
 img.member-portrait {
   width: min(210px, 18vw);
-  height: auto;
-  aspect-ratio: 7 / 9;
+  height: min(270px, 23.142857vw);
+  max-width: none;
   object-fit: cover;
   object-position: center;
 }
