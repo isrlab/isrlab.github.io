@@ -1,0 +1,1 @@
+import"./figures.DrssxcGc.js";if(matchMedia(`(prefers-reduced-motion: reduce)`).matches){let e=document.querySelector(`.hero-art`);e&&(e.setCurrentTime(10),e.pauseAnimations())}
